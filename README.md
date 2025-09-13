@@ -53,5 +53,28 @@ ArchiveDiff-LLM/
 ```
 
 
+---
+
+## Installation
+
+Clone this repository:
+
+```
+python -m venv .venv
+source .venv/bin/activate    # On Linux/Mac
+.venv\Scripts\activate       # On Windows
+
+pip install -r requirements.txt
+
+```
+## Usage
+
+1. **Retrieve mementos** (Wayback CDX + extraction):
+   ```bash
+   python -m memento_retriever.py
+   python -m analysis_all_LLM.py
+   python count_mementos.py
+   python -m compute_metrics.py
+   python create_metrics.py
 
 

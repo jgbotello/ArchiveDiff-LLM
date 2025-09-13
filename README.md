@@ -8,22 +8,21 @@ This repository contains the code and data accompanying the paper:
 
 ---
 
-## 📑 Overview
+## Overview
 
 ArchiveDiff-LLM is a pipeline that leverages Large Language Models (LLMs) to automatically detect and assess important changes across archived versions (*mementos*) of web pages.  
 Unlike traditional diff approaches, which operate at the character or token level, ArchiveDiff-LLM integrates:
 
-- **Sentence-level alignment**
-- **Lexical, syntactic, and semantic comparison**
-- **LLM-based classification of importance**
+- **Extraction of text in mementos from the Wayback Machine**
+- **LLM-based classification of importance of content changes**
 
 This repository provides:
 - Dataset of archived news articles (CDX and extracted text)
-- Code for memento retrieval, alignment, and LLM analysis
-- Outputs of the experiments
+- Code for memento retrieval, LLM analysis, metrics, and creation of charts
+- Outputs of the experiment
 - An interactive HTML viewer for exploring results
-
+  
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 

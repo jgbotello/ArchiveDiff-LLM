@@ -1,0 +1,286 @@
+{
+  "pair_index": 1,
+  "n_sentences_old": 5,
+  "n_sentences_new": 7,
+  "metadata_old": {
+    "warc-date": "2012-12-14T18:13:58Z",
+    "warc-record-id": "<urn:uuid:62b6fe81-9c26-41b8-9358-0fa5506bcd0d>",
+    "warc-block-digest": "sha1:2d1855389f517a0764f78c56598e96f5900e9a6c",
+    "warc-target-uri": "https://web.archive.org/web/20121214181358/https://www.nytimes.com/2012/12/15/nyregion/shooting-reported-at-connecticut-elementary-school.html",
+    "content-length": 1845,
+    "url-hash": "7baa76b99f814d05ef1078a13260652c"
+  },
+  "metadata_new": {
+    "warc-date": "2012-12-15T03:21:53Z",
+    "warc-record-id": "<urn:uuid:97476877-3f0e-4fd8-ad9d-b3d146f31532>",
+    "warc-block-digest": "sha1:331918ad5e78a0dd4cfb3769d897354a4f67f476",
+    "warc-target-uri": "https://web.archive.org/web/20121215032153/https://www.nytimes.com/2012/12/15/nyregion/shooting-reported-at-connecticut-elementary-school.html",
+    "content-length": 4119,
+    "url-hash": "4a62c6fe919df8fd10aa601187ee2b1b"
+  },
+  "items": [
+    {
+      "type": "delete",
+      "sentences": {
+        "M1": "Multiple fatalities have been reported at a shooting at an elementary school in Newtown, Conn., about 65 miles northeast of New York City. One law enforcement offcial said preliminary reports suggested there could be as many as 20 fatalities.",
+        "M2": null
+      },
+      "assessment": {
+        "textual differences": "yes (deletion)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "Neutral",
+        "sentiment after": "Very Negative",
+        "sentiment change direction": "more negative",
+        "overall importance of the change": "Important - The deletion of the initial report of fatalities changes the understanding of the severity of the incident.",
+        "importance category": "major wording",
+        "importance reason": "The initial report provided a preliminary understanding of the situation, which is critical for context.",
+        "literature rationale": "In journalism, the accuracy and timeliness of information are paramount. Deleting key details can significantly alter the narrative and public perception.",
+        "version diff summary": "The initial report of multiple fatalities was deleted in M2.",
+        "overall assessment": "The deletion of the initial report of fatalities significantly alters the narrative, moving from a neutral tone to a very negative one, indicating a more severe situation. This change is important as it affects the reader's understanding of the incident's gravity."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "A 20-year-old man wearing combat gear and armed with semiautomatic pistols and a semiautomatic rifle killed 26 people — 20 of them children — in an attack in an elementary school in central Connecticut on Friday."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [
+          "PERSON",
+          "ORG"
+        ],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "high",
+        "sentiment before": "Neutral",
+        "sentiment after": "Very Negative",
+        "sentiment change direction": "more negative",
+        "overall importance of the change": "Important - The addition of specific details about the shooter and the number of victims provides a clearer picture of the tragedy.",
+        "importance category": "named-entity change",
+        "importance reason": "The introduction of the shooter's identity and the number of victims significantly impacts the narrative and public understanding.",
+        "literature rationale": "In news reporting, the identification of individuals involved in a tragedy and the specifics of the event are crucial for audience comprehension and emotional engagement.",
+        "version diff summary": "M2 introduces specific details about the shooter and the number of victims.",
+        "overall assessment": "The addition of details about the shooter and the victims transforms the narrative from a general report to a specific account of a tragic event, significantly increasing the emotional weight and severity of the situation."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The school, located among wooded hills and suburban tracts in Fairfield County, 12 miles east of Danbury, serves kindergarten through fourth grade.",
+        "M2": "Hundreds of terrified parents arrived as their sobbing children were led out of the Sandy Hook Elementary School in a wooded corner of Newtown, Conn."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [
+          "GPE"
+        ],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "Neutral",
+        "sentiment after": "Very Negative",
+        "sentiment change direction": "more negative",
+        "overall importance of the change": "Not important - The sentences provide context but do not alter the core facts.",
+        "importance category": "contextual detail",
+        "importance reason": "While the context is important, it does not change the fundamental understanding of the event.",
+        "literature rationale": "Contextual details in journalism help frame the narrative but do not necessarily alter the factual content of the report.",
+        "version diff summary": "Both sentences provide context about the school and the situation.",
+        "overall assessment": "The sentences match in context but differ in emotional weight, with M2 presenting a more immediate and emotional scene, reflecting a more negative sentiment."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "The gunman, identified as Adam Lanza, had committed suicide."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [
+          "NOUN"
+        ],
+        "NER category changed": [
+          "PERSON"
+        ],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "high",
+        "sentiment before": "Neutral",
+        "sentiment after": "Very Negative",
+        "sentiment change direction": "more negative",
+        "overall importance of the change": "Important - Identifying the shooter and his fate adds critical context to the narrative.",
+        "importance category": "named-entity change",
+        "importance reason": "The identification of the shooter and his suicide provides crucial information about the incident's aftermath.",
+        "literature rationale": "Identifying individuals involved in violent incidents is essential for understanding the event's context and implications, impacting public perception and discourse.",
+        "version diff summary": "M2 introduces the identity of the shooter and his suicide.",
+        "overall assessment": "The addition of the shooter's identity and his suicide significantly impacts the narrative, providing clarity and depth to the understanding of the tragedy, resulting in a more negative sentiment."
+      }
+    },
+    {
+      "type": "delete",
+      "sentences": {
+        "M1": "According to a local newspaper, The Newtown Bee, shortly after 9:30 a.m. on Friday, one child was carried from the school by a police officer, apparently seriously wounded, and other children were escorted from the school by the state police.",
+        "M2": null
+      },
+      "assessment": {
+        "textual differences": "yes (deletion)",
+        "POS category changed": [],
+        "NER category changed": [
+          "ORG"
+        ],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "Neutral",
+        "sentiment after": "Very Negative",
+        "sentiment change direction": "more negative",
+        "overall importance of the change": "Important - The deletion of this sentence removes critical details about the immediate aftermath of the shooting.",
+        "importance category": "major wording",
+        "importance reason": "This sentence provided specific information about the victims and the response, which is crucial for understanding the event's impact.",
+        "literature rationale": "In reporting, details about victims and their conditions are vital for conveying the severity of an incident and its emotional impact on the community.",
+        "version diff summary": "M1 included a detailed account of the aftermath that was deleted in M2.",
+        "overall assessment": "The deletion of the account of the child being carried from the school significantly alters the narrative, removing a poignant detail that contributes to the emotional weight of the report, resulting in a more negative sentiment."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "The rampage, coming less than two weeks before Christmas, was the nation’s second-deadliest school shooting."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [
+          "DATE"
+        ],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "high",
+        "sentiment before": "Neutral",
+        "sentiment after": "Very Negative",
+        "sentiment change direction": "more negative",
+        "overall importance of the change": "Important - This addition contextualizes the tragedy within a broader narrative of school shootings.",
+        "importance category": "temporal anchoring",
+        "importance reason": "The timing of the event relative to Christmas adds emotional weight and societal context to the tragedy.",
+        "literature rationale": "Temporal context in journalism helps frame events within societal narratives, influencing public perception and emotional response.",
+        "version diff summary": "M2 adds context about the timing of the rampage and its significance.",
+        "overall assessment": "The addition of the context regarding the timing of the rampage enhances the narrative's emotional impact, contributing to a more negative sentiment and underscoring the tragedy's significance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Gov. Dannel P. Malloy arrived at the scene of the shooting on Friday afternoon.",
+        "M2": "Law enforcement officials said Mr. Lanza had grown up in Newtown, and he was remembered by high school classmates as smart, introverted and nervous."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "Neutral",
+        "sentiment after": "Very Negative",
+        "sentiment change direction": "more negative",
+        "overall importance of the change": "Not important - Both sentences provide context but do not alter the core facts.",
+        "importance category": "contextual detail",
+        "importance reason": "While the context is important, it does not change the fundamental understanding of the event.",
+        "literature rationale": "Contextual details in journalism help frame the narrative but do not necessarily alter the factual content of the report.",
+        "version diff summary": "Both sentences provide context about the event and individuals involved.",
+        "overall assessment": "The sentences match in context but differ in emotional weight, with M2 providing a more personal reflection on the shooter, contributing to a more negative sentiment."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Some who were there said the shooting occurred during morning announcements, and the initial shots could be heard over the school’s public address system."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "moderate",
+        "sentiment before": "Neutral",
+        "sentiment after": "Very Negative",
+        "sentiment change direction": "more negative",
+        "overall importance of the change": "Important - This addition provides critical context about the timing and setting of the shooting.",
+        "importance category": "contextual detail",
+        "importance reason": "Understanding the context of the shooting enhances the emotional impact and clarity of the event.",
+        "literature rationale": "Contextual details in reporting are essential for conveying the atmosphere and immediacy of tragic events, influencing audience engagement.",
+        "version diff summary": "M2 adds details about the timing of the shooting during morning announcements.",
+        "overall assessment": "The addition of details regarding the timing of the shooting enhances the narrative's emotional weight, contributing to a more negative sentiment and providing clarity about the event's context."
+      }
+    },
+    {
+      "type": "delete",
+      "sentences": {
+        "M1": "The woman was in close vicinity to the shooting, which happened in the hallway, according to Ms. Artley.",
+        "M2": null
+      },
+      "assessment": {
+        "textual differences": "yes (deletion)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "Neutral",
+        "sentiment after": "Very Negative",
+        "sentiment change direction": "more negative",
+        "overall importance of the change": "Important - The deletion of this sentence removes critical details about the eyewitness account.",
+        "importance category": "major wording",
+        "importance reason": "This sentence provided a personal perspective on the shooting, which is crucial for understanding the emotional impact.",
+        "literature rationale": "Eyewitness accounts in journalism provide depth and personal connection to events, enhancing audience engagement and understanding.",
+        "version diff summary": "M1 included an eyewitness account that was deleted in M2.",
+        "overall assessment": "The deletion of the eyewitness account significantly alters the narrative, removing a personal and emotional perspective that contributes to the overall understanding of the tragedy, resulting in a more negative sentiment."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "In the cold light of Friday morning, faces told the story outside the stricken school."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "moderate",
+        "sentiment before": "Neutral",
+        "sentiment after": "Very Negative",
+        "sentiment change direction": "more negative",
+        "overall importance of the change": "Important - This addition provides a poignant description of the aftermath, enhancing the emotional impact.",
+        "importance category": "contextual detail",
+        "importance reason": "Descriptive language about the aftermath adds depth to the narrative and evokes emotional responses.",
+        "literature rationale": "Descriptive storytelling in journalism is essential for engaging readers and conveying the emotional weight of events, influencing public perception.",
+        "version diff summary": "M2 adds a descriptive account of the aftermath outside the school.",
+        "overall assessment": "The addition of descriptive language regarding the aftermath enhances the emotional weight of the narrative, contributing to a more negative sentiment and providing a deeper understanding of the tragedy's impact."
+      }
+    }
+  ]
+}

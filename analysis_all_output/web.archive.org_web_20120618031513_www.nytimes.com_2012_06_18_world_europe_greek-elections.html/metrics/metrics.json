@@ -1,0 +1,237 @@
+{
+  "summary": {
+    "pairs_total": 1,
+    "units_total": 54,
+    "units_m1_nonnull": 27,
+    "units_m2_nonnull": 54,
+    "units_by_type": {
+      "match": 27,
+      "insert": 27,
+      "delete": 0
+    },
+    "changed_units_by_type": {
+      "match": 0,
+      "insert": 27,
+      "delete": 0
+    },
+    "changed_units_total": 27,
+    "changes": {
+      "total_changed": 27,
+      "yes": 0,
+      "yes_addition": 27,
+      "yes_deletion": 0,
+      "no": 27,
+      "important": 20,
+      "not_important": 7,
+      "unknown_importance_among_changed": 0
+    },
+    "semantic": {
+      "low": 7,
+      "moderate": 10,
+      "high": 10
+    },
+    "llm_fields": {
+      "ner_category_changed": {
+        "PERSON": 6,
+        "ORG": 1,
+        "GPE": 0,
+        "LOC": 0,
+        "DATE": 0,
+        "MONEY": 0,
+        "PERCENT": 0
+      },
+      "sentiment_before": {
+        "NA": 27
+      },
+      "semantic_impact": {
+        "low": 7,
+        "moderate": 10,
+        "high": 10
+      },
+      "grammar_change": {
+        "yes": 0,
+        "no": 27
+      },
+      "pos_category_changed": {
+        "VERB": 0,
+        "NOUN": 0,
+        "PROPN": 0,
+        "ADJ": 0,
+        "NUM": 0,
+        "ADV": 0
+      },
+      "importance_category_freq": {
+        "visual element": 1,
+        "named-entity change": 1,
+        "policy implication": 2,
+        "none": 3,
+        "economic context": 2,
+        "political stability": 1,
+        "financial conditions": 1,
+        "analysis": 3,
+        "policy implications": 1,
+        "political opposition": 1,
+        "political urgency": 1,
+        "emotional context": 1,
+        "political context": 1,
+        "historical context": 1,
+        "voter sentiment": 3,
+        "campaign strategy": 3,
+        "personal perspective": 1
+      },
+      "verbal_changes": {
+        "tense": 0,
+        "aspect": 0,
+        "voice": 0,
+        "modality": 0
+      },
+      "sentiment_after": {
+        "NA": 1,
+        "Neutral": 26
+      },
+      "sentiment_change_direction": {
+        "no change": 27
+      },
+      "textual_differences": {
+        "no": 27,
+        "yes (addition)": 27
+      },
+      "importance_overall": {
+        "Important": 20,
+        "Not important": 7,
+        "Unknown (among changed)": 0
+      },
+      "rewritten": {
+        "true": 0,
+        "false": 27
+      },
+      "bases": {
+        "units_total": 54,
+        "changed_units_total": 27
+      }
+    }
+  },
+  "per_pair": [
+    {
+      "pair_index": 223,
+      "timestamp_old": "2014-04-06T10:17:37Z",
+      "timestamp_new": "2015-04-03T04:53:26Z",
+      "delta_hours": 8682.596944444444,
+      "units_total": 54,
+      "units_m1_nonnull": 27,
+      "units_m2_nonnull": 54,
+      "units_by_type": {
+        "match": 27,
+        "insert": 27,
+        "delete": 0
+      },
+      "changed_units_by_type": {
+        "match": 0,
+        "insert": 27,
+        "delete": 0
+      },
+      "changed_units_total": 27,
+      "changes": {
+        "total_changed": 27,
+        "yes": 0,
+        "yes_addition": 27,
+        "yes_deletion": 0,
+        "no": 27,
+        "important": 20,
+        "not_important": 7,
+        "unknown_importance_among_changed": 0
+      },
+      "semantic": {
+        "low": 7,
+        "moderate": 10,
+        "high": 10
+      },
+      "verbal_flags": {
+        "tense": 0,
+        "aspect": 0,
+        "voice": 0,
+        "modality": 0
+      },
+      "llm_fields": {
+        "textual_differences": {
+          "no": 27,
+          "yes (addition)": 27
+        },
+        "semantic_impact": {
+          "low": 7,
+          "moderate": 10,
+          "high": 10
+        },
+        "sentiment_before": {
+          "NA": 27
+        },
+        "sentiment_after": {
+          "NA": 1,
+          "Neutral": 26
+        },
+        "sentiment_change_direction": {
+          "no change": 27
+        },
+        "importance_overall": {
+          "Important": 20,
+          "Not important": 7,
+          "Unknown (among changed)": 0
+        },
+        "importance_category_freq": {
+          "visual element": 1,
+          "named-entity change": 1,
+          "policy implication": 2,
+          "none": 3,
+          "economic context": 2,
+          "political stability": 1,
+          "financial conditions": 1,
+          "analysis": 3,
+          "policy implications": 1,
+          "political opposition": 1,
+          "political urgency": 1,
+          "emotional context": 1,
+          "political context": 1,
+          "historical context": 1,
+          "voter sentiment": 3,
+          "campaign strategy": 3,
+          "personal perspective": 1
+        },
+        "pos_category_changed": {
+          "VERB": 0,
+          "NOUN": 0,
+          "PROPN": 0,
+          "ADJ": 0,
+          "NUM": 0,
+          "ADV": 0
+        },
+        "ner_category_changed": {
+          "PERSON": 6,
+          "ORG": 1,
+          "GPE": 0,
+          "LOC": 0,
+          "DATE": 0,
+          "MONEY": 0,
+          "PERCENT": 0
+        },
+        "grammar_change": {
+          "yes": 0,
+          "no": 27
+        },
+        "verbal_changes": {
+          "tense": 0,
+          "aspect": 0,
+          "voice": 0,
+          "modality": 0
+        },
+        "rewritten": {
+          "true": 0,
+          "false": 27
+        },
+        "bases": {
+          "units_total": 54,
+          "changed_units_total": 27
+        }
+      }
+    }
+  ]
+}

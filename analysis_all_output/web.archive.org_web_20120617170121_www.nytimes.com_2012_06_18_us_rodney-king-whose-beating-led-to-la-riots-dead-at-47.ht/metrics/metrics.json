@@ -1,0 +1,490 @@
+{
+  "summary": {
+    "pairs_total": 3,
+    "units_total": 102,
+    "units_m1_nonnull": 59,
+    "units_m2_nonnull": 102,
+    "units_by_type": {
+      "match": 59,
+      "insert": 43,
+      "delete": 0
+    },
+    "changed_units_by_type": {
+      "match": 17,
+      "insert": 43,
+      "delete": 0
+    },
+    "changed_units_total": 60,
+    "changes": {
+      "total_changed": 60,
+      "yes": 14,
+      "yes_addition": 43,
+      "yes_deletion": 3,
+      "no": 42,
+      "important": 49,
+      "not_important": 11,
+      "unknown_importance_among_changed": 0
+    },
+    "semantic": {
+      "low": 11,
+      "moderate": 14,
+      "high": 35
+    },
+    "llm_fields": {
+      "ner_category_changed": {
+        "PERSON": 9,
+        "ORG": 2,
+        "GPE": 1,
+        "LOC": 2,
+        "DATE": 5,
+        "MONEY": 4,
+        "PERCENT": 0
+      },
+      "sentiment_before": {
+        "Neutral": 17,
+        "NA": 43
+      },
+      "semantic_impact": {
+        "low": 11,
+        "moderate": 14,
+        "high": 35
+      },
+      "grammar_change": {
+        "yes": 16,
+        "no": 44
+      },
+      "pos_category_changed": {
+        "VERB": 0,
+        "NOUN": 16,
+        "PROPN": 1,
+        "ADJ": 3,
+        "NUM": 1,
+        "ADV": 0
+      },
+      "importance_category_freq": {
+        "minor wording": 1,
+        "details of incident": 4,
+        "background information": 1,
+        "legal troubles": 1,
+        "media presence": 1,
+        "contextual background": 2,
+        "societal impact": 2,
+        "legal consequences": 1,
+        "public perception": 2,
+        "trial outcome": 2,
+        "consequences of riots": 1,
+        "financial impact": 2,
+        "public figure role": 1,
+        "financial settlement": 1,
+        "financial management": 1,
+        "personal struggles": 2,
+        "personal reflection": 5,
+        "recovery journey": 1,
+        "major wording": 4,
+        "named-entity change": 1,
+        "minor detail": 3,
+        "temporal anchoring": 2,
+        "numerical update": 1,
+        "financial context": 2,
+        "personal context": 2,
+        "contextual information": 1,
+        "legal implications": 1,
+        "social impact": 1,
+        "accountability": 1,
+        "case resolution": 1,
+        "leadership accountability": 1,
+        "biographical detail": 2,
+        "addiction issues": 1,
+        "legal issues": 1,
+        "rehabilitation efforts": 1,
+        "family background": 1,
+        "personal history": 2
+      },
+      "verbal_changes": {
+        "tense": 0,
+        "aspect": 0,
+        "voice": 0,
+        "modality": 0
+      },
+      "sentiment_after": {
+        "Neutral": 60
+      },
+      "sentiment_change_direction": {
+        "no change": 60
+      },
+      "textual_differences": {
+        "yes": 14,
+        "yes (addition)": 43,
+        "yes (deletion)": 3,
+        "no": 42
+      },
+      "importance_overall": {
+        "Important": 49,
+        "Not important": 11,
+        "Unknown (among changed)": 0
+      },
+      "rewritten": {
+        "true": 13,
+        "false": 47
+      },
+      "bases": {
+        "units_total": 102,
+        "changed_units_total": 60
+      }
+    }
+  },
+  "per_pair": [
+    {
+      "pair_index": 0,
+      "timestamp_old": "2012-06-17T17:01:21Z",
+      "timestamp_new": "2012-06-17T19:55:41Z",
+      "delta_hours": 2.9055555555555554,
+      "units_total": 23,
+      "units_m1_nonnull": 3,
+      "units_m2_nonnull": 23,
+      "units_by_type": {
+        "match": 3,
+        "insert": 20,
+        "delete": 0
+      },
+      "changed_units_by_type": {
+        "match": 3,
+        "insert": 20,
+        "delete": 0
+      },
+      "changed_units_total": 23,
+      "changes": {
+        "total_changed": 23,
+        "yes": 3,
+        "yes_addition": 20,
+        "yes_deletion": 0,
+        "no": 0,
+        "important": 22,
+        "not_important": 1,
+        "unknown_importance_among_changed": 0
+      },
+      "semantic": {
+        "low": 1,
+        "moderate": 9,
+        "high": 13
+      },
+      "verbal_flags": {
+        "tense": 0,
+        "aspect": 0,
+        "voice": 0,
+        "modality": 0
+      },
+      "llm_fields": {
+        "textual_differences": {
+          "yes": 3,
+          "yes (addition)": 20
+        },
+        "semantic_impact": {
+          "low": 1,
+          "moderate": 9,
+          "high": 13
+        },
+        "sentiment_before": {
+          "Neutral": 3,
+          "NA": 20
+        },
+        "sentiment_after": {
+          "Neutral": 23
+        },
+        "sentiment_change_direction": {
+          "no change": 23
+        },
+        "importance_overall": {
+          "Important": 22,
+          "Not important": 1,
+          "Unknown (among changed)": 0
+        },
+        "importance_category_freq": {
+          "minor wording": 1,
+          "details of incident": 4,
+          "background information": 1,
+          "legal troubles": 1,
+          "media presence": 1,
+          "contextual background": 2,
+          "societal impact": 2,
+          "legal consequences": 1,
+          "public perception": 1,
+          "trial outcome": 1,
+          "consequences of riots": 1,
+          "financial impact": 1,
+          "public figure role": 1,
+          "financial settlement": 1,
+          "financial management": 1,
+          "personal struggles": 1,
+          "personal reflection": 1,
+          "recovery journey": 1
+        },
+        "pos_category_changed": {
+          "VERB": 0,
+          "NOUN": 0,
+          "PROPN": 0,
+          "ADJ": 0,
+          "NUM": 0,
+          "ADV": 0
+        },
+        "ner_category_changed": {
+          "PERSON": 0,
+          "ORG": 0,
+          "GPE": 0,
+          "LOC": 0,
+          "DATE": 0,
+          "MONEY": 0,
+          "PERCENT": 0
+        },
+        "grammar_change": {
+          "yes": 2,
+          "no": 21
+        },
+        "verbal_changes": {
+          "tense": 0,
+          "aspect": 0,
+          "voice": 0,
+          "modality": 0
+        },
+        "rewritten": {
+          "true": 2,
+          "false": 21
+        },
+        "bases": {
+          "units_total": 23,
+          "changed_units_total": 23
+        }
+      }
+    },
+    {
+      "pair_index": 1,
+      "timestamp_old": "2012-06-17T19:55:41Z",
+      "timestamp_new": "2012-06-18T03:15:17Z",
+      "delta_hours": 7.326666666666667,
+      "units_total": 21,
+      "units_m1_nonnull": 21,
+      "units_m2_nonnull": 21,
+      "units_by_type": {
+        "match": 21,
+        "insert": 0,
+        "delete": 0
+      },
+      "changed_units_by_type": {
+        "match": 14,
+        "insert": 0,
+        "delete": 0
+      },
+      "changed_units_total": 14,
+      "changes": {
+        "total_changed": 14,
+        "yes": 11,
+        "yes_addition": 0,
+        "yes_deletion": 3,
+        "no": 7,
+        "important": 10,
+        "not_important": 4,
+        "unknown_importance_among_changed": 0
+      },
+      "semantic": {
+        "high": 5,
+        "moderate": 5,
+        "low": 4
+      },
+      "verbal_flags": {
+        "tense": 0,
+        "aspect": 0,
+        "voice": 0,
+        "modality": 0
+      },
+      "llm_fields": {
+        "textual_differences": {
+          "yes": 11,
+          "yes (deletion)": 3,
+          "no": 7
+        },
+        "semantic_impact": {
+          "high": 5,
+          "moderate": 5,
+          "low": 4
+        },
+        "sentiment_before": {
+          "Neutral": 14
+        },
+        "sentiment_after": {
+          "Neutral": 14
+        },
+        "sentiment_change_direction": {
+          "no change": 14
+        },
+        "importance_overall": {
+          "Important": 10,
+          "Not important": 4,
+          "Unknown (among changed)": 0
+        },
+        "importance_category_freq": {
+          "major wording": 4,
+          "named-entity change": 1,
+          "minor detail": 3,
+          "temporal anchoring": 2,
+          "numerical update": 1,
+          "financial context": 1,
+          "personal context": 2
+        },
+        "pos_category_changed": {
+          "VERB": 0,
+          "NOUN": 13,
+          "PROPN": 1,
+          "ADJ": 3,
+          "NUM": 1,
+          "ADV": 0
+        },
+        "ner_category_changed": {
+          "PERSON": 2,
+          "ORG": 0,
+          "GPE": 0,
+          "LOC": 0,
+          "DATE": 2,
+          "MONEY": 1,
+          "PERCENT": 0
+        },
+        "grammar_change": {
+          "yes": 14,
+          "no": 0
+        },
+        "verbal_changes": {
+          "tense": 0,
+          "aspect": 0,
+          "voice": 0,
+          "modality": 0
+        },
+        "rewritten": {
+          "true": 11,
+          "false": 3
+        },
+        "bases": {
+          "units_total": 21,
+          "changed_units_total": 14
+        }
+      }
+    },
+    {
+      "pair_index": 346,
+      "timestamp_old": "2014-12-16T21:57:02Z",
+      "timestamp_new": "2015-03-21T00:03:38Z",
+      "delta_hours": 2258.11,
+      "units_total": 58,
+      "units_m1_nonnull": 35,
+      "units_m2_nonnull": 58,
+      "units_by_type": {
+        "match": 35,
+        "insert": 23,
+        "delete": 0
+      },
+      "changed_units_by_type": {
+        "match": 0,
+        "insert": 23,
+        "delete": 0
+      },
+      "changed_units_total": 23,
+      "changes": {
+        "total_changed": 23,
+        "yes": 0,
+        "yes_addition": 23,
+        "yes_deletion": 0,
+        "no": 35,
+        "important": 17,
+        "not_important": 6,
+        "unknown_importance_among_changed": 0
+      },
+      "semantic": {
+        "high": 17,
+        "low": 6
+      },
+      "verbal_flags": {
+        "tense": 0,
+        "aspect": 0,
+        "voice": 0,
+        "modality": 0
+      },
+      "llm_fields": {
+        "textual_differences": {
+          "no": 35,
+          "yes (addition)": 23
+        },
+        "semantic_impact": {
+          "high": 17,
+          "low": 6
+        },
+        "sentiment_before": {
+          "NA": 23
+        },
+        "sentiment_after": {
+          "Neutral": 23
+        },
+        "sentiment_change_direction": {
+          "no change": 23
+        },
+        "importance_overall": {
+          "Important": 17,
+          "Not important": 6,
+          "Unknown (among changed)": 0
+        },
+        "importance_category_freq": {
+          "contextual information": 1,
+          "legal implications": 1,
+          "public perception": 1,
+          "trial outcome": 1,
+          "social impact": 1,
+          "accountability": 1,
+          "case resolution": 1,
+          "leadership accountability": 1,
+          "biographical detail": 2,
+          "financial impact": 1,
+          "financial context": 1,
+          "personal struggles": 1,
+          "addiction issues": 1,
+          "legal issues": 1,
+          "rehabilitation efforts": 1,
+          "family background": 1,
+          "personal history": 2,
+          "personal reflection": 4
+        },
+        "pos_category_changed": {
+          "VERB": 0,
+          "NOUN": 3,
+          "PROPN": 0,
+          "ADJ": 0,
+          "NUM": 0,
+          "ADV": 0
+        },
+        "ner_category_changed": {
+          "PERSON": 7,
+          "ORG": 2,
+          "GPE": 1,
+          "LOC": 2,
+          "DATE": 3,
+          "MONEY": 3,
+          "PERCENT": 0
+        },
+        "grammar_change": {
+          "yes": 0,
+          "no": 23
+        },
+        "verbal_changes": {
+          "tense": 0,
+          "aspect": 0,
+          "voice": 0,
+          "modality": 0
+        },
+        "rewritten": {
+          "true": 0,
+          "false": 23
+        },
+        "bases": {
+          "units_total": 58,
+          "changed_units_total": 23
+        }
+      }
+    }
+  ]
+}

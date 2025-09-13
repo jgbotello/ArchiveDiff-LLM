@@ -1,0 +1,257 @@
+{
+  "summary": {
+    "pairs_total": 1,
+    "units_total": 47,
+    "units_m1_nonnull": 23,
+    "units_m2_nonnull": 47,
+    "units_by_type": {
+      "match": 23,
+      "insert": 24,
+      "delete": 0
+    },
+    "changed_units_by_type": {
+      "match": 1,
+      "insert": 24,
+      "delete": 0
+    },
+    "changed_units_total": 25,
+    "changes": {
+      "total_changed": 25,
+      "yes": 1,
+      "yes_addition": 24,
+      "yes_deletion": 0,
+      "no": 22,
+      "important": 24,
+      "not_important": 1,
+      "unknown_importance_among_changed": 0
+    },
+    "semantic": {
+      "NA": 1,
+      "high": 12,
+      "moderate": 12
+    },
+    "llm_fields": {
+      "ner_category_changed": {
+        "PERSON": 0,
+        "ORG": 0,
+        "GPE": 0,
+        "LOC": 0,
+        "DATE": 0,
+        "MONEY": 0,
+        "PERCENT": 0
+      },
+      "sentiment_before": {
+        "Neutral": 1,
+        "NA": 24
+      },
+      "semantic_impact": {
+        "NA": 1,
+        "high": 12,
+        "moderate": 12
+      },
+      "grammar_change": {
+        "yes": 1,
+        "no": 24
+      },
+      "pos_category_changed": {
+        "VERB": 0,
+        "NOUN": 0,
+        "PROPN": 0,
+        "ADJ": 0,
+        "NUM": 0,
+        "ADV": 0
+      },
+      "importance_category_freq": {
+        "grammar correction": 1,
+        "contextual elaboration": 2,
+        "policy implication": 1,
+        "international relations": 1,
+        "security concern": 1,
+        "narrative framing": 1,
+        "expert opinion": 1,
+        "negotiation framework": 1,
+        "benefits of negotiation": 1,
+        "internal deliberation": 1,
+        "key personnel": 1,
+        "policy comparison": 1,
+        "candidate positioning": 1,
+        "candidate clarity": 1,
+        "campaign messaging": 1,
+        "historical context": 1,
+        "internal dynamics": 1,
+        "motivational context": 1,
+        "external influence": 1,
+        "contextual urgency": 1,
+        "willingness to negotiate": 1,
+        "contextual insight": 1,
+        "diplomatic impact": 1,
+        "economic impact": 1
+      },
+      "verbal_changes": {
+        "tense": 0,
+        "aspect": 0,
+        "voice": 0,
+        "modality": 0
+      },
+      "sentiment_after": {
+        "Neutral": 22,
+        "Negative": 3
+      },
+      "sentiment_change_direction": {
+        "no change": 21,
+        "more negative": 4
+      },
+      "textual_differences": {
+        "yes": 1,
+        "no": 22,
+        "yes (addition)": 24
+      },
+      "importance_overall": {
+        "Important": 24,
+        "Not important": 1,
+        "Unknown (among changed)": 0
+      },
+      "rewritten": {
+        "true": 0,
+        "false": 25
+      },
+      "bases": {
+        "units_total": 47,
+        "changed_units_total": 25
+      }
+    }
+  },
+  "per_pair": [
+    {
+      "pair_index": 52,
+      "timestamp_old": "2015-02-28T04:58:57Z",
+      "timestamp_new": "2015-03-31T18:39:11Z",
+      "delta_hours": 757.6705555555556,
+      "units_total": 47,
+      "units_m1_nonnull": 23,
+      "units_m2_nonnull": 47,
+      "units_by_type": {
+        "match": 23,
+        "insert": 24,
+        "delete": 0
+      },
+      "changed_units_by_type": {
+        "match": 1,
+        "insert": 24,
+        "delete": 0
+      },
+      "changed_units_total": 25,
+      "changes": {
+        "total_changed": 25,
+        "yes": 1,
+        "yes_addition": 24,
+        "yes_deletion": 0,
+        "no": 22,
+        "important": 24,
+        "not_important": 1,
+        "unknown_importance_among_changed": 0
+      },
+      "semantic": {
+        "NA": 1,
+        "high": 12,
+        "moderate": 12
+      },
+      "verbal_flags": {
+        "tense": 0,
+        "aspect": 0,
+        "voice": 0,
+        "modality": 0
+      },
+      "llm_fields": {
+        "textual_differences": {
+          "yes": 1,
+          "no": 22,
+          "yes (addition)": 24
+        },
+        "semantic_impact": {
+          "NA": 1,
+          "high": 12,
+          "moderate": 12
+        },
+        "sentiment_before": {
+          "Neutral": 1,
+          "NA": 24
+        },
+        "sentiment_after": {
+          "Neutral": 22,
+          "Negative": 3
+        },
+        "sentiment_change_direction": {
+          "no change": 21,
+          "more negative": 4
+        },
+        "importance_overall": {
+          "Important": 24,
+          "Not important": 1,
+          "Unknown (among changed)": 0
+        },
+        "importance_category_freq": {
+          "grammar correction": 1,
+          "contextual elaboration": 2,
+          "policy implication": 1,
+          "international relations": 1,
+          "security concern": 1,
+          "narrative framing": 1,
+          "expert opinion": 1,
+          "negotiation framework": 1,
+          "benefits of negotiation": 1,
+          "internal deliberation": 1,
+          "key personnel": 1,
+          "policy comparison": 1,
+          "candidate positioning": 1,
+          "candidate clarity": 1,
+          "campaign messaging": 1,
+          "historical context": 1,
+          "internal dynamics": 1,
+          "motivational context": 1,
+          "external influence": 1,
+          "contextual urgency": 1,
+          "willingness to negotiate": 1,
+          "contextual insight": 1,
+          "diplomatic impact": 1,
+          "economic impact": 1
+        },
+        "pos_category_changed": {
+          "VERB": 0,
+          "NOUN": 0,
+          "PROPN": 0,
+          "ADJ": 0,
+          "NUM": 0,
+          "ADV": 0
+        },
+        "ner_category_changed": {
+          "PERSON": 0,
+          "ORG": 0,
+          "GPE": 0,
+          "LOC": 0,
+          "DATE": 0,
+          "MONEY": 0,
+          "PERCENT": 0
+        },
+        "grammar_change": {
+          "yes": 1,
+          "no": 24
+        },
+        "verbal_changes": {
+          "tense": 0,
+          "aspect": 0,
+          "voice": 0,
+          "modality": 0
+        },
+        "rewritten": {
+          "true": 0,
+          "false": 25
+        },
+        "bases": {
+          "units_total": 47,
+          "changed_units_total": 25
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "summary": {
+    "pairs_total": 1,
+    "units_total": 44,
+    "units_m1_nonnull": 6,
+    "units_m2_nonnull": 43,
+    "units_by_type": {
+      "match": 5,
+      "insert": 38,
+      "delete": 1
+    },
+    "changed_units_by_type": {
+      "match": 0,
+      "insert": 38,
+      "delete": 1
+    },
+    "changed_units_total": 39,
+    "changes": {
+      "total_changed": 39,
+      "yes": 0,
+      "yes_addition": 38,
+      "yes_deletion": 1,
+      "no": 5,
+      "important": 35,
+      "not_important": 4,
+      "unknown_importance_among_changed": 0
+    },
+    "semantic": {
+      "high": 22,
+      "low": 4,
+      "moderate": 13
+    },
+    "llm_fields": {
+      "ner_category_changed": {
+        "PERSON": 0,
+        "ORG": 0,
+        "GPE": 0,
+        "LOC": 0,
+        "DATE": 0,
+        "MONEY": 0,
+        "PERCENT": 0
+      },
+      "sentiment_before": {
+        "Negative": 1,
+        "NA": 38
+      },
+      "semantic_impact": {
+        "high": 22,
+        "low": 4,
+        "moderate": 13
+      },
+      "grammar_change": {
+        "yes": 0,
+        "no": 39
+      },
+      "pos_category_changed": {
+        "VERB": 0,
+        "NOUN": 0,
+        "PROPN": 0,
+        "ADJ": 0,
+        "NUM": 0,
+        "ADV": 0
+      },
+      "importance_category_freq": {
+        "major wording": 9,
+        "thematic introduction": 14,
+        "numerical update": 3,
+        "contextual information": 12,
+        "expert commentary": 1
+      },
+      "verbal_changes": {
+        "tense": 0,
+        "aspect": 0,
+        "voice": 0,
+        "modality": 0
+      },
+      "sentiment_after": {
+        "NA": 1,
+        "Negative": 10,
+        "Very Negative": 13,
+        "Positive": 2,
+        "Neutral": 13
+      },
+      "sentiment_change_direction": {
+        "more negative": 24,
+        "more positive": 2,
+        "no change": 13
+      },
+      "textual_differences": {
+        "yes (deletion)": 1,
+        "yes (addition)": 38,
+        "no": 5
+      },
+      "importance_overall": {
+        "Important": 35,
+        "Not important": 4,
+        "Unknown (among changed)": 0
+      },
+      "rewritten": {
+        "true": 0,
+        "false": 39
+      },
+      "bases": {
+        "units_total": 44,
+        "changed_units_total": 39
+      }
+    }
+  },
+  "per_pair": [
+    {
+      "pair_index": 1,
+      "timestamp_old": "2012-06-19T10:13:50Z",
+      "timestamp_new": "2012-06-20T10:02:46Z",
+      "delta_hours": 23.815555555555555,
+      "units_total": 44,
+      "units_m1_nonnull": 6,
+      "units_m2_nonnull": 43,
+      "units_by_type": {
+        "match": 5,
+        "insert": 38,
+        "delete": 1
+      },
+      "changed_units_by_type": {
+        "match": 0,
+        "insert": 38,
+        "delete": 1
+      },
+      "changed_units_total": 39,
+      "changes": {
+        "total_changed": 39,
+        "yes": 0,
+        "yes_addition": 38,
+        "yes_deletion": 1,
+        "no": 5,
+        "important": 35,
+        "not_important": 4,
+        "unknown_importance_among_changed": 0
+      },
+      "semantic": {
+        "high": 22,
+        "low": 4,
+        "moderate": 13
+      },
+      "verbal_flags": {
+        "tense": 0,
+        "aspect": 0,
+        "voice": 0,
+        "modality": 0
+      },
+      "llm_fields": {
+        "textual_differences": {
+          "yes (deletion)": 1,
+          "yes (addition)": 38,
+          "no": 5
+        },
+        "semantic_impact": {
+          "high": 22,
+          "low": 4,
+          "moderate": 13
+        },
+        "sentiment_before": {
+          "Negative": 1,
+          "NA": 38
+        },
+        "sentiment_after": {
+          "NA": 1,
+          "Negative": 10,
+          "Very Negative": 13,
+          "Positive": 2,
+          "Neutral": 13
+        },
+        "sentiment_change_direction": {
+          "more negative": 24,
+          "more positive": 2,
+          "no change": 13
+        },
+        "importance_overall": {
+          "Important": 35,
+          "Not important": 4,
+          "Unknown (among changed)": 0
+        },
+        "importance_category_freq": {
+          "major wording": 9,
+          "thematic introduction": 14,
+          "numerical update": 3,
+          "contextual information": 12,
+          "expert commentary": 1
+        },
+        "pos_category_changed": {
+          "VERB": 0,
+          "NOUN": 0,
+          "PROPN": 0,
+          "ADJ": 0,
+          "NUM": 0,
+          "ADV": 0
+        },
+        "ner_category_changed": {
+          "PERSON": 0,
+          "ORG": 0,
+          "GPE": 0,
+          "LOC": 0,
+          "DATE": 0,
+          "MONEY": 0,
+          "PERCENT": 0
+        },
+        "grammar_change": {
+          "yes": 0,
+          "no": 39
+        },
+        "verbal_changes": {
+          "tense": 0,
+          "aspect": 0,
+          "voice": 0,
+          "modality": 0
+        },
+        "rewritten": {
+          "true": 0,
+          "false": 39
+        },
+        "bases": {
+          "units_total": 44,
+          "changed_units_total": 39
+        }
+      }
+    }
+  ]
+}

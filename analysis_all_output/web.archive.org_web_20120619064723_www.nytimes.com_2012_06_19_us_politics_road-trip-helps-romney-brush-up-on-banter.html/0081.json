@@ -1,0 +1,1173 @@
+{
+  "pair_index": 81,
+  "n_sentences_old": 46,
+  "n_sentences_new": 46,
+  "metadata_old": {
+    "warc-date": "2015-03-25T07:49:56Z",
+    "warc-record-id": "<urn:uuid:901467f6-f1cf-47bd-8fea-9096261e45fd>",
+    "warc-block-digest": "sha1:323f4b6fb78dc40e838e25bc98e3bead2d465621",
+    "warc-target-uri": "https://web.archive.org/web/20150325074956/https://www.nytimes.com/2012/06/19/us/politics/road-trip-helps-romney-brush-up-on-banter.html",
+    "content-length": 5461,
+    "url-hash": "5893c442b35add33cd341f926bf85b86"
+  },
+  "metadata_new": {
+    "warc-date": "2015-11-05T10:30:20Z",
+    "warc-record-id": "<urn:uuid:951ccef1-1711-4c84-b9fd-e6b25a1856db>",
+    "warc-block-digest": "sha1:7d7417d1ec8abedc272dd0fb08eabbfb01a627de",
+    "warc-target-uri": "https://web.archive.org/web/20151105103020/https://www.nytimes.com/2012/06/19/us/politics/road-trip-helps-romney-brush-up-on-banter.html",
+    "content-length": 5616,
+    "url-hash": "cb19b2191668ae689a058fa27e888615"
+  },
+  "items": [
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "JANESVILLE, Wis. — Mitt Romney’s English is direct and to the point, useful for attacking President Obama on the stump or dismantling his Republican opponents in primary debates.",
+        "M2": "JANESVILLE, Wis. — Mitt Romney’s English is direct and to the point, useful for attacking President Obama on the stump or dismantling his Republican opponents in primary debates."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility and audience trust. Identical statements reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "He is even fluent in French.",
+        "M2": "He is even fluent in French."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "Consistency in language is vital for effective communication in journalism, ensuring that the audience receives the same information without discrepancies.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "But the one language Mr. Romney doesn’t seem to speak is small talk.",
+        "M2": "But the one language Mr. Romney doesn’t seem to speak is small talk."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "Maintaining identical phrasing in reporting ensures clarity and consistency, which are essential for effective communication in journalism.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Over a five-day “Every Town Counts” bus tour through six swing states that is scheduled to wrap up on Tuesday, Mr. Romney’s attempts at banter were on sometimes painful display as he toured a factory floor here; scooped chocolate chip ice cream in Milford, N.H.; and served pancakes at a Father’s Day breakfast in Brunswick, Ohio.",
+        "M2": "Over a five-day “Every Town Counts” bus tour through six swing states that is scheduled to wrap up on Tuesday, Mr. Romney’s attempts at banter were on sometimes painful display as he toured a factory floor here; scooped chocolate chip ice cream in Milford, N.H.; and served pancakes at a Father’s Day breakfast in Brunswick, Ohio."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining audience trust and ensuring that the information conveyed is reliable and accurate.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "At the breakfast, Mr. Romney introduced two of his sons, Matt and Craig, in a slightly unusual fashion.",
+        "M2": "At the breakfast, Mr. Romney introduced two of his sons, Matt and Craig, in a slightly unusual fashion."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining identical statements is essential for clarity and consistency, which helps in building trust with the audience.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“I love them,” Mr. Romney said.",
+        "M2": "“I love them,” Mr. Romney said."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "Consistency in quotes is vital for accurate representation of a speaker's words, which is a fundamental principle in journalism.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“I love them like they’re my own.",
+        "M2": "“I love them like they’re my own."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "Maintaining the integrity of quotes is essential in journalism to ensure accurate representation of the speaker's intent and meaning.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "And they are! Craig!”",
+        "M2": "And they are! Craig!”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, preserving the exact wording of quotes is crucial for maintaining the authenticity and accuracy of the reported speech.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "With that, Craig Romney rescued the microphone from his father.",
+        "M2": "With that, Craig Romney rescued the microphone from his father."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "Consistency in reporting actions is essential for clarity and understanding in journalism, ensuring that the audience receives the same narrative.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The bus trip was perhaps Mr. Romney’s deepest plunge into retail politics since the primaries, when he delighted his traveling press corps by guessing voters’ ages and ethnicities (often incorrectly) and proving himself a gaffe-prone jokester.",
+        "M2": "The bus trip was perhaps Mr. Romney’s deepest plunge into retail politics since the primaries, when he delighted his traveling press corps by guessing voters’ ages and ethnicities (often incorrectly) and proving himself a gaffe-prone jokester."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining identical statements is crucial for clarity and consistency, which helps in building trust with the audience.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Photo",
+        "M2": "Photo"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "Consistency in visual elements is important in journalism to ensure that the audience receives a coherent narrative.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Mr. Romney joins a long list of presidential candidates who sometimes struggled with the basics of presidential campaigning.",
+        "M2": "Mr. Romney joins a long list of presidential candidates who sometimes struggled with the basics of presidential campaigning."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining identical statements is crucial for clarity and consistency, which helps in building trust with the audience.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Former President George W. Bush was a fumbling and at times hilariously clumsy orator, so much so that entire books were devoted to his malapropisms.",
+        "M2": "Former President George W. Bush was a fumbling and at times hilariously clumsy orator, so much so that entire books were devoted to his malapropisms."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "Consistency in reporting is essential for maintaining audience trust and ensuring that the information conveyed is reliable and accurate.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The Mr. Romney who emerged over this recent tour still came across as goofily old-fashioned, but he was also more polished on the stump, able to improvise and riff and better handle the surprises that naturally accompany a rambling motorcade through the heartland.",
+        "M2": "The Mr. Romney who emerged over this recent tour still came across as goofily old-fashioned, but he was also more polished on the stump, able to improvise and riff and better handle the surprises that naturally accompany a rambling motorcade through the heartland."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining identical statements is crucial for clarity and consistency, which helps in building trust with the audience.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "As Mr. Romney’s traveling press secretary, Rick Gorka, said before the buses set off, “Welcome to Day 1 of summer camp!”",
+        "M2": "As Mr. Romney’s traveling press secretary, Rick Gorka, said before the buses set off, “Welcome to Day 1 of summer camp!”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, preserving the exact wording of quotes is crucial for maintaining the authenticity and accuracy of the reported speech.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Wawa, No ‘S’",
+        "M2": "Wawa, No ‘S’"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "Consistency in reporting is essential for maintaining audience trust and ensuring that the information conveyed is reliable and accurate.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "At a Wawa, one in a convenience store chain in the mid-Atlantic, Mr. Romney was dazzled by the touch-screen computers from which he ordered his meatball hoagie on Saturday in Quakertown, Pa.",
+        "M2": "At a Wawa, one in a convenience store chain in the mid-Atlantic, Mr. Romney was dazzled by the touch-screen computers from which he ordered his meatball hoagie on Saturday in Quakertown, Pa."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining identical statements is crucial for clarity and consistency, which helps in building trust with the audience.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Later in the day, he tried to engage the crowd in Cornwall, Pa., by asking it about its favorite local sandwich shop.",
+        "M2": "Later in the day, he tried to engage the crowd in Cornwall, Pa., by asking it about its favorite local sandwich shop."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining identical statements is crucial for clarity and consistency, which helps in building trust with the audience.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“By the way, where do you get your hoagies here?” he asked.",
+        "M2": "“By the way, where do you get your hoagies here?” he asked."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, preserving the exact wording of quotes is crucial for maintaining the authenticity and accuracy of the reported speech.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“Do you get them at Wawas? Is that where you get them? No? Do you get them at Sheetz? Where do you get them?”",
+        "M2": "“Do you get them at Wawas? Is that where you get them? No? Do you get them at Sheetz? Where do you get them?”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining identical statements is crucial for clarity and consistency, which helps in building trust with the audience.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "As the crowd began to boo, shouting out names of neighborhood joints, Gov. Tom Corbett of Pennsylvania tried to help out: “Delis!” he called out. “The delis!”",
+        "M2": "As the crowd began to boo, shouting out names of neighborhood joints, Gov. Tom Corbett of Pennsylvania tried to help out: “Delis!” he called out. “The delis!”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining identical statements is crucial for clarity and consistency, which helps in building trust with the audience.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "But after bungling the name of the Wawa several times — calling the store “Wawas” — Mr. Romney forged ahead.",
+        "M2": "But after bungling the name of the Wawa several times — calling the store “Wawas” — Mr. Romney forged ahead."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining identical statements is crucial for clarity and consistency, which helps in building trust with the audience.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“Ah, you get them at the delis, is that what you’re saying?” he asked.",
+        "M2": "“Ah, you get them at the delis, is that what you’re saying?” he asked."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, preserving the exact wording of quotes is crucial for maintaining the authenticity and accuracy of the reported speech.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“Well, I went to a place today called Wawas.",
+        "M2": "“Well, I went to a place today called Wawas."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining identical statements is crucial for clarity and consistency, which helps in building trust with the audience.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "You ever been to Wawas? Anybody been there?”",
+        "M2": "You ever been to Wawas? Anybody been there?”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining identical statements is crucial for clarity and consistency, which helps in building trust with the audience.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "As the crowd continued to jeer, he added, “I’m sorry, I know there’s a very big state divide.”",
+        "M2": "As the crowd continued to jeer, he added, “I’m sorry, I know there’s a very big state divide.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, preserving the exact wording of quotes is crucial for maintaining the authenticity and accuracy of the reported speech.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The next day, Mr. Romney appeared on CBS’s “Face the Nation,” where he briefly talked about the expensive dressage horses his wife, Ann, owns and rides — a subject that clashes with his attempt to present himself as an average guy who understands the concerns of middle-class Americans.",
+        "M2": "The next day, Mr. Romney appeared on CBS’s “Face the Nation,” where he briefly talked about the expensive dressage horses his wife, Ann, owns and rides — a subject that clashes with his attempt to present himself as an average guy who understands the concerns of middle-class Americans."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining identical statements is crucial for clarity and consistency, which helps in building trust with the audience.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“I joke that I’m going to send her to Betty Ford for addiction to horses,” he told Bob Schieffer, the show’s host.",
+        "M2": "“I joke that I’m going to send her to Betty Ford for addiction to horses,” he told Bob Schieffer, the show’s host."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, preserving the exact wording of quotes is crucial for maintaining the authenticity and accuracy of the reported speech.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Clouds, Then Sun",
+        "M2": "Clouds, Then Sun"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining identical statements is crucial for clarity and consistency, which helps in building trust with the audience.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The bus tour was also full of sunny moments — literally.",
+        "M2": "The bus tour was also full of sunny moments — literally."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining identical statements is crucial for clarity and consistency, which helps in building trust with the audience.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "At Mr. Romney’s pancake breakfast stop, more than a thousand people braved the stormy weather, lining up hours in advance with their umbrellas and waterproof trash bags for protection.",
+        "M2": "At Mr. Romney’s pancake breakfast stop, more than a thousand people braved the stormy weather, lining up hours in advance with their umbrellas and waterproof trash bags for protection."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining identical statements is crucial for clarity and consistency, which helps in building trust with the audience.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Thunder clapped periodically, but when Mr. Romney finally took the stage, the rain slowed to a light spit and the sun crested, prompting him to reflect on the improving weather.",
+        "M2": "Thunder clapped periodically, but when Mr. Romney finally took the stage, the rain slowed to a light spit and the sun crested, prompting him to reflect on the improving weather."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining identical statements is crucial for clarity and consistency, which helps in building trust with the audience.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“But it looks like the sun is coming out, and I think that’s a metaphor for the country,” he said.",
+        "M2": "“But it looks like the sun is coming out, and I think that’s a metaphor for the country,” he said."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, preserving the exact wording of quotes is crucial for maintaining the authenticity and accuracy of the reported speech.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“The sun is coming out, guys! Three and a half years of dark clouds are about to part.",
+        "M2": "“The sun is coming out, guys! Three and a half years of dark clouds are about to part."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining identical statements is crucial for clarity and consistency, which helps in building trust with the audience.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "It’s about to get a little warmer around this country, a little brighter.”",
+        "M2": "It’s about to get a little warmer around this country, a little brighter.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining identical statements is crucial for clarity and consistency, which helps in building trust with the audience.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Throughout the tour, protesters tried to bring their own storm clouds.",
+        "M2": "Throughout the tour, protesters tried to bring their own storm clouds."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining identical statements is crucial for clarity and consistency, which helps in building trust with the audience.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "In Pennsylvania, about 100 protesters — including former Gov. Edward G. Rendell — descended on a Wawa store that Mr. Romney had intended to visit, prompting him to stop at a different one.",
+        "M2": "In Pennsylvania, about 100 protesters — including former Gov. Edward G. Rendell — descended on a Wawa store that Mr. Romney had intended to visit, prompting him to stop at a different one."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining identical statements is crucial for clarity and consistency, which helps in building trust with the audience.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "And in Ohio, a group chanting “Romney go home!” and “We are the 99 percent!” grew so loud and persistent that staff members dragged over two large speakers to try to drown it out.",
+        "M2": "And in Ohio, a group chanting “Romney go home!” and “We are the 99 percent!” grew so loud and persistent that staff members dragged over two large speakers to try to drown it out."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining identical statements is crucial for clarity and consistency, which helps in building trust with the audience.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "But Ohio also brought its share of pleasant surprises.",
+        "M2": "But Ohio also brought its share of pleasant surprises."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining identical statements is crucial for clarity and consistency, which helps in building trust with the audience.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "When Mr. Romney’s motorcade pulled up to a local burger joint in downtown Troy, the candidate was delighted to find a baby blue 1961 Rambler on display outside.",
+        "M2": "When Mr. Romney’s motorcade pulled up to a local burger joint in downtown Troy, the candidate was delighted to find a baby blue 1961 Rambler on display outside."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining identical statements is crucial for clarity and consistency, which helps in building trust with the audience.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The car belonged to Michael Scheib, 20, who worked behind the counter, and Mr. Romney could barely contain his excitement.",
+        "M2": "The car belonged to Michael Scheib, 20, who worked behind the counter, and Mr. Romney could barely contain his excitement."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining identical statements is crucial for clarity and consistency, which helps in building trust with the audience.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "After greeting voters inside the restaurant, he dashed outside, and he and Mr. Scheib hopped in the car, marveling at the interior and even honking the horn.",
+        "M2": "After greeting voters inside the restaurant, he dashed outside, and he and Mr. Scheib hopped in the car, marveling at the interior and even honking the horn."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining identical statements is crucial for clarity and consistency, which helps in building trust with the audience.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Afterward, Mr. Scheib showed Mr. Romney the original brochure that came with the Rambler and spread it out on the hood.",
+        "M2": "Afterward, Mr. Scheib showed Mr. Romney the original brochure that came with the Rambler and spread it out on the hood."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining identical statements is crucial for clarity and consistency, which helps in building trust with the audience.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Pointing to a brochure picture of his father, George Romney, who led American Motors, which manufactured the Rambler, Mr. Romney said: “And here’s the guy who made them, up there — that’s my dad.",
+        "M2": "Pointing to a brochure picture of his father, George Romney, who led American Motors, which manufactured the Rambler, Mr. Romney said: “And here’s the guy who made them, up there — that’s my dad."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining identical statements is crucial for clarity and consistency, which helps in building trust with the audience.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Isn’t that something? My dad did that. Isn’t that something?”",
+        "M2": "Isn’t that something? My dad did that. Isn’t that something?”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, preserving the exact wording of quotes is crucial for maintaining the authenticity and accuracy of the reported speech.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Turning to Mr. Scheib, he concluded: “Pretty cool car. Congratulations.”",
+        "M2": "Turning to Mr. Scheib, he concluded: “Pretty cool car. Congratulations.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No change in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, preserving the exact wording of quotes is crucial for maintaining the authenticity and accuracy of the reported speech.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, thus holding no importance."
+      }
+    }
+  ]
+}

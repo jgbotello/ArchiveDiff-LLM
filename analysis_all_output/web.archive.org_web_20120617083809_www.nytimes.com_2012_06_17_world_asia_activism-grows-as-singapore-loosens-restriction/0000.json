@@ -1,0 +1,648 @@
+{
+  "pair_index": 0,
+  "n_sentences_old": 25,
+  "n_sentences_new": 25,
+  "metadata_old": {
+    "warc-date": "2012-06-17T08:38:09Z",
+    "warc-record-id": "<urn:uuid:1ab7cb8e-a826-41f1-8929-a3e8e5ea95e9>",
+    "warc-block-digest": "sha1:69049565a0cb707ae0901395a961cf67e0228f3e",
+    "warc-target-uri": "https://web.archive.org/web/20120617083809/https://www.nytimes.com/2012/06/17/world/asia/activism-grows-as-singapore-loosens-restrictions.html",
+    "content-length": 4923,
+    "url-hash": "42890f2691b36171d5626799344417a1"
+  },
+  "metadata_new": {
+    "warc-date": "2012-06-17T12:55:50Z",
+    "warc-record-id": "<urn:uuid:1475428c-ad13-4b2d-a51e-6c360e75579a>",
+    "warc-block-digest": "sha1:883172bca337b53408946c915dba59a0d010582d",
+    "warc-target-uri": "https://web.archive.org/web/20120617125550/https://www.nytimes.com/2012/06/17/world/asia/activism-grows-as-singapore-loosens-restrictions.html",
+    "content-length": 4931,
+    "url-hash": "e5096922369121726e8e35050e8e5b3f"
+  },
+  "items": [
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "SINGAPORE — Those accustomed to thinking of this booming city-state as a bastion of apolitical strivers and shopaholics might be stunned by the burst of civic activism sweeping this crowded flyspeck of an island.",
+        "M2": "SINGAPORE — Those accustomed to thinking of this booming city-state as a bastion of apolitical strivers and shopaholics might be stunned by the burst of civic activism sweeping this crowded flyspeck of an island."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "On a recent weekend, hundreds clamored in a downtown park for a repeal of the country’s draconian antisubversion law, while a dozen urbane Singaporeans made a quiet stand by photographing the banyan trees and historic tombstones that the government plans to bury under a highway.",
+        "M2": "On a recent weekend, hundreds clamored in a downtown park for a repeal of the country’s draconian antisubversion law, while a dozen urbane Singaporeans made a quiet stand by photographing the banyan trees and historic tombstones that the government plans to bury under a highway."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Across the city, gay-rights campaigners were finalizing plans for a rally that is expected to draw thousands.",
+        "M2": "Across the city, gay-rights campaigners were finalizing plans for a rally that is expected to draw thousands."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "While no one is predicting a new era of noisy, public agitation or the imminent end of Singapore’s single-party rule, social activists and political analysts point to the increasing number of people who are shedding a long nurtured reluctance to challenge the nation’s paternalistic leaders and their “autocratic light” style of governance.",
+        "M2": "While no one is predicting a new era of noisy, public agitation or the imminent end of Singapore’s single-party dominance, social activists and political analysts point to the increasing number of people who are shedding a long nurtured reluctance to challenge the nation’s paternalistic leaders and their “autocratic light” style of governance."
+      },
+      "assessment": {
+        "textual differences": "yes",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - The change from 'single-party rule' to 'single-party dominance' subtly shifts the connotation of the political context.",
+        "importance category": "major wording",
+        "importance reason": "The term 'dominance' may imply a broader context of control compared to 'rule', affecting reader interpretation.",
+        "literature rationale": "Word choice can significantly influence reader perception and interpretation, particularly in political discourse.",
+        "version diff summary": "Changed 'single-party rule' to 'single-party dominance'.",
+        "overall assessment": "The change in wording from 'rule' to 'dominance' introduces a subtle shift in connotation, which is important for understanding the political context."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“People are beginning to feel a bit more at ease, and the government is also loosening up,” said Vincent Cheng, 65, a former Roman Catholic social worker who was tortured and imprisoned for three years in the late 1980s after the government accused him of helping orchestrate a Marxist conspiracy.",
+        "M2": "“People are beginning to feel a bit more at ease, and the government is also loosening up,” said Vincent Cheng, 65, a former Roman Catholic social worker who was tortured and imprisoned for three years in the late 1980s after the government accused him of helping orchestrate a Marxist conspiracy."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Positive",
+        "sentiment after": "Positive",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The change is evident in a variety of forums.",
+        "M2": "The change is evident in a variety of forums."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "After a welcoming speech to college students late last month, Deputy Prime Minister Teo Chee Hean found himself dodging pointed questions about Singapore’s news media restrictions and its hamstrung democracy.",
+        "M2": "After a welcoming speech to college students late last month, Deputy Prime Minister Teo Chee Hean found himself dodging pointed questions about Singapore’s news media restrictions and its hamstrung democracy."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Those in attendance said that Mr. Teo was taken aback by the boldness of the crowd, which in years past would have quietly absorbed his pep talk about hard work and self-sacrifice.",
+        "M2": "Those in attendance said that Mr. Teo was taken aback by the boldness of the crowd, which in years past would have quietly absorbed his pep talk about hard work and self-sacrifice."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Not surprisingly, social media have helped propel the newfound audacity.",
+        "M2": "Not surprisingly, social media have helped propel the newfound audacity."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Facebook and a number of homegrown Web sites are giving voice to the sort of government criticism and no-holds-barred debate that almost never appear in the straitjacketed mainstream news media.",
+        "M2": "Facebook and a number of homegrown Web sites are giving voice to the sort of government criticism and no-holds-barred debate that almost never appear in the straitjacketed mainstream news media."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The country’s leaders, eager to lure foreign talent and investment by softening Singapore’s reputation as a gum-banning, rules-obsessed nation, have given wide berth to the online free-for-all.",
+        "M2": "The country’s leaders, eager to lure foreign talent and investment by softening Singapore’s reputation as a gum-banning, rules-obsessed nation, have given wide berth to the online free-for-all."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Many of the most vocal activists are young, wired and cynical about the government’s argument that it alone can maintain the prosperity and social harmony that has transformed this resource-starved island into one of the most advanced economies.",
+        "M2": "Many of the most vocal activists are young, wired and cynical about the government’s argument that it alone can maintain the prosperity and social harmony that has transformed this resource-starved island into one of the most advanced economies."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“In the past we used to only talk quietly in coffee shops,” said Cheong Yaoming, 29, executive editor of The Online Citizen, an influential source for local news and acerbic commentary.",
+        "M2": "“In the past we used to only talk quietly in coffee shops,” said Cheong Yaoming, 29, executive editor of The Online Citizen, an influential source for local news and acerbic commentary."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“But now people are more willing to speak out in public.”",
+        "M2": "“But now people are more willing to speak out in public.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Positive",
+        "sentiment after": "Positive",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Activists say the changes took root in the late 1990s, but the local resurgence really began to shift last year, after the ruling People’s Action Party lost six seats in the 87-member Parliament.",
+        "M2": "Activists say the changes took root in the late 1990s, but the local resurgence really began to shift last year, after the governing People’s Action Party lost six seats in the 87-member Parliament."
+      },
+      "assessment": {
+        "textual differences": "yes",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - The change from 'ruling' to 'governing' may affect the perception of the party's authority.",
+        "importance category": "major wording",
+        "importance reason": "The term 'governing' may imply a more active role compared to 'ruling', influencing reader interpretation.",
+        "literature rationale": "Word choice can significantly influence reader perception and interpretation, particularly in political discourse.",
+        "version diff summary": "Changed 'ruling' to 'governing'.",
+        "overall assessment": "The change in wording from 'ruling' to 'governing' introduces a subtle shift in connotation, which is important for understanding the political context."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Although the party has dominated electoral politics since 1959 — Prime Minister Lee Hsien Loong is the son of Lee Kuan Yew, Singapore’s founding father — its popular support during the election last May dropped to a historic low, with just 60 percent of the vote supporting the party’s candidates, down more than 6 percentage points from the previous election.",
+        "M2": "Although the party has dominated electoral politics since 1959 — Prime Minister Lee Hsien Loong is the son of Lee Kuan Yew, Singapore’s founding father — its popular support during the election last May dropped to a historic low, with just 60 percent of the vote supporting the party’s candidates, down more than 6 percentage points from the previous election."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Terence Chong, a senior fellow at the Institute of Southeast Asian Studies here, said the results prompted Singapore’s leaders to reconsider their institutional animosity toward grass-roots activism.",
+        "M2": "Terence Chong, a senior fellow at the Institute of Southeast Asian Studies here, said the results prompted Singapore’s leaders to reconsider their institutional animosity toward grass-roots activism."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“Since the general elections, the government has been feeling its way,” he said.",
+        "M2": "“Since the general elections, the government has been feeling its way,” he said."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“They want to be seen as engaging civil society groups, but they also fear being seen as weak and bowing to public pressure.”",
+        "M2": "“They want to be seen as engaging civil society groups, but they also fear being seen as weak and bowing to public pressure.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The wary dance between the government and civic activists has been on full display at Bukit Brown, a sprawling public cemetery that would be bisected by the highway, and later sprinkled with new housing.",
+        "M2": "The wary dance between the government and civic activists has been on full display at Bukit Brown, a sprawling public cemetery that would be bisected by the highway, and later sprinkled with new housing."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Having persuaded the government last year to convert an abandoned rail line into a 25-mile-long “green corridor,” preservation groups and environmentalists argue that Bukit Brown — once the final resting place for Singapore’s most illustrious citizens and one of the last of the island’s traditional burial grounds — should be preserved as a nature reserve where people can connect to the past.",
+        "M2": "Having persuaded the government last year to convert an abandoned rail line into a 25-mile-long “green corridor,” preservation groups and environmentalists argue that Bukit Brown — once the final resting place for Singapore’s most illustrious citizens and one of the last of the island’s traditional burial grounds — should be preserved as a nature reserve where people can connect to the past."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "They have organized petition drives and walking tours that have so far drawn more than 3,000 people.",
+        "M2": "They have organized petition drives and walking tours that have so far drawn more than 3,000 people."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "On a recent Sunday, Beng Tang, 40, a schoolteacher, joined one of the tours with his parents, who were looking for a relative’s grave but also reveling in the overgrown vegetation and bird life that has flourished since burials ended in the early 1970s.",
+        "M2": "On a recent Sunday, Beng Tang, 40, a schoolteacher, joined one of the tours with his parents, who were looking for a relative’s grave but also reveling in the overgrown vegetation and bird life that has flourished since burials ended in the early 1970s."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Gesturing to his parents, Mr. Tang said that the older generation of Singaporeans was reluctant to stand up to the government but that he and his peers were increasingly willing to lobby for things they hold dear.",
+        "M2": "Gesturing to his parents, Mr. Tang said that the older generation of Singaporeans was reluctant to stand up to the government but that he and his peers were increasingly willing to lobby for things they hold dear."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Positive",
+        "sentiment after": "Positive",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“If we make enough noise, maybe the government will change its mind,” he said.",
+        "M2": "“If we make enough noise, maybe the government will change its mind,” he said."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Positive",
+        "sentiment after": "Positive",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    }
+  ]
+}

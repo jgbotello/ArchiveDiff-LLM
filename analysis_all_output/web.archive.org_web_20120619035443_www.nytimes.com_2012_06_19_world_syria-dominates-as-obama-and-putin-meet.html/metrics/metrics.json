@@ -1,0 +1,195 @@
+{
+  "summary": {
+    "pairs_total": 1,
+    "units_total": 31,
+    "units_m1_nonnull": 31,
+    "units_m2_nonnull": 31,
+    "units_by_type": {
+      "match": 31,
+      "insert": 0,
+      "delete": 0
+    },
+    "changed_units_by_type": {
+      "match": 1,
+      "insert": 0,
+      "delete": 0
+    },
+    "changed_units_total": 1,
+    "changes": {
+      "total_changed": 1,
+      "yes": 1,
+      "yes_addition": 0,
+      "yes_deletion": 0,
+      "no": 30,
+      "important": 0,
+      "not_important": 1,
+      "unknown_importance_among_changed": 0
+    },
+    "semantic": {
+      "NA": 1
+    },
+    "llm_fields": {
+      "ner_category_changed": {
+        "PERSON": 0,
+        "ORG": 0,
+        "GPE": 0,
+        "LOC": 0,
+        "DATE": 0,
+        "MONEY": 0,
+        "PERCENT": 0
+      },
+      "sentiment_before": {
+        "Neutral": 1
+      },
+      "semantic_impact": {
+        "NA": 1
+      },
+      "grammar_change": {
+        "yes": 1,
+        "no": 0
+      },
+      "pos_category_changed": {
+        "VERB": 0,
+        "NOUN": 0,
+        "PROPN": 0,
+        "ADJ": 0,
+        "NUM": 0,
+        "ADV": 0
+      },
+      "importance_category_freq": {
+        "punctuation": 1
+      },
+      "verbal_changes": {
+        "tense": 0,
+        "aspect": 0,
+        "voice": 0,
+        "modality": 0
+      },
+      "sentiment_after": {
+        "Neutral": 1
+      },
+      "sentiment_change_direction": {
+        "no change": 1
+      },
+      "textual_differences": {
+        "yes": 1,
+        "no": 30
+      },
+      "importance_overall": {
+        "Important": 0,
+        "Not important": 1,
+        "Unknown (among changed)": 0
+      },
+      "rewritten": {
+        "true": 0,
+        "false": 1
+      },
+      "bases": {
+        "units_total": 31,
+        "changed_units_total": 1
+      }
+    }
+  },
+  "per_pair": [
+    {
+      "pair_index": 47,
+      "timestamp_old": "2015-02-19T01:12:38Z",
+      "timestamp_new": "2015-03-12T00:38:28Z",
+      "delta_hours": 503.43055555555554,
+      "units_total": 31,
+      "units_m1_nonnull": 31,
+      "units_m2_nonnull": 31,
+      "units_by_type": {
+        "match": 31,
+        "insert": 0,
+        "delete": 0
+      },
+      "changed_units_by_type": {
+        "match": 1,
+        "insert": 0,
+        "delete": 0
+      },
+      "changed_units_total": 1,
+      "changes": {
+        "total_changed": 1,
+        "yes": 1,
+        "yes_addition": 0,
+        "yes_deletion": 0,
+        "no": 30,
+        "important": 0,
+        "not_important": 1,
+        "unknown_importance_among_changed": 0
+      },
+      "semantic": {
+        "NA": 1
+      },
+      "verbal_flags": {
+        "tense": 0,
+        "aspect": 0,
+        "voice": 0,
+        "modality": 0
+      },
+      "llm_fields": {
+        "textual_differences": {
+          "yes": 1,
+          "no": 30
+        },
+        "semantic_impact": {
+          "NA": 1
+        },
+        "sentiment_before": {
+          "Neutral": 1
+        },
+        "sentiment_after": {
+          "Neutral": 1
+        },
+        "sentiment_change_direction": {
+          "no change": 1
+        },
+        "importance_overall": {
+          "Important": 0,
+          "Not important": 1,
+          "Unknown (among changed)": 0
+        },
+        "importance_category_freq": {
+          "punctuation": 1
+        },
+        "pos_category_changed": {
+          "VERB": 0,
+          "NOUN": 0,
+          "PROPN": 0,
+          "ADJ": 0,
+          "NUM": 0,
+          "ADV": 0
+        },
+        "ner_category_changed": {
+          "PERSON": 0,
+          "ORG": 0,
+          "GPE": 0,
+          "LOC": 0,
+          "DATE": 0,
+          "MONEY": 0,
+          "PERCENT": 0
+        },
+        "grammar_change": {
+          "yes": 1,
+          "no": 0
+        },
+        "verbal_changes": {
+          "tense": 0,
+          "aspect": 0,
+          "voice": 0,
+          "modality": 0
+        },
+        "rewritten": {
+          "true": 0,
+          "false": 1
+        },
+        "bases": {
+          "units_total": 31,
+          "changed_units_total": 1
+        }
+      }
+    }
+  ]
+}

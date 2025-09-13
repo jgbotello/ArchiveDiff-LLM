@@ -1,0 +1,798 @@
+{
+  "pair_index": 6,
+  "n_sentences_old": 30,
+  "n_sentences_new": 31,
+  "metadata_old": {
+    "warc-date": "2012-06-20T18:55:23Z",
+    "warc-record-id": "<urn:uuid:545446a4-5a24-4e1f-a6fa-98165ab2f65e>",
+    "warc-block-digest": "sha1:09412be0970bb49b4f4434fe655eba8ca6f51c5f",
+    "warc-target-uri": "https://web.archive.org/web/20120620185523/https://www.nytimes.com/2012/06/20/world/middleeast/mubarak-is-on-life-support-egypt-security-officials-say.html",
+    "content-length": 4481,
+    "url-hash": "ae224e7ed7e63cefd664e0143be1bbb6"
+  },
+  "metadata_new": {
+    "warc-date": "2012-06-21T02:46:46Z",
+    "warc-record-id": "<urn:uuid:8c190d90-5045-49da-a86d-5a926a950c7b>",
+    "warc-block-digest": "sha1:360163e3b4a352c88efeebd918caa80205e53f88",
+    "warc-target-uri": "https://web.archive.org/web/20120621024646/https://www.nytimes.com/2012/06/20/world/middleeast/mubarak-is-on-life-support-egypt-security-officials-say.html",
+    "content-length": 4552,
+    "url-hash": "f7e04f909f380f9797d400d0ca021e37"
+  },
+  "items": [
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "CAIRO — Former President Hosni Mubarak ’s health deteriorated rapidly and he was rushed to a military hospital on Tuesday, adding to the uncertainty gripping the nation as the ousted strongman’s longtime opponents, the Muslim Brotherhood , battled his onetime allies in the military for political power.",
+        "M2": "CAIRO — Former President Hosni Mubarak ’s health deteriorated rapidly and he was rushed to a military hospital on Tuesday, adding to the uncertainty gripping the nation as the ousted strongman’s longtime opponents, the Muslim Brotherhood , battled his onetime allies in the military for political power."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The first sentence is identical in both mementos, indicating no textual or semantic changes, thus having no impact on the overall narrative."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "There were conflicting reports about Mr. Mubarak’s condition.",
+        "M2": "There were conflicting reports about Mr. Mubarak’s condition."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Consistency in reporting is essential for maintaining trust with the audience, and identical sentences contribute to this goal.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The second sentence remains unchanged in both mementos, indicating no differences in content or meaning."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Government officials and the state news agency initially said that Mr. Mubarak, 84, had suffered cardiac arrest and a stroke in prison and had been declared “clinically dead” after being taken to a military hospital overlooking the Nile.",
+        "M2": "Government officials and the state news agency initially said that Mr. Mubarak, 84, had suffered cardiac arrest and a stroke in prison and had been declared “clinically dead” after being taken to a military hospital overlooking the Nile."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Identical reporting ensures that the audience receives consistent information, which is vital for credibility.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The third sentence is unchanged, maintaining the same information and context in both mementos."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Other reports said he had been placed on life support.",
+        "M2": "Other reports said he had been placed on life support."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining audience trust, and identical sentences support this.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The fourth sentence remains unchanged, indicating no differences in the information conveyed."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "But by early Wednesday, an Interior Ministry spokesman said he was in critical condition but alive.",
+        "M2": "But by early Wednesday, an Interior Ministry spokesman said he was in critical condition but alive."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Identical sentences reinforce the reliability of the information presented, which is essential in journalism.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The fifth sentence is identical in both mementos, indicating no textual or semantic changes."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Mr. Mubarak had been in a prison medical ward since the beginning of the month, when he was given a life sentence in connection with the killing of demonstrators during the 18 days of protests that ended his rule.",
+        "M2": "Mr. Mubarak had been in a prison medical ward since the beginning of the month, when he was given a life sentence in connection with the killing of demonstrators during the 18 days of protests that ended his rule."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sixth sentence is unchanged, maintaining the same information and context in both mementos."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The news of his failing health spread quickly through Tahrir Square, the birthplace of the uprising, where tens of thousands of people were protesting the military council governing Egypt.",
+        "M2": "The news of his failing health spread quickly through Tahrir Square, the birthplace of the uprising, where tens of thousands of people were protesting the military council governing Egypt."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Consistency in reporting is essential for maintaining trust with the audience, and identical sentences contribute to this goal.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The seventh sentence remains unchanged, indicating no differences in the information conveyed."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "In recent days, the generals had moved to seize the kind of uncontested authority that the former president wielded during his nearly three decades in power.",
+        "M2": "In recent days, the generals had moved to seize the kind of uncontested authority that the former president wielded during his nearly three decades in power."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Identical reporting ensures that the audience receives consistent information, which is vital for credibility.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The eighth sentence is identical in both mementos, indicating no textual or semantic changes."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The confusion over his health injected new volatility into the country’s growing political and constitutional crisis, even as the two candidates to replace Mr. Mubarak as president both declared themselves the winners of the weekend’s election.",
+        "M2": "The confusion over his health injected new volatility into the country’s growing political and constitutional crisis, even as the two candidates to replace Mr. Mubarak as president both declared themselves the winners of the weekend’s election."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The ninth sentence is unchanged, maintaining the same information and context in both mementos."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Analysts marveled that Mr. Mubarak had lost consciousness at the climactic moment of the struggle over the future of the system he had defined for so long, and just two days after the vote to choose his successor.",
+        "M2": "Analysts marveled that Mr. Mubarak had lost consciousness at the climactic moment of the struggle over the future of the system he had defined for so long, and just two days after the vote to choose his successor."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Consistency in reporting is essential for maintaining trust with the audience, and identical sentences contribute to this goal.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The tenth sentence remains unchanged, indicating no differences in the information conveyed."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“It is very Shakespearean,” said Diaa Rashwan, an analyst at Al Ahram Center, a state-financed research institute.",
+        "M2": "“It is very Shakespearean,” said Diaa Rashwan, an analyst at Al Ahram Center, a state-financed research institute."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The eleventh sentence is identical in both mementos, indicating no textual or semantic changes."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“To himself, he is eternal.",
+        "M2": "“To himself, he is eternal."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Consistency in reporting is essential for maintaining trust with the audience, and identical sentences contribute to this goal.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The twelfth sentence remains unchanged, indicating no differences in the information conveyed."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "There can be nobody after him.",
+        "M2": "There can be nobody after him."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The thirteenth sentence is identical in both mementos, indicating no textual or semantic changes."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "He does not want to hear the name of his successor.”",
+        "M2": "He does not want to hear the name of his successor.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Consistency in reporting is essential for maintaining trust with the audience, and identical sentences contribute to this goal.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The fourteenth sentence remains unchanged, indicating no differences in the information conveyed."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "On Monday, Mohamed Morsi, a Brotherhood leader, said he had won Egypt’s first competitive presidential election, beating Ahmed Shafik, Mr. Mubarak’s last prime minister, with 52 percent of the vote.",
+        "M2": "On Monday, Mohamed Morsi, a Brotherhood leader, said he had won Egypt’s first competitive presidential election, beating Ahmed Shafik, Mr. Mubarak’s last prime minister, with 52 percent of the vote."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The fifteenth sentence is identical in both mementos, indicating no textual or semantic changes."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The votes were counted publicly at the polling stations, and Egyptian state news media reported the same count as the Brotherhood.",
+        "M2": "The votes were counted publicly at the polling stations, and Egyptian state news media reported the same count as the Brotherhood."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Consistency in reporting is essential for maintaining trust with the audience, and identical sentences contribute to this goal.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sixteenth sentence remains unchanged, indicating no differences in the information conveyed."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Official vote results are expected to be announced this week, but on Tuesday, Mr. Shafik disputed several of the tallies, including those reported in the state news media, that forecast Mr. Morsi as the winner.",
+        "M2": "Official vote results are expected to be announced this week, but on Tuesday, Mr. Shafik disputed several of the tallies, including those reported in the state news media, that forecast Mr. Morsi as the winner."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The seventeenth sentence is identical in both mementos, indicating no textual or semantic changes."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "A spokesman for Mr. Shafik, Ahmad Sarhan, said without explanation that he had won with 51.5 percent of the vote.",
+        "M2": "A spokesman for Mr. Shafik, Ahmad Sarhan, said without explanation that he had won with 51.5 percent of the vote."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Consistency in reporting is essential for maintaining trust with the audience, and identical sentences contribute to this goal.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The eighteenth sentence remains unchanged, indicating no differences in the information conveyed."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "But that announcement seemed another tactic in a battle that began before voters went to the polls.",
+        "M2": "But that announcement seemed another tactic in a battle that began before voters went to the polls."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The nineteenth sentence is identical in both mementos, indicating no textual or semantic changes."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Last week, the generals dissolved Parliament, which was dominated by the Brotherhood, saying the move was justified because of a decision by a court of judges appointed by Mr. Mubarak.",
+        "M2": "Last week, the generals dissolved Parliament, which was dominated by the Brotherhood, saying the move was justified because of a decision by a court of judges appointed by Mr. Mubarak."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The twentieth sentence remains unchanged, indicating no differences in the information conveyed."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The generals also proceeded to issue their own interim constitution, entrenching their power while all but eviscerating the authority of the new president.",
+        "M2": "The generals also proceeded to issue their own interim constitution, entrenching their power while all but eviscerating the authority of the new president."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The twenty-first sentence is identical in both mementos, indicating no textual or semantic changes."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The interim constitution also provided the generals and the Mubarak-appointed judiciary with broad sway over the drafting of Egypt’s next permanent constitution.",
+        "M2": "The interim constitution also provided the generals and the Mubarak-appointed judiciary with broad sway over the drafting of Egypt’s next permanent constitution."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The twenty-second sentence remains unchanged, indicating no differences in the information conveyed."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Former President Jimmy Carter, whose Carter Center monitored the election, said in a statement on Tuesday he was “deeply troubled by the undemocratic turn that Egypt has taken.”",
+        "M2": "Former President Jimmy Carter, whose Carter Center monitored the election, said in a statement on Tuesday he was “deeply troubled by the undemocratic turn that Egypt has taken.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The twenty-third sentence is identical in both mementos, indicating no textual or semantic changes."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The center expressed its “grave concern about the broader political and constitutional context, which calls into question the meaning and purpose of the elections.”",
+        "M2": "The center expressed its “grave concern about the broader political and constitutional context, which calls into question the meaning and purpose of the elections.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The twenty-fourth sentence remains unchanged, indicating no differences in the information conveyed."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Mr. Carter said that in contrast to the first round of voting last month, some international observers had been subjected to “heightened scrutiny and intimidation from military personnel” during last weekend’s vote.",
+        "M2": "Mr. Carter said that in contrast to the first round of voting last month, some international observers had been subjected to “heightened scrutiny and intimidation from military personnel” during last weekend’s vote."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The twenty-fifth sentence is identical in both mementos, indicating no textual or semantic changes."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“There was a small but notable pattern of intimidation of Carter Center witnesses,” Mr. Carter said.",
+        "M2": "“There was a small but notable pattern of intimidation of Carter Center witnesses,” Mr. Carter said."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The twenty-sixth sentence remains unchanged, indicating no differences in the information conveyed."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The military filmed observers at several polling places, and one international observer felt coerced to make positive statements about the process.",
+        "M2": "The military filmed observers at several polling places, and one international observer felt coerced to make positive statements about the process."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The twenty-seventh sentence is identical in both mementos, indicating no textual or semantic changes."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Mr. Carter said he was also concerned about the limitations put on his teams’ ability to monitor the vote and the ballot counting.",
+        "M2": "Mr. Carter said he was also concerned about the limitations put on his teams’ ability to monitor the vote and the ballot counting."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The twenty-eighth sentence remains unchanged, indicating no differences in the information conveyed."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The “restrictions are contrary to the core principles of credible and effective election observation,” he said in the statement.",
+        "M2": "The “restrictions are contrary to the core principles of credible and effective election observation,” he said in the statement."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The twenty-ninth sentence is identical in both mementos, indicating no textual or semantic changes."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“The Carter Center will not witness future elections in such circumstances.”",
+        "M2": "“The Carter Center will not witness future elections in such circumstances.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The thirtieth sentence remains unchanged, indicating no differences in the information conveyed."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Mayy El Sheikh, Dina Salah Amer and Liam Stack contributed reporting."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - The addition of contributors provides transparency and attribution.",
+        "importance category": "attribution/hedging",
+        "importance reason": "Attributing reporting to specific individuals enhances credibility and accountability in journalism.",
+        "literature rationale": "Attribution in journalism is essential for establishing credibility and trust with the audience. It allows readers to assess the reliability of the information based on the sources involved.",
+        "version diff summary": "M2 includes an attribution statement that is absent in M1.",
+        "overall assessment": "The addition of the attribution statement in M2 enhances transparency and accountability, which is important for journalistic integrity."
+      }
+    }
+  ]
+}

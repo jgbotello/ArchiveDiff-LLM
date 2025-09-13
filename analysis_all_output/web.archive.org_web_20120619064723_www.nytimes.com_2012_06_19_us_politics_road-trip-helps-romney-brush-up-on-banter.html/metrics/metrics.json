@@ -1,0 +1,369 @@
+{
+  "summary": {
+    "pairs_total": 3,
+    "units_total": 132,
+    "units_m1_nonnull": 132,
+    "units_m2_nonnull": 132,
+    "units_by_type": {
+      "match": 132,
+      "insert": 0,
+      "delete": 0
+    },
+    "changed_units_by_type": {
+      "match": 1,
+      "insert": 0,
+      "delete": 0
+    },
+    "changed_units_total": 1,
+    "changes": {
+      "total_changed": 1,
+      "yes": 1,
+      "yes_addition": 0,
+      "yes_deletion": 0,
+      "no": 131,
+      "important": 0,
+      "not_important": 1,
+      "unknown_importance_among_changed": 0
+    },
+    "semantic": {
+      "low": 1
+    },
+    "llm_fields": {
+      "ner_category_changed": {
+        "PERSON": 0,
+        "ORG": 0,
+        "GPE": 0,
+        "LOC": 0,
+        "DATE": 0,
+        "MONEY": 0,
+        "PERCENT": 0
+      },
+      "sentiment_before": {
+        "Neutral": 1
+      },
+      "semantic_impact": {
+        "low": 1
+      },
+      "grammar_change": {
+        "yes": 0,
+        "no": 1
+      },
+      "pos_category_changed": {
+        "VERB": 0,
+        "NOUN": 1,
+        "PROPN": 0,
+        "ADJ": 0,
+        "NUM": 0,
+        "ADV": 0
+      },
+      "importance_category_freq": {
+        "major wording": 1
+      },
+      "verbal_changes": {
+        "tense": 0,
+        "aspect": 0,
+        "voice": 0,
+        "modality": 0
+      },
+      "sentiment_after": {
+        "Neutral": 1
+      },
+      "sentiment_change_direction": {
+        "no change": 1
+      },
+      "textual_differences": {
+        "no": 131,
+        "yes": 1
+      },
+      "importance_overall": {
+        "Important": 0,
+        "Not important": 1,
+        "Unknown (among changed)": 0
+      },
+      "rewritten": {
+        "true": 0,
+        "false": 1
+      },
+      "bases": {
+        "units_total": 132,
+        "changed_units_total": 1
+      }
+    }
+  },
+  "per_pair": [
+    {
+      "pair_index": 1,
+      "timestamp_old": "2012-06-19T15:19:11Z",
+      "timestamp_new": "2012-06-19T19:06:58Z",
+      "delta_hours": 3.796388888888889,
+      "units_total": 44,
+      "units_m1_nonnull": 44,
+      "units_m2_nonnull": 44,
+      "units_by_type": {
+        "match": 44,
+        "insert": 0,
+        "delete": 0
+      },
+      "changed_units_by_type": {
+        "match": 0,
+        "insert": 0,
+        "delete": 0
+      },
+      "changed_units_total": 0,
+      "changes": {
+        "total_changed": 0,
+        "yes": 0,
+        "yes_addition": 0,
+        "yes_deletion": 0,
+        "no": 44,
+        "important": 0,
+        "not_important": 0,
+        "unknown_importance_among_changed": 0
+      },
+      "semantic": {},
+      "verbal_flags": {
+        "tense": 0,
+        "aspect": 0,
+        "voice": 0,
+        "modality": 0
+      },
+      "llm_fields": {
+        "textual_differences": {
+          "no": 44
+        },
+        "semantic_impact": {},
+        "sentiment_before": {},
+        "sentiment_after": {},
+        "sentiment_change_direction": {},
+        "importance_overall": {
+          "Important": 0,
+          "Not important": 0,
+          "Unknown (among changed)": 0
+        },
+        "importance_category_freq": {},
+        "pos_category_changed": {
+          "VERB": 0,
+          "NOUN": 0,
+          "PROPN": 0,
+          "ADJ": 0,
+          "NUM": 0,
+          "ADV": 0
+        },
+        "ner_category_changed": {
+          "PERSON": 0,
+          "ORG": 0,
+          "GPE": 0,
+          "LOC": 0,
+          "DATE": 0,
+          "MONEY": 0,
+          "PERCENT": 0
+        },
+        "grammar_change": {
+          "yes": 0,
+          "no": 0
+        },
+        "verbal_changes": {
+          "tense": 0,
+          "aspect": 0,
+          "voice": 0,
+          "modality": 0
+        },
+        "rewritten": {
+          "true": 0,
+          "false": 0
+        },
+        "bases": {
+          "units_total": 44,
+          "changed_units_total": 0
+        }
+      }
+    },
+    {
+      "pair_index": 80,
+      "timestamp_old": "2013-04-06T11:54:24Z",
+      "timestamp_new": "2015-03-25T07:49:56Z",
+      "delta_hours": 17227.925555555557,
+      "units_total": 42,
+      "units_m1_nonnull": 42,
+      "units_m2_nonnull": 42,
+      "units_by_type": {
+        "match": 42,
+        "insert": 0,
+        "delete": 0
+      },
+      "changed_units_by_type": {
+        "match": 1,
+        "insert": 0,
+        "delete": 0
+      },
+      "changed_units_total": 1,
+      "changes": {
+        "total_changed": 1,
+        "yes": 1,
+        "yes_addition": 0,
+        "yes_deletion": 0,
+        "no": 41,
+        "important": 0,
+        "not_important": 1,
+        "unknown_importance_among_changed": 0
+      },
+      "semantic": {
+        "low": 1
+      },
+      "verbal_flags": {
+        "tense": 0,
+        "aspect": 0,
+        "voice": 0,
+        "modality": 0
+      },
+      "llm_fields": {
+        "textual_differences": {
+          "yes": 1,
+          "no": 41
+        },
+        "semantic_impact": {
+          "low": 1
+        },
+        "sentiment_before": {
+          "Neutral": 1
+        },
+        "sentiment_after": {
+          "Neutral": 1
+        },
+        "sentiment_change_direction": {
+          "no change": 1
+        },
+        "importance_overall": {
+          "Important": 0,
+          "Not important": 1,
+          "Unknown (among changed)": 0
+        },
+        "importance_category_freq": {
+          "major wording": 1
+        },
+        "pos_category_changed": {
+          "VERB": 0,
+          "NOUN": 1,
+          "PROPN": 0,
+          "ADJ": 0,
+          "NUM": 0,
+          "ADV": 0
+        },
+        "ner_category_changed": {
+          "PERSON": 0,
+          "ORG": 0,
+          "GPE": 0,
+          "LOC": 0,
+          "DATE": 0,
+          "MONEY": 0,
+          "PERCENT": 0
+        },
+        "grammar_change": {
+          "yes": 0,
+          "no": 1
+        },
+        "verbal_changes": {
+          "tense": 0,
+          "aspect": 0,
+          "voice": 0,
+          "modality": 0
+        },
+        "rewritten": {
+          "true": 0,
+          "false": 1
+        },
+        "bases": {
+          "units_total": 42,
+          "changed_units_total": 1
+        }
+      }
+    },
+    {
+      "pair_index": 81,
+      "timestamp_old": "2015-03-25T07:49:56Z",
+      "timestamp_new": "2015-11-05T10:30:20Z",
+      "delta_hours": 5402.673333333333,
+      "units_total": 46,
+      "units_m1_nonnull": 46,
+      "units_m2_nonnull": 46,
+      "units_by_type": {
+        "match": 46,
+        "insert": 0,
+        "delete": 0
+      },
+      "changed_units_by_type": {
+        "match": 0,
+        "insert": 0,
+        "delete": 0
+      },
+      "changed_units_total": 0,
+      "changes": {
+        "total_changed": 0,
+        "yes": 0,
+        "yes_addition": 0,
+        "yes_deletion": 0,
+        "no": 46,
+        "important": 0,
+        "not_important": 0,
+        "unknown_importance_among_changed": 0
+      },
+      "semantic": {},
+      "verbal_flags": {
+        "tense": 0,
+        "aspect": 0,
+        "voice": 0,
+        "modality": 0
+      },
+      "llm_fields": {
+        "textual_differences": {
+          "no": 46
+        },
+        "semantic_impact": {},
+        "sentiment_before": {},
+        "sentiment_after": {},
+        "sentiment_change_direction": {},
+        "importance_overall": {
+          "Important": 0,
+          "Not important": 0,
+          "Unknown (among changed)": 0
+        },
+        "importance_category_freq": {},
+        "pos_category_changed": {
+          "VERB": 0,
+          "NOUN": 0,
+          "PROPN": 0,
+          "ADJ": 0,
+          "NUM": 0,
+          "ADV": 0
+        },
+        "ner_category_changed": {
+          "PERSON": 0,
+          "ORG": 0,
+          "GPE": 0,
+          "LOC": 0,
+          "DATE": 0,
+          "MONEY": 0,
+          "PERCENT": 0
+        },
+        "grammar_change": {
+          "yes": 0,
+          "no": 0
+        },
+        "verbal_changes": {
+          "tense": 0,
+          "aspect": 0,
+          "voice": 0,
+          "modality": 0
+        },
+        "rewritten": {
+          "true": 0,
+          "false": 0
+        },
+        "bases": {
+          "units_total": 46,
+          "changed_units_total": 0
+        }
+      }
+    }
+  ]
+}

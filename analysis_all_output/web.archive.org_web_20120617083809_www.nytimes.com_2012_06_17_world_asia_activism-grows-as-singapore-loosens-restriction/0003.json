@@ -1,0 +1,1223 @@
+{
+  "pair_index": 3,
+  "n_sentences_old": 25,
+  "n_sentences_new": 48,
+  "metadata_old": {
+    "warc-date": "2012-06-20T23:43:28Z",
+    "warc-record-id": "<urn:uuid:fa2c0aad-8198-4106-8ef1-107a7fc8cc94>",
+    "warc-block-digest": "sha1:883172bca337b53408946c915dba59a0d010582d",
+    "warc-target-uri": "https://web.archive.org/web/20120620234328/https://www.nytimes.com/2012/06/17/world/asia/activism-grows-as-singapore-loosens-restrictions.html",
+    "content-length": 4931,
+    "url-hash": "64471df10bcd8d98b966719ed5cf65cd"
+  },
+  "metadata_new": {
+    "warc-date": "2012-09-11T04:30:31Z",
+    "warc-record-id": "<urn:uuid:481b0678-b995-4ccc-9b6b-e876d1821690>",
+    "warc-block-digest": "sha1:18285605e4d07d8fcdaf7ad900ebb561590c63ac",
+    "warc-target-uri": "https://web.archive.org/web/20120911043031/https://www.nytimes.com/2012/06/17/world/asia/activism-grows-as-singapore-loosens-restrictions.html",
+    "content-length": 8081,
+    "url-hash": "4b404fd8fa7eaa03318c38176c59996f"
+  },
+  "items": [
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "SINGAPORE — Those accustomed to thinking of this booming city-state as a bastion of apolitical strivers and shopaholics might be stunned by the burst of civic activism sweeping this crowded flyspeck of an island.",
+        "M2": "SINGAPORE — Those accustomed to thinking of this booming city-state as a bastion of apolitical strivers and shopaholics might be stunned by the burst of civic activism sweeping this crowded flyspeck of an island."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - no changes made.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The first sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "On a recent weekend, hundreds clamored in a downtown park for a repeal of the country’s draconian antisubversion law, while a dozen urbane Singaporeans made a quiet stand by photographing the banyan trees and historic tombstones that the government plans to bury under a highway.",
+        "M2": "On a recent weekend, hundreds clamored in a downtown park for a repeal of the country’s draconian antisubversion law, while a dozen urbane Singaporeans made a quiet stand by photographing the banyan trees and historic tombstones that the government plans to bury under a highway."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - no changes made.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The second sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Across the city, gay-rights campaigners were finalizing plans for a rally that is expected to draw thousands.",
+        "M2": "Across the city, gay-rights campaigners were finalizing plans for a rally that is expected to draw thousands."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - no changes made.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The third sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "While no one is predicting a new era of noisy, public agitation or the imminent end of Singapore’s single-party dominance, social activists and political analysts point to the increasing number of people who are shedding a long nurtured reluctance to challenge the nation’s paternalistic leaders and their “autocratic light” style of governance.",
+        "M2": "While no one is predicting a new era of noisy, public agitation or the imminent end of Singapore’s single-party dominance, social activists and political analysts point to the increasing number of people who are shedding a long nurtured reluctance to challenge the nation’s paternalistic leaders and their “autocratic light” style of governance."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - no changes made.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The fourth sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“People are beginning to feel a bit more at ease, and the government is also loosening up,” said Vincent Cheng, 65, a former Roman Catholic social worker who was tortured and imprisoned for three years in the late 1980s after the government accused him of helping orchestrate a Marxist conspiracy.",
+        "M2": "“People are beginning to feel a bit more at ease, and the government is also loosening up,” said Vincent Cheng, 65, a former Roman Catholic social worker who was tortured and imprisoned for three years in the late 1980s after the government accused him of helping orchestrate a Marxist conspiracy."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - no changes made.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The fifth sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The change is evident in a variety of forums.",
+        "M2": "The change is evident in a variety of forums."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - no changes made.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sixth sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "After a welcoming speech to college students late last month, Deputy Prime Minister Teo Chee Hean found himself dodging pointed questions about Singapore’s news media restrictions and its hamstrung democracy.",
+        "M2": "After a welcoming speech to college students late last month, Deputy Prime Minister Teo Chee Hean found himself dodging pointed questions about Singapore’s news media restrictions and its hamstrung democracy."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - no changes made.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The seventh sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Those in attendance said that Mr. Teo was taken aback by the boldness of the crowd, which in years past would have quietly absorbed his pep talk about hard work and self-sacrifice.",
+        "M2": "Those in attendance said that Mr. Teo was taken aback by the boldness of the crowd, which in years past would have quietly absorbed his pep talk about hard work and self-sacrifice."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - no changes made.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The eighth sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Not surprisingly, social media have helped propel the newfound audacity.",
+        "M2": "Not surprisingly, social media have helped propel the newfound audacity."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - no changes made.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The ninth sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Facebook and a number of homegrown Web sites are giving voice to the sort of government criticism and no-holds-barred debate that almost never appear in the straitjacketed mainstream news media.",
+        "M2": "Facebook and a number of homegrown Web sites are giving voice to the sort of government criticism and no-holds-barred debate that almost never appear in the straitjacketed mainstream news media."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - no changes made.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The tenth sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The country’s leaders, eager to lure foreign talent and investment by softening Singapore’s reputation as a gum-banning, rules-obsessed nation, have given wide berth to the online free-for-all.",
+        "M2": "The country’s leaders, eager to lure foreign talent and investment by softening Singapore’s reputation as a gum-banning, rules-obsessed nation, have given wide berth to the online free-for-all."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - no changes made.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The eleventh sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Many of the most vocal activists are young, wired and cynical about the government’s argument that it alone can maintain the prosperity and social harmony that has transformed this resource-starved island into one of the most advanced economies.",
+        "M2": "Many of the most vocal activists are young, wired and cynical about the government’s argument that it alone can maintain the prosperity and social harmony that has transformed this resource-starved island into one of the most advanced economies."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - no changes made.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The twelfth sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“In the past we used to only talk quietly in coffee shops,” said Cheong Yaoming, 29, executive editor of The Online Citizen, an influential source for local news and acerbic commentary.",
+        "M2": "“In the past we used to only talk quietly in coffee shops,” said Cheong Yaoming, 29, executive editor of The Online Citizen, an influential source for local news and acerbic commentary."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - no changes made.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The thirteenth sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“But now people are more willing to speak out in public.”",
+        "M2": "“But now people are more willing to speak out in public.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - no changes made.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The fourteenth sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Activists say the changes took root in the late 1990s, but the local resurgence really began to shift last year, after the governing People’s Action Party lost six seats in the 87-member Parliament.",
+        "M2": "Activists say the changes took root in the late 1990s, but the local resurgence really began to shift last year, after the governing People’s Action Party lost six seats in the 87-member Parliament."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - no changes made.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The fifteenth sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Although the party has dominated electoral politics since 1959 — Prime Minister Lee Hsien Loong is the son of Lee Kuan Yew, Singapore’s founding father — its popular support during the election last May dropped to a historic low, with just 60 percent of the vote supporting the party’s candidates, down more than 6 percentage points from the previous election.",
+        "M2": "Although the party has dominated electoral politics since 1959 — Prime Minister Lee Hsien Loong is the son of Lee Kuan Yew, Singapore’s founding father — its popular support during the election last May dropped to a historic low, with just 60 percent of the vote supporting the party’s candidates, down more than 6 percentage points from the previous election."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - no changes made.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sixteenth sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Terence Chong, a senior fellow at the Institute of Southeast Asian Studies here, said the results prompted Singapore’s leaders to reconsider their institutional animosity toward grass-roots activism.",
+        "M2": "Terence Chong, a senior fellow at the Institute of Southeast Asian Studies here, said the results prompted Singapore’s leaders to reconsider their institutional animosity toward grass-roots activism."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - no changes made.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The seventeenth sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“Since the general elections, the government has been feeling its way,” he said.",
+        "M2": "“Since the general elections, the government has been feeling its way,” he said."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - no changes made.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The eighteenth sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“They want to be seen as engaging civil society groups, but they also fear being seen as weak and bowing to public pressure.”",
+        "M2": "“They want to be seen as engaging civil society groups, but they also fear being seen as weak and bowing to public pressure.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - no changes made.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The nineteenth sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The wary dance between the government and civic activists has been on full display at Bukit Brown, a sprawling public cemetery that would be bisected by the highway, and later sprinkled with new housing.",
+        "M2": "The wary dance between the government and civic activists has been on full display at Bukit Brown, a sprawling public cemetery that would be bisected by the highway, and later sprinkled with new housing."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - no changes made.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The twentieth sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Having persuaded the government last year to convert an abandoned rail line into a 25-mile-long “green corridor,” preservation groups and environmentalists argue that Bukit Brown — once the final resting place for Singapore’s most illustrious citizens and one of the last of the island’s traditional burial grounds — should be preserved as a nature reserve where people can connect to the past.",
+        "M2": "Having persuaded the government last year to convert an abandoned rail line into a 25-mile-long “green corridor,” preservation groups and environmentalists argue that Bukit Brown — once the final resting place for Singapore’s most illustrious citizens and one of the last of the island’s traditional burial grounds — should be preserved as a nature reserve where people can connect to the past."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - no changes made.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The twenty-first sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "They have organized petition drives and walking tours that have so far drawn more than 3,000 people.",
+        "M2": "They have organized petition drives and walking tours that have so far drawn more than 3,000 people."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - no changes made.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The twenty-second sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "On a recent Sunday, Beng Tang, 40, a schoolteacher, joined one of the tours with his parents, who were looking for a relative’s grave but also reveling in the overgrown vegetation and bird life that has flourished since burials ended in the early 1970s.",
+        "M2": "On a recent Sunday, Beng Tang, 40, a schoolteacher, joined one of the tours with his parents, who were looking for a relative’s grave but also reveling in the overgrown vegetation and bird life that has flourished since burials ended in the early 1970s."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - no changes made.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The twenty-third sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Gesturing to his parents, Mr. Tang said that the older generation of Singaporeans was reluctant to stand up to the government but that he and his peers were increasingly willing to lobby for things they hold dear.",
+        "M2": "Gesturing to his parents, Mr. Tang said that the older generation of Singaporeans was reluctant to stand up to the government but that he and his peers were increasingly willing to lobby for things they hold dear."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - no changes made.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The twenty-fourth sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“If we make enough noise, maybe the government will change its mind,” he said.",
+        "M2": "“If we make enough noise, maybe the government will change its mind,” he said."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - no changes made.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The twenty-fifth sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Gay-rights advocates are embracing a bolder approach in their battle against discrimination, which they say is abetted by a law that bans sexual activity between men — even if it is seldom enforced."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - introduces new context about gay-rights advocates.",
+        "importance category": "contextual addition",
+        "importance reason": "This addition provides insight into the evolving landscape of civic activism in Singapore.",
+        "literature rationale": "Contextual additions can significantly enhance the understanding of social movements and their implications in journalism.",
+        "version diff summary": "M2 introduces a new sentence about gay-rights advocates.",
+        "overall assessment": "The addition of this sentence in M2 provides important context regarding the activism of gay-rights advocates, reflecting a broader trend in civic engagement."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "On June 30, they expect thousands to show up in Hong Lim Park for an event billed as Pink Dot."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - provides specific details about an upcoming event.",
+        "importance category": "event detail",
+        "importance reason": "This detail adds specificity to the ongoing activism and highlights the mobilization of the community.",
+        "literature rationale": "Event details are crucial in journalism as they provide concrete examples of activism and community engagement.",
+        "version diff summary": "M2 adds a specific date and event related to the gay-rights movement.",
+        "overall assessment": "The addition of this event detail in M2 enhances the narrative by providing a concrete example of ongoing activism."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Participants are being encouraged to wear pink and converge at dusk to form a large fuchsia human circle that will be illuminated from above."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - describes the visual aspect of the event.",
+        "importance category": "event detail",
+        "importance reason": "This description adds a vivid visual element to the narrative of the event.",
+        "literature rationale": "Descriptive details in journalism enhance reader engagement and understanding of events.",
+        "version diff summary": "M2 adds a description of the event's visual aspect.",
+        "overall assessment": "The addition of this descriptive detail in M2 enriches the narrative by providing a vivid image of the event."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "The first Pink Dot event in 2009 drew more than 1,000 people; last year attendance surpassed 10,000."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - provides historical context and growth of the event.",
+        "importance category": "historical context",
+        "importance reason": "This addition highlights the growth of the Pink Dot event, showcasing increasing community support.",
+        "literature rationale": "Historical context in journalism is vital for understanding the evolution of social movements and their impact.",
+        "version diff summary": "M2 adds historical attendance figures for the Pink Dot event.",
+        "overall assessment": "The addition of historical attendance figures in M2 provides important context regarding the growth of the Pink Dot event."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "In a sign of lingering skittishness, organizers have been careful not to call the event a protest."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - indicates the cautious approach of organizers.",
+        "importance category": "organizational strategy",
+        "importance reason": "This addition reveals the strategic considerations of organizers in a sensitive political environment.",
+        "literature rationale": "Understanding organizational strategies in activism is crucial for analyzing the dynamics of social movements.",
+        "version diff summary": "M2 adds a sentence about the organizers' cautious approach.",
+        "overall assessment": "The addition of this sentence in M2 highlights the strategic considerations of organizers in the context of activism."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "They have also urged foreigners to respect a law that bars nonresidents from participating in rallies in a section of the park, known as Speaker’s Corner, which is the only legal spot for free-speech activities."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - clarifies legal restrictions on participation.",
+        "importance category": "legal context",
+        "importance reason": "This addition provides important context regarding legal restrictions affecting the event.",
+        "literature rationale": "Legal context is essential in journalism to inform readers about the implications of laws on civic engagement.",
+        "version diff summary": "M2 adds a sentence about legal restrictions on participation.",
+        "overall assessment": "The addition of this legal context in M2 enhances the understanding of the constraints faced by organizers."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "For many, the June 2 rally in Hong Lim Park that called for a repeal of the antisubversion law was a landmark event."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - highlights the significance of a specific event.",
+        "importance category": "event significance",
+        "importance reason": "This addition emphasizes the importance of the June 2 rally in the context of civic activism.",
+        "literature rationale": "Highlighting significant events in journalism is crucial for understanding the trajectory of social movements.",
+        "version diff summary": "M2 adds a sentence about the significance of the June 2 rally.",
+        "overall assessment": "The addition of this sentence in M2 underscores the importance of the June 2 rally in the broader narrative of civic activism."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "It was timed to coincide with the 25th anniversary of Operation Spectrum, a crackdown on activists that led to the arrest of 22 people."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - provides historical context for the rally.",
+        "importance category": "historical context",
+        "importance reason": "This addition connects the rally to a significant historical event, enhancing its relevance.",
+        "literature rationale": "Historical context is vital in journalism to provide depth and understanding of current events.",
+        "version diff summary": "M2 adds a sentence about the timing of the rally in relation to Operation Spectrum.",
+        "overall assessment": "The addition of this historical context in M2 enriches the narrative by linking the rally to a significant past event."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "The detainees included student leaders, lawyers and teachers who were bundled away during nighttime raids and forced, during what they say were harsh interrogations, to confess to an antigovernment plot."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - details the impact of Operation Spectrum.",
+        "importance category": "historical detail",
+        "importance reason": "This addition provides critical details about the consequences of the crackdown on activists.",
+        "literature rationale": "Detailed accounts of historical events are essential in journalism to inform readers about their implications.",
+        "version diff summary": "M2 adds a sentence detailing the impact of Operation Spectrum.",
+        "overall assessment": "The addition of this detail in M2 enhances the understanding of the historical consequences of Operation Spectrum."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Over the years, legal advocates say more than 2,600 people have been swept up by the law, the Internal Security Act, which allows the authorities to imprison suspects without trial."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - provides quantitative context about the law's impact.",
+        "importance category": "quantitative detail",
+        "importance reason": "This addition offers a significant statistic that highlights the law's extensive reach.",
+        "literature rationale": "Quantitative details in journalism are crucial for illustrating the scale and impact of legal frameworks.",
+        "version diff summary": "M2 adds a sentence with statistics about the Internal Security Act.",
+        "overall assessment": "The addition of this quantitative detail in M2 underscores the extensive impact of the Internal Security Act."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "A spokesman for the Ministry of Home Affairs declined a request for an interview."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - indicates the government's stance on inquiries.",
+        "importance category": "government response",
+        "importance reason": "This addition reflects the government's reluctance to engage with media inquiries.",
+        "literature rationale": "Government responses are critical in journalism as they provide insight into official positions and accountability.",
+        "version diff summary": "M2 adds a sentence about the Ministry of Home Affairs' response.",
+        "overall assessment": "The addition of this sentence in M2 highlights the government's stance on media inquiries."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Instead he referred to recent statements defending the law as a necessary weapon against security threats."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - provides insight into the government's justification for the law.",
+        "importance category": "government justification",
+        "importance reason": "This addition reveals the rationale behind the government's stance on the Internal Security Act.",
+        "literature rationale": "Understanding government justifications is essential in journalism for analyzing policy implications and accountability.",
+        "version diff summary": "M2 adds a sentence about the government's defense of the law.",
+        "overall assessment": "The addition of this sentence in M2 provides important context regarding the government's justification for the Internal Security Act."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "The ministry, in a statement, also rejected calls for an inquiry into the detentions of the late-1980s, which it said were justified at the time."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - highlights the ministry's position on past detentions.",
+        "importance category": "historical context",
+        "importance reason": "This addition provides context regarding the ministry's stance on historical detentions.",
+        "literature rationale": "Historical context is vital in journalism to inform readers about the implications of past actions.",
+        "version diff summary": "M2 adds a sentence about the ministry's rejection of calls for an inquiry.",
+        "overall assessment": "The addition of this sentence in M2 enhances the understanding of the ministry's position on historical detentions."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "“While it seems distant now, the Communist threat to Singapore was a real and serious one,” the statement said."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - provides the ministry's perspective on historical threats.",
+        "importance category": "historical justification",
+        "importance reason": "This addition offers insight into the ministry's rationale for past actions based on perceived threats.",
+        "literature rationale": "Understanding historical justifications is crucial in journalism for analyzing the context of government actions.",
+        "version diff summary": "M2 adds a sentence about the ministry's perspective on the Communist threat.",
+        "overall assessment": "The addition of this sentence in M2 provides important context regarding the ministry's perspective on historical threats."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "“Without the resolute steps taken then by the government, the outcome for Singapore would have been drastically different.”"
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - emphasizes the government's view on the necessity of past actions.",
+        "importance category": "government perspective",
+        "importance reason": "This addition underscores the government's justification for its past actions in response to perceived threats.",
+        "literature rationale": "Government perspectives are essential in journalism for understanding the rationale behind policy decisions.",
+        "version diff summary": "M2 adds a sentence emphasizing the government's view on the necessity of past actions.",
+        "overall assessment": "The addition of this sentence in M2 highlights the government's perspective on the necessity of its past actions."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Constance Singam, 75, a veteran activist and a former president of Singapore’s largest women’s organization, said Operation Spectrum left deep scars on society that have yet to heal."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - introduces a personal perspective on the impact of Operation Spectrum.",
+        "importance category": "personal testimony",
+        "importance reason": "This addition provides a personal account of the long-term effects of government actions on society.",
+        "literature rationale": "Personal testimonies in journalism are crucial for humanizing issues and providing depth to narratives.",
+        "version diff summary": "M2 adds a personal perspective on the impact of Operation Spectrum.",
+        "overall assessment": "The addition of this personal testimony in M2 enriches the narrative by providing insight into the societal impact of Operation Spectrum."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "“It cast such a large shadow that people here still feel constrained about speaking up,” she said."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - highlights the ongoing impact of past events on current behavior.",
+        "importance category": "social impact",
+        "importance reason": "This addition emphasizes the lasting effects of historical events on societal behavior and attitudes.",
+        "literature rationale": "Understanding social impacts in journalism is essential for analyzing the long-term effects of policies and events.",
+        "version diff summary": "M2 adds a sentence about the ongoing impact of Operation Spectrum.",
+        "overall assessment": "The addition of this sentence in M2 underscores the lasting impact of Operation Spectrum on societal behavior."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "As Ms. Singam spoke, a guitar duo sang Pete Seeger anthems and students wearing foam Statue of Liberty crowns wandered through a series of ersatz jail cells that sought to depict the indignities of Operation Spectrum."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - adds a vivid description of the event.",
+        "importance category": "descriptive detail",
+        "importance reason": "This addition provides a vivid depiction of the atmosphere during the event, enhancing reader engagement.",
+        "literature rationale": "Descriptive details in journalism are essential for creating a compelling narrative and engaging readers.",
+        "version diff summary": "M2 adds a vivid description of the event atmosphere.",
+        "overall assessment": "The addition of this descriptive detail in M2 enriches the narrative by providing a vivid image of the event atmosphere."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "At a nearby table, volunteers sold newly published books about the detentions, including a memoir by Teo Soh Lung, who was a successful lawyer when she was arrested in the spring of 1987."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - introduces a personal narrative related to the detentions.",
+        "importance category": "personal narrative",
+        "importance reason": "This addition provides a personal account that adds depth to the historical context of the detentions.",
+        "literature rationale": "Personal narratives in journalism are crucial for illustrating the human impact of historical events.",
+        "version diff summary": "M2 adds a personal narrative related to the detentions.",
+        "overall assessment": "The addition of this personal narrative in M2 enhances the understanding of the human impact of the detentions."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Ms. Teo, 65, says she wrote her memoir, “Beyond the Blue Gate,” soon after she emerged from two years of prison, but did not dare to publish it until last year."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - provides insight into the personal struggles of a former detainee.",
+        "importance category": "personal struggle",
+        "importance reason": "This addition highlights the challenges faced by individuals affected by the detentions.",
+        "literature rationale": "Personal struggles in journalism are essential for illustrating the human cost of political actions.",
+        "version diff summary": "M2 adds a sentence about Ms. Teo's memoir and her experiences.",
+        "overall assessment": "The addition of this sentence in M2 provides important insight into the personal struggles of a former detainee."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "She said that she remained nervous about attending the event."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - reflects the ongoing fear among former detainees.",
+        "importance category": "emotional impact",
+        "importance reason": "This addition highlights the emotional impact of past experiences on individuals.",
+        "literature rationale": "Emotional impacts in journalism are crucial for understanding the psychological effects of political actions.",
+        "version diff summary": "M2 adds a sentence about Ms. Teo's feelings regarding the event.",
+        "overall assessment": "The addition of this sentence in M2 underscores the ongoing emotional impact of past experiences on individuals."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "“This is the first time the ex-detainees have gathered together in public,” she said, warily looking over her shoulder."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - emphasizes the significance of the gathering for ex-detainees.",
+        "importance category": "event significance",
+        "importance reason": "This addition highlights the importance of public gatherings for those affected by past detentions.",
+        "literature rationale": "Highlighting significant gatherings in journalism is crucial for understanding the dynamics of social movements.",
+        "version diff summary": "M2 adds a sentence about the significance of the gathering for ex-detainees.",
+        "overall assessment": "The addition of this sentence in M2 emphasizes the significance of the gathering for ex-detainees."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "“This is progress.”"
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - reflects a positive sentiment about the gathering.",
+        "importance category": "sentiment expression",
+        "importance reason": "This addition conveys a sense of hope and progress among ex-detainees.",
+        "literature rationale": "Expressions of sentiment in journalism are essential for capturing the emotional landscape of events.",
+        "version diff summary": "M2 adds a positive sentiment about the gathering.",
+        "overall assessment": "The addition of this sentence in M2 reflects a positive sentiment about the gathering, indicating progress."
+      }
+    }
+  ]
+}

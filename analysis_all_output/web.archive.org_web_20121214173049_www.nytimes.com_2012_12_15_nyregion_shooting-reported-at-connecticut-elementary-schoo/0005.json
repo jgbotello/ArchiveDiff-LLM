@@ -1,0 +1,923 @@
+{
+  "pair_index": 5,
+  "n_sentences_old": 35,
+  "n_sentences_new": 36,
+  "metadata_old": {
+    "warc-date": "2012-12-15T09:39:52Z",
+    "warc-record-id": "<urn:uuid:14f43073-5b9e-4881-a2d7-8e8db6e37061>",
+    "warc-block-digest": "sha1:822b69918c4fedc2e89bd38ad3e2884f601381b0",
+    "warc-target-uri": "https://web.archive.org/web/20121215093952/https://www.nytimes.com/2012/12/15/nyregion/shooting-reported-at-connecticut-elementary-school.html",
+    "content-length": 4118,
+    "url-hash": "ec51241c936b20794d5f2b691b869580"
+  },
+  "metadata_new": {
+    "warc-date": "2012-12-15T14:30:05Z",
+    "warc-record-id": "<urn:uuid:2d4d7f63-049b-4e03-88de-b4fe3c1b2357>",
+    "warc-block-digest": "sha1:7e382acb3beb3aa5e3c3ce04236d0d81c3a7f2a9",
+    "warc-target-uri": "https://web.archive.org/web/20121215143005/https://www.nytimes.com/2012/12/15/nyregion/shooting-reported-at-connecticut-elementary-school.html",
+    "content-length": 4580,
+    "url-hash": "47dd8cb12f31a77ac992cfa2d515a86d"
+  },
+  "items": [
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "A 20-year-old man wearing combat gear and armed with semiautomatic pistols and a semiautomatic rifle killed 26 people — 20 of them children — in an attack in an elementary school in central Connecticut on Friday.",
+        "M2": "A 20-year-old man wearing combat gear and armed with semiautomatic pistols and a semiautomatic rifle killed 26 people — 20 of them children — in an attack in an elementary school in central Connecticut on Friday."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Witnesses and officials described a horrific scene as the gunman, with brutal efficiency, chose his victims in two classrooms while other students dove under desks and hid in closets.",
+        "M2": "Witnesses and officials described a horrific scene as the gunman, with brutal efficiency, chose his victims in two classrooms while other students dove under desks and hid in closets."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Hundreds of terrified parents arrived as their sobbing children were led out of the Sandy Hook Elementary School in a wooded corner of Newtown, Conn.",
+        "M2": "Hundreds of terrified parents arrived as their sobbing children were led out of the Sandy Hook Elementary School in a wooded corner of Newtown, Conn."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "By then, all of the victims had been shot and most were dead, and the gunman, identified as Adam Lanza, had committed suicide.",
+        "M2": "By then, all of the victims had been shot and most were dead, and the gunman, identified as Adam Lanza, had committed suicide."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The children killed were said to be 5 to 10 years old.",
+        "M2": "The children killed were said to be 5 to 10 years old."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "A 28th person, found dead in a house in the town, was also believed to have been shot by Mr. Lanza.",
+        "M2": "A 28th person, found dead in a house in the town, was also believed to have been shot by Mr. Lanza."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "That victim, one law enforcement official said, was Mr. Lanza’s mother, Nancy Lanza, who worked at the school.",
+        "M2": "That victim, one law enforcement official said, was Mr. Lanza’s mother, Nancy Lanza, who worked at the school."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "She apparently owned the guns he used.",
+        "M2": "She apparently owned the guns he used."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The principal had buzzed Mr. Lanza in because she recognized him as the son of a colleague.",
+        "M2": "The principal had buzzed Mr. Lanza in because she recognized him as the son of a colleague."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Moments later, she was shot dead when she went to investigate the sound of gunshots.",
+        "M2": "Moments later, she was shot dead when she went to investigate the sound of gunshots."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The school psychologist was also among those who died.",
+        "M2": "The school psychologist was also among those who died."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The rampage, coming less than two weeks before Christmas, was the nation’s second-deadliest school shooting, exceeded only by the 2007 Virginia Tech massacre, in which a gunman killed 32 people and then himself.",
+        "M2": "The rampage, coming less than two weeks before Christmas, was the nation’s second-deadliest school shooting, exceeded only by the 2007 Virginia Tech massacre, in which a gunman killed 32 people and then himself."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Law enforcement officials said Mr. Lanza had grown up in Newtown, and he was remembered by high school classmates as smart, introverted and nervous.",
+        "M2": "Law enforcement officials said Mr. Lanza had grown up in Newtown, and he was remembered by high school classmates as smart, introverted and nervous."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "They said he had gone out of his way not to attract attention when he was younger.",
+        "M2": "They said he had gone out of his way not to attract attention when he was younger."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The gunman was chillingly accurate.",
+        "M2": "The gunman was chillingly accurate."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "A spokesman for the State Police said he left only one wounded survivor at the school.",
+        "M2": "A spokesman for the State Police said he left only one wounded survivor at the school."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "All the others hit by the barrage of bullets from the guns Mr. Lanza carried — the rifle was similar to a weapon used widely by troops in Afghanistan and Iraq — died, suggesting that they were shot at point-blank range.",
+        "M2": "All the others hit by the barrage of bullets from the guns Mr. Lanza carried — the rifle was similar to a weapon used widely by troops in Afghanistan and Iraq — died, suggesting that they were shot at point-blank range."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "One law enforcement official said the shootings occurred in two classrooms in a section of the single-story Sandy Hook Elementary School.",
+        "M2": "One law enforcement official said the shootings occurred in two classrooms in a section of the single-story Sandy Hook Elementary School."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Some who were there said the shooting occurred during morning announcements, and the initial shots could be heard over the school’s public address system.",
+        "M2": "Some who were there said the shooting occurred during morning announcements, and the initial shots could be heard over the school’s public address system."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The bodies of those killed were still in the school as of 10 p.m. Friday.",
+        "M2": "The bodies of those killed were still in the school as of 10 p.m. Friday."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The New York City medical examiner’s office sent a “portable morgue” to Newtown to help with the aftermath of the shootings, a spokeswoman, Ellen Borakove, confirmed late Friday.",
+        "M2": "The New York City medical examiner’s office sent a “portable morgue” to Newtown to help with the aftermath of the shootings, a spokeswoman, Ellen Borakove, confirmed late Friday."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Law enforcement officials offered no hint of what had motivated Mr. Lanza.",
+        "M2": "Law enforcement officials offered no hint of what had motivated Mr. Lanza."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "It was also unclear, one investigator said, why Mr. Lanza — after shooting his mother to death inside her home — drove her car to the school and slaughtered the children.",
+        "M2": "It was also unclear, one investigator said, why Mr. Lanza — after shooting his mother to death inside her home — drove her car to the school and slaughtered the children."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "I don’t think anyone knows the answers to those questions at this point,” the official said.",
+        "M2": "I don’t think anyone knows the answers to those questions at this point,” the official said."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "As for a possible motive, he added, “we don’t know much for sure.”",
+        "M2": "As for a possible motive, he added, “we don’t know much for sure.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "F.B.I. agents interviewed his brother, Ryan Lanza, in Hoboken, N.J.",
+        "M2": "F.B.I. agents interviewed his brother, Ryan Lanza, in Hoboken, N.J."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "His father, Peter Lanza, who was divorced from Nancy Lanza, was also questioned, one official said.",
+        "M2": "His father, Peter Lanza, who was divorced from Nancy Lanza, was also questioned, one official said."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Newtown, a postcard-perfect New England town where everyone seems to know everyone else and where there had lately been holiday tree lightings with apple cider and hot chocolate, was plunged into mourning.",
+        "M2": "Newtown, a postcard-perfect New England town where everyone seems to know everyone else and where there had lately been holiday tree lightings with apple cider and hot chocolate, was plunged into mourning."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Stunned residents attended four memorial services in the town on Friday evening as detectives continued the search for clues, and an explanation.",
+        "M2": "Stunned residents attended four memorial services in the town on Friday evening as detectives continued the search for clues, and an explanation."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Maureen Kerins, a hospital nurse who lives close to the school, learned of the shooting from television and hurried to the school to see if she could help.",
+        "M2": "Maureen Kerins, a hospital nurse who lives close to the school, learned of the shooting from television and hurried to the school to see if she could help."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "I stood outside waiting to go in, but a police officer came out and said they didn’t need any nurses,” she said, “so I knew it wasn’t good.”",
+        "M2": "I stood outside waiting to go in, but a police officer came out and said they didn’t need any nurses,” she said, “so I knew it wasn’t good.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "In the cold light of Friday morning, faces told the story outside the stricken school.",
+        "M2": "In the cold light of Friday morning, faces told the story outside the stricken school."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "There were the frightened faces of children who were crying as they were led out in a line.",
+        "M2": "There were the frightened faces of children who were crying as they were led out in a line."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "There were the grim faces of women.",
+        "M2": "There were the grim faces of women."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "There were the relieved-looking faces of a couple and their little girl.",
+        "M2": "There were the relieved-looking faces of a couple and their little girl."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical.",
+        "literature rationale": "Identical sentences do not contribute to changes in meaning or interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, resulting in no changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Reporting on the Connecticut shootings was contributed by Al Baker, Charles V. Bagli, Susan Beachy, Jack Begg, David W. Chen, Alison Leigh Cowan, Robert Davey, Matt Flegenheimer, Joseph Goldstein, Emmarie Huetteman, Kristin Hussey, Thomas Kaplan, Elizabeth Maker, Patrick McGeehan, Sheelagh McNeill, Michael Moss, Andy Newman, Richard Pérez-Peña, Jennifer Preston, William K. Rashbaum, Motoko Rich, Ray Rivera, Liz Robbins, Emily S. Rueb, Eric Schmitt, Michael Schwirtz, Kirk Semple, Wendy Ruderman, Jonathan Weisman, Vivian Yee and Kate Zernike."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - The addition of reporting credits provides attribution to the contributors.",
+        "importance category": "attribution/hedging",
+        "importance reason": "Attribution to multiple contributors enhances credibility and transparency in reporting.",
+        "literature rationale": "Attribution in journalism is crucial for establishing credibility and accountability, as it allows readers to assess the reliability of the information presented.",
+        "version diff summary": "M2 includes a list of contributors to the reporting.",
+        "overall assessment": "The addition of reporting credits in M2 enhances the credibility of the article by providing clear attribution to multiple contributors, which is important for transparency in journalism."
+      }
+    }
+  ]
+}

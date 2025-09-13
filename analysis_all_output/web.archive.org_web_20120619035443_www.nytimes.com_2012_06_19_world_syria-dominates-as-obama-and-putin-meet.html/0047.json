@@ -1,0 +1,798 @@
+{
+  "pair_index": 47,
+  "n_sentences_old": 31,
+  "n_sentences_new": 31,
+  "metadata_old": {
+    "warc-date": "2015-02-19T01:12:38Z",
+    "warc-record-id": "<urn:uuid:29b52612-438b-4a02-9015-7dd82022b698>",
+    "warc-block-digest": "sha1:d2ad434d282b511fb15fa69b6e251382478004ce",
+    "warc-target-uri": "https://web.archive.org/web/20150219011238/https://www.nytimes.com/2012/06/19/world/syria-dominates-as-obama-and-putin-meet.html",
+    "content-length": 6285,
+    "url-hash": "5f9b3bd403573e9a68fde32cbeeb8e14"
+  },
+  "metadata_new": {
+    "warc-date": "2015-03-12T00:38:28Z",
+    "warc-record-id": "<urn:uuid:dc49dc0b-cd15-405e-a776-f406c1045324>",
+    "warc-block-digest": "sha1:c2a23a5c0c6e48e818e31f207574a0a2b8eed167",
+    "warc-target-uri": "https://web.archive.org/web/20150312003828/https://www.nytimes.com/2012/06/19/world/syria-dominates-as-obama-and-putin-meet.html",
+    "content-length": 6291,
+    "url-hash": "2856b7f7aa95ff8e3b4ae88beb8a453a"
+  },
+  "items": [
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "SAN JOSÉ DEL CABO, Mexico — President Obama and his Russian counterpart, Vladimir V. Putin , finally had their face-to-face meeting on Monday, as Mr. Obama pressed Mr. Putin to work with him to ease President Bashar al-Assad of Syria out of power, a move increasingly viewed by the West as the only way to end the bloodshed that has been under way there for more than a year.",
+        "M2": "SAN JOSÉ DEL CABO, Mexico — President Obama and his Russian counterpart, Vladimir V. Putin, finally had their face-to-face meeting on Monday, as Mr. Obama pressed Mr. Putin to work with him to ease President Bashar al-Assad of Syria out of power, a move increasingly viewed by the West as the only way to end the bloodshed that has been under way there for more than a year."
+      },
+      "assessment": {
+        "textual differences": "yes",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "yes",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The change is a minor punctuation correction.",
+        "importance category": "punctuation",
+        "importance reason": "The change in punctuation does not affect the meaning or interpretation of the text.",
+        "literature rationale": "Punctuation changes can influence readability and clarity but do not alter the factual content or sentiment of the text.",
+        "version diff summary": "Minor punctuation correction in the name of Vladimir V. Putin.",
+        "overall assessment": "The only change is a minor punctuation correction, which does not affect the meaning or sentiment of the text. Therefore, the overall importance of this change is not significant."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "But after two full hours together, Mr. Putin was still balking, appearing afterward with Mr. Obama before reporters in a grim tableau that seemed to bespeak the frustration on both sides.",
+        "M2": "But after two full hours together, Mr. Putin was still balking, appearing afterward with Mr. Obama before reporters in a grim tableau that seemed to bespeak the frustration on both sides."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "There are no changes to assess.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining credibility and clarity in journalism.",
+        "version diff summary": "No changes made.",
+        "overall assessment": "There are no changes between the two mementos, indicating consistency in the reporting."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "During the few minutes that it took their handlers to usher reporters out of the room after their prepared remarks, the two leaders remained seated, side by side, staring straight ahead, with none of the interaction or small talk that leaders usually engage in before the cameras.",
+        "M2": "During the few minutes that it took their handlers to usher reporters out of the room after their prepared remarks, the two leaders remained seated, side by side, staring straight ahead, with none of the interaction or small talk that leaders usually engage in before the cameras."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "There are no changes to assess.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining credibility and clarity in journalism.",
+        "version diff summary": "No changes made.",
+        "overall assessment": "There are no changes between the two mementos, indicating consistency in the reporting."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“We agreed that we need to see a cessation of the violence, that a political process has to be created to prevent civil war,” Mr. Obama said.",
+        "M2": "“We agreed that we need to see a cessation of the violence, that a political process has to be created to prevent civil war,” Mr. Obama said."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "There are no changes to assess.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining credibility and clarity in journalism.",
+        "version diff summary": "No changes made.",
+        "overall assessment": "There are no changes between the two mementos, indicating consistency in the reporting."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "During the meeting, American officials said, Mr. Putin spent considerable time pointing to what the Russians view as failed examples of political transition in Egypt and Libya as well as their concern that the West does not have a credible plan for what would happen to Syria’s various battling factions and ethnic groups if Mr. Assad stepped down from power.",
+        "M2": "During the meeting, American officials said, Mr. Putin spent considerable time pointing to what the Russians view as failed examples of political transition in Egypt and Libya as well as their concern that the West does not have a credible plan for what would happen to Syria’s various battling factions and ethnic groups if Mr. Assad stepped down from power."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "There are no changes to assess.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining credibility and clarity in journalism.",
+        "version diff summary": "No changes made.",
+        "overall assessment": "There are no changes between the two mementos, indicating consistency in the reporting."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Mr. Obama made a long and detailed effort to reassure Mr. Putin that the United States does not want to come between Russia and Syria, a strategic ally that Russia views as its last real bastion of influence in the region, the officials said.",
+        "M2": "Mr. Obama made a long and detailed effort to reassure Mr. Putin that the United States does not want to come between Russia and Syria, a strategic ally that Russia views as its last real bastion of influence in the region, the officials said."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "There are no changes to assess.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining credibility and clarity in journalism.",
+        "version diff summary": "No changes made.",
+        "overall assessment": "There are no changes between the two mementos, indicating consistency in the reporting."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The Americans acknowledged that Russian officials have not really believed them when they have made these assurances in the past; Monday’s meeting, they said, provided Mr. Obama the chance to try to make this case personally to Mr. Putin.",
+        "M2": "The Americans acknowledged that Russian officials have not really believed them when they have made these assurances in the past; Monday’s meeting, they said, provided Mr. Obama the chance to try to make this case personally to Mr. Putin."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "There are no changes to assess.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining credibility and clarity in journalism.",
+        "version diff summary": "No changes made.",
+        "overall assessment": "There are no changes between the two mementos, indicating consistency in the reporting."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“We have found many common points on this issue,” Mr. Putin allowed in his own remarks after the meeting, adding that the two countries would continue discussions.",
+        "M2": "“We have found many common points on this issue,” Mr. Putin allowed in his own remarks after the meeting, adding that the two countries would continue discussions."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "There are no changes to assess.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining credibility and clarity in journalism.",
+        "version diff summary": "No changes made.",
+        "overall assessment": "There are no changes between the two mementos, indicating consistency in the reporting."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Mr. Obama described the meeting — rescheduled for this gathering of Group of 20 leaders after Mr. Putin canceled his trip to an economic summit meeting Mr. Obama held at Camp David last month — as “candid, thoughtful and thorough.”",
+        "M2": "Mr. Obama described the meeting — rescheduled for this gathering of Group of 20 leaders after Mr. Putin canceled his trip to an economic summit meeting Mr. Obama held at Camp David last month — as “candid, thoughtful and thorough.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "There are no changes to assess.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining credibility and clarity in journalism.",
+        "version diff summary": "No changes made.",
+        "overall assessment": "There are no changes between the two mementos, indicating consistency in the reporting."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "But American officials did not try hard to paint the meeting between the men as full of bonhomie and good cheer.",
+        "M2": "But American officials did not try hard to paint the meeting between the men as full of bonhomie and good cheer."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "There are no changes to assess.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining credibility and clarity in journalism.",
+        "version diff summary": "No changes made.",
+        "overall assessment": "There are no changes between the two mementos, indicating consistency in the reporting."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“I thought the chemistry was very businesslike, cordial,” Michael McFaul, the United States ambassador to Russia, told reporters in an effort to push back against any negative impressions the body language between the two presidents might have suggested.",
+        "M2": "“I thought the chemistry was very businesslike, cordial,” Michael McFaul, the United States ambassador to Russia, told reporters in an effort to push back against any negative impressions the body language between the two presidents might have suggested."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "There are no changes to assess.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining credibility and clarity in journalism.",
+        "version diff summary": "No changes made.",
+        "overall assessment": "There are no changes between the two mementos, indicating consistency in the reporting."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“There was nothing extraordinary” about Mr. Putin’s dour demeanor, Mr. McFaul said.",
+        "M2": "“There was nothing extraordinary” about Mr. Putin’s dour demeanor, Mr. McFaul said."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "There are no changes to assess.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining credibility and clarity in journalism.",
+        "version diff summary": "No changes made.",
+        "overall assessment": "There are no changes between the two mementos, indicating consistency in the reporting."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“That’s the way he looks, that’s the way he acts.”",
+        "M2": "“That’s the way he looks, that’s the way he acts.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "There are no changes to assess.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining credibility and clarity in journalism.",
+        "version diff summary": "No changes made.",
+        "overall assessment": "There are no changes between the two mementos, indicating consistency in the reporting."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Now that Mr. Obama and Mr. Putin have gotten this first meeting out of the way and listened to each other’s explanation for why Mr. Assad should, or should not, be pushed aside in Syria, United States officials say they hope they will be able to move forward.",
+        "M2": "Now that Mr. Obama and Mr. Putin have gotten this first meeting out of the way and listened to each other’s explanation for why Mr. Assad should, or should not, be pushed aside in Syria, United States officials say they hope they will be able to move forward."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "There are no changes to assess.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining credibility and clarity in journalism.",
+        "version diff summary": "No changes made.",
+        "overall assessment": "There are no changes between the two mementos, indicating consistency in the reporting."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“I think there was agreement that there needs to be a political process, that it cannot be just a cease-fire,” said Benjamin Rhodes, the director for strategic communications with the National Security Council.",
+        "M2": "“I think there was agreement that there needs to be a political process, that it cannot be just a cease-fire,” said Benjamin Rhodes, the director for strategic communications with the National Security Council."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "There are no changes to assess.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining credibility and clarity in journalism.",
+        "version diff summary": "No changes made.",
+        "overall assessment": "There are no changes between the two mementos, indicating consistency in the reporting."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“Obviously the United States believes that political process needs to include Bashar al-Assad stepping down from power.”",
+        "M2": "“Obviously the United States believes that political process needs to include Bashar al-Assad stepping down from power.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "There are no changes to assess.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining credibility and clarity in journalism.",
+        "version diff summary": "No changes made.",
+        "overall assessment": "There are no changes between the two mementos, indicating consistency in the reporting."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Also on the agenda for Mr. Obama and Mr. Putin was the effort by the United States and Russia, along with Europe and China, to rein in Iran’s nuclear ambitions.",
+        "M2": "Also on the agenda for Mr. Obama and Mr. Putin was the effort by the United States and Russia, along with Europe and China, to rein in Iran’s nuclear ambitions."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "There are no changes to assess.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining credibility and clarity in journalism.",
+        "version diff summary": "No changes made.",
+        "overall assessment": "There are no changes between the two mementos, indicating consistency in the reporting."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Even as they were meeting on the outskirts of a world economic summit gathering here in Mexico, tough talks on Iran’s nuclear program were under way in Moscow.",
+        "M2": "Even as they were meeting on the outskirts of a world economic summit gathering here in Mexico, tough talks on Iran’s nuclear program were under way in Moscow."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "There are no changes to assess.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining credibility and clarity in journalism.",
+        "version diff summary": "No changes made.",
+        "overall assessment": "There are no changes between the two mementos, indicating consistency in the reporting."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Mr. Obama said he and Mr. Putin had “emphasized our shared approach” and agreed that there was still time for diplomacy to work.",
+        "M2": "Mr. Obama said he and Mr. Putin had “emphasized our shared approach” and agreed that there was still time for diplomacy to work."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "There are no changes to assess.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining credibility and clarity in journalism.",
+        "version diff summary": "No changes made.",
+        "overall assessment": "There are no changes between the two mementos, indicating consistency in the reporting."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Mr. Obama’s attempt to reset relations with Russia had begun with Mr. Putin’s predecessor, Dmitri A. Medvedev, who only two and a half months ago said that “these were perhaps the best three years of relations between Russia and the United States over the last decade.”",
+        "M2": "Mr. Obama’s attempt to reset relations with Russia had begun with Mr. Putin’s predecessor, Dmitri A. Medvedev, who only two and a half months ago said that “these were perhaps the best three years of relations between Russia and the United States over the last decade.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "There are no changes to assess.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining credibility and clarity in journalism.",
+        "version diff summary": "No changes made.",
+        "overall assessment": "There are no changes between the two mementos, indicating consistency in the reporting."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "But this first meeting between these outsize personalities as leaders of their respective countries could not have come at a more fraught time.",
+        "M2": "But this first meeting between these outsize personalities as leaders of their respective countries could not have come at a more fraught time."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "There are no changes to assess.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining credibility and clarity in journalism.",
+        "version diff summary": "No changes made.",
+        "overall assessment": "There are no changes between the two mementos, indicating consistency in the reporting."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Russia and the United States are clashing over a series of difficult issues: the American deployment of a missile defense system that Mr. Putin considers a threat; pending legislation in Congress that blocks visas and freezes assets of Russian officials linked to human rights abuses; and statements from the State Department about the protests that greeted Mr. Putin’s inauguration that left the Russian leader fuming.",
+        "M2": "Russia and the United States are clashing over a series of difficult issues: the American deployment of a missile defense system that Mr. Putin considers a threat; pending legislation in Congress that blocks visas and freezes assets of Russian officials linked to human rights abuses; and statements from the State Department about the protests that greeted Mr. Putin’s inauguration that left the Russian leader fuming."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "There are no changes to assess.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining credibility and clarity in journalism.",
+        "version diff summary": "No changes made.",
+        "overall assessment": "There are no changes between the two mementos, indicating consistency in the reporting."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "But the biggest irritant of all right now is Syria, a longtime ally whose leader Russia has continued to defend in the face of condemnation from the West over Mr. Assad’s bloody crackdown on protesters who support democracy.",
+        "M2": "But the biggest irritant of all right now is Syria, a longtime ally whose leader Russia has continued to defend in the face of condemnation from the West over Mr. Assad’s bloody crackdown on protesters who support democracy."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "There are no changes to assess.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining credibility and clarity in journalism.",
+        "version diff summary": "No changes made.",
+        "overall assessment": "There are no changes between the two mementos, indicating consistency in the reporting."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Russia has opposed Western intervention and, by some accounts, continues to arm Mr. Assad’s forces.",
+        "M2": "Russia has opposed Western intervention and, by some accounts, continues to arm Mr. Assad’s forces."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "There are no changes to assess.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining credibility and clarity in journalism.",
+        "version diff summary": "No changes made.",
+        "overall assessment": "There are no changes between the two mementos, indicating consistency in the reporting."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "On Saturday, the United Nations suspended its observer mission in Syria because of the escalating violence.",
+        "M2": "On Saturday, the United Nations suspended its observer mission in Syria because of the escalating violence."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "There are no changes to assess.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining credibility and clarity in journalism.",
+        "version diff summary": "No changes made.",
+        "overall assessment": "There are no changes between the two mementos, indicating consistency in the reporting."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The move was widely viewed as an attempt to press Russia to intervene to assure that the observers are not targeted by Syrian forces or their sympathizers.",
+        "M2": "The move was widely viewed as an attempt to press Russia to intervene to assure that the observers are not targeted by Syrian forces or their sympathizers."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "There are no changes to assess.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining credibility and clarity in journalism.",
+        "version diff summary": "No changes made.",
+        "overall assessment": "There are no changes between the two mementos, indicating consistency in the reporting."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The renewed tensions come as the United States is heavily dependent on Russian cooperation for its military operations in Afghanistan.",
+        "M2": "The renewed tensions come as the United States is heavily dependent on Russian cooperation for its military operations in Afghanistan."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "There are no changes to assess.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining credibility and clarity in journalism.",
+        "version diff summary": "No changes made.",
+        "overall assessment": "There are no changes between the two mementos, indicating consistency in the reporting."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "With Pakistan cutting off supply lines to Afghanistan, the so-called northern distribution network through Russia is the primary reinforcement route for America’s war on the Taliban.",
+        "M2": "With Pakistan cutting off supply lines to Afghanistan, the so-called northern distribution network through Russia is the primary reinforcement route for America’s war on the Taliban."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "There are no changes to assess.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining credibility and clarity in journalism.",
+        "version diff summary": "No changes made.",
+        "overall assessment": "There are no changes between the two mementos, indicating consistency in the reporting."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "That all of this is happening in the middle of an election campaign is not lost on the White House, especially given the recent assertion by Mitt Romney, Mr. Obama’s Republican opponent, that Russia is America’s biggest strategic threat.",
+        "M2": "That all of this is happening in the middle of an election campaign is not lost on the White House, especially given the recent assertion by Mitt Romney, Mr. Obama’s Republican opponent, that Russia is America’s biggest strategic threat."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "There are no changes to assess.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining credibility and clarity in journalism.",
+        "version diff summary": "No changes made.",
+        "overall assessment": "There are no changes between the two mementos, indicating consistency in the reporting."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The comments were widely ridiculed in foreign policy circles but nonetheless felt in Moscow.",
+        "M2": "The comments were widely ridiculed in foreign policy circles but nonetheless felt in Moscow."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "There are no changes to assess.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining credibility and clarity in journalism.",
+        "version diff summary": "No changes made.",
+        "overall assessment": "There are no changes between the two mementos, indicating consistency in the reporting."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The Obama administration dismissed Mr. Romney’s remarks as election-year posturing, but given that they came just as Mr. Putin has been doing some muscle-flexing of his own, it has put Mr. Obama in a difficult position as he tries to persuade Mr. Putin of America’s good intentions — or, at least, its lack of ill intentions — toward Russia.",
+        "M2": "The Obama administration dismissed Mr. Romney’s remarks as election-year posturing, but given that they came just as Mr. Putin has been doing some muscle-flexing of his own, it has put Mr. Obama in a difficult position as he tries to persuade Mr. Putin of America’s good intentions — or, at least, its lack of ill intentions — toward Russia."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "There are no changes to assess.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining credibility and clarity in journalism.",
+        "version diff summary": "No changes made.",
+        "overall assessment": "There are no changes between the two mementos, indicating consistency in the reporting."
+      }
+    }
+  ]
+}

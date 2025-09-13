@@ -1,0 +1,437 @@
+{
+  "pair_index": 0,
+  "n_sentences_old": 6,
+  "n_sentences_new": 16,
+  "metadata_old": {
+    "warc-date": "2012-12-14T17:30:49Z",
+    "warc-record-id": "<urn:uuid:f9638bf7-b3b1-405d-b1a5-db462fa89435>",
+    "warc-block-digest": "sha1:6b8890f7154ba8752844ef1ecc64889815bfe1bd",
+    "warc-target-uri": "https://web.archive.org/web/20121214173049/https://www.nytimes.com/2012/12/15/nyregion/shooting-reported-at-connecticut-elementary-school.html",
+    "content-length": 1243,
+    "url-hash": "f731cbb8c09815899dbfdf004b98d491"
+  },
+  "metadata_new": {
+    "warc-date": "2012-12-14T18:13:58Z",
+    "warc-record-id": "<urn:uuid:62b6fe81-9c26-41b8-9358-0fa5506bcd0d>",
+    "warc-block-digest": "sha1:2d1855389f517a0764f78c56598e96f5900e9a6c",
+    "warc-target-uri": "https://web.archive.org/web/20121214181358/https://www.nytimes.com/2012/12/15/nyregion/shooting-reported-at-connecticut-elementary-school.html",
+    "content-length": 1845,
+    "url-hash": "7baa76b99f814d05ef1078a13260652c"
+  },
+  "items": [
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "A shooting was reported on Friday morning at an elementary school in Newtown, Conn., about 65 miles northeast of New York City.",
+        "M2": "Multiple fatalities have been reported at a shooting at an elementary school in Newtown, Conn., about 65 miles northeast of New York City."
+      },
+      "assessment": {
+        "textual differences": "yes",
+        "POS category changed": [
+          "NOUN"
+        ],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "moderate",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - The change from 'a shooting was reported' to 'multiple fatalities have been reported' significantly alters the severity of the incident.",
+        "importance category": "major wording",
+        "importance reason": "The mention of multiple fatalities indicates a more serious situation than initially reported.",
+        "literature rationale": "Changes in wording that indicate severity can significantly affect public perception and response, as highlighted in journalism studies focusing on crisis reporting.",
+        "version diff summary": "The initial report of a shooting was updated to include multiple fatalities.",
+        "overall assessment": "The change from a general report of a shooting to one indicating multiple fatalities represents a significant shift in the narrative, impacting the perceived severity of the event."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "One state official said that an adult gunman was believed to be dead.",
+        "M2": "One state official said that an adult gunman was believed to be dead in the shooting at Sandy Hook Elementary School in Newtown."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "yes",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The addition of 'in the shooting at Sandy Hook Elementary School in Newtown' does not change the core information.",
+        "importance category": "minor clarification",
+        "importance reason": "The added context does not alter the understanding of the situation.",
+        "literature rationale": "Clarifications in reporting can enhance understanding without changing the core facts, which is important in maintaining journalistic integrity.",
+        "version diff summary": "The context of the gunman's death was clarified to include the location of the shooting.",
+        "overall assessment": "The addition of location details provides clarity but does not alter the fundamental information about the gunman."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "One law enforcement official said preliminary reports suggested there could be as many as 20 fatalities."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [
+          "NOUN"
+        ],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "Neutral",
+        "sentiment after": "Very Negative",
+        "sentiment change direction": "more negative",
+        "overall importance of the change": "Important - The mention of '20 fatalities' significantly escalates the gravity of the situation.",
+        "importance category": "numerical update",
+        "importance reason": "The specific number of fatalities adds a critical dimension to the report, indicating a tragic loss of life.",
+        "literature rationale": "Quantitative updates in news reporting can dramatically shift audience perception and urgency, as discussed in crisis communication literature.",
+        "version diff summary": "M2 introduced a preliminary report of potentially 20 fatalities.",
+        "overall assessment": "The addition of a specific number of fatalities greatly increases the severity of the report, shifting the sentiment from neutral to very negative."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The gunman was in possession of at least two firearms, the official said.",
+        "M2": "The gunman was in possession of at least two firearms, the official said."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentence is identical in both mementos.",
+        "importance category": "none",
+        "importance reason": "No changes were made to this sentence.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining credibility and trust in journalism.",
+        "version diff summary": "No changes were made to this sentence.",
+        "overall assessment": "The sentence remains unchanged, maintaining the same factual content."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Meredith Artley, the managing editor of CNN.com, has a friend who works at the school."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [
+          "PROPN"
+        ],
+        "NER category changed": [
+          "PERSON"
+        ],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "moderate",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - The introduction of a source adds credibility and personal connection to the report.",
+        "importance category": "attribution/hedging",
+        "importance reason": "Citing a source enhances the reliability of the information presented.",
+        "literature rationale": "Attribution in journalism is essential for establishing credibility and trustworthiness, as discussed in media studies.",
+        "version diff summary": "M2 introduced a new source, Meredith Artley, providing a personal connection to the event.",
+        "overall assessment": "The addition of a source enhances the report's credibility and provides a personal perspective on the incident."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "The woman was in close vicinity to the shooting, which happened in the hallway, according to Ms. Artley."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "Neutral",
+        "sentiment after": "Very Negative",
+        "sentiment change direction": "more negative",
+        "overall importance of the change": "Important - This detail provides a vivid account of the shooting, increasing the emotional weight of the report.",
+        "importance category": "eyewitness account",
+        "importance reason": "Eyewitness accounts can significantly impact the emotional resonance of news stories.",
+        "literature rationale": "Incorporating personal narratives in news reporting can enhance engagement and emotional impact, as explored in journalism studies.",
+        "version diff summary": "M2 included an eyewitness account detailing the proximity to the shooting.",
+        "overall assessment": "The addition of an eyewitness account adds significant emotional weight and detail to the report, shifting the sentiment to very negative."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "“She described it as a ‘Pop, pop, pop,''’ Ms Artley added."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "Neutral",
+        "sentiment after": "Very Negative",
+        "sentiment change direction": "more negative",
+        "overall importance of the change": "Important - The description of the sounds during the shooting adds a chilling detail that heightens the emotional impact.",
+        "importance category": "eyewitness account",
+        "importance reason": "Descriptive accounts of traumatic events can significantly influence audience perception and emotional response.",
+        "literature rationale": "The use of direct quotes in journalism can enhance the vividness and emotional engagement of a story, as discussed in narrative journalism literature.",
+        "version diff summary": "M2 included a direct quote describing the sounds of the shooting.",
+        "overall assessment": "The addition of a direct quote enhances the emotional intensity of the report, contributing to a more negative sentiment."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "“She said three people went out into the hall and only one person came back, the vice principal, she said, who was shot in the leg or the foot, who came crawling back."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "Neutral",
+        "sentiment after": "Very Negative",
+        "sentiment change direction": "more negative",
+        "overall importance of the change": "Important - This account provides a harrowing detail about the incident, increasing the emotional gravity of the report.",
+        "importance category": "eyewitness account",
+        "importance reason": "Details about individuals affected by the shooting can evoke stronger emotional responses from the audience.",
+        "literature rationale": "Eyewitness accounts in journalism can create a more compelling narrative, enhancing audience engagement and emotional impact.",
+        "version diff summary": "M2 included a detailed account of the vice principal's experience during the shooting.",
+        "overall assessment": "The addition of this eyewitness account significantly heightens the emotional impact of the report, contributing to a more negative sentiment."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "She cowered under the table and called 911."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "Neutral",
+        "sentiment after": "Very Negative",
+        "sentiment change direction": "more negative",
+        "overall importance of the change": "Important - This detail adds to the emotional weight of the narrative, illustrating the fear experienced during the incident.",
+        "importance category": "eyewitness account",
+        "importance reason": "Describing the actions of individuals during a crisis can evoke empathy and a stronger emotional response from the audience.",
+        "literature rationale": "Narrative techniques that include personal experiences can enhance the emotional resonance of news stories, as explored in journalism studies.",
+        "version diff summary": "M2 included a detail about the woman's actions during the shooting.",
+        "overall assessment": "The addition of this detail significantly enhances the emotional gravity of the report, contributing to a more negative sentiment."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "There must have been a hundred rounds.'"
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "Neutral",
+        "sentiment after": "Very Negative",
+        "sentiment change direction": "more negative",
+        "overall importance of the change": "Important - This statement emphasizes the severity and chaos of the shooting, heightening the emotional impact.",
+        "importance category": "eyewitness account",
+        "importance reason": "Describing the volume of gunfire can evoke a stronger emotional response and sense of urgency.",
+        "literature rationale": "The use of vivid descriptions in journalism can significantly enhance audience engagement and emotional response, as discussed in narrative journalism literature.",
+        "version diff summary": "M2 included a statement about the number of rounds fired during the shooting.",
+        "overall assessment": "The addition of this detail greatly intensifies the emotional weight of the report, contributing to a more negative sentiment."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Danbury Hospital said it was treating three patients from the shooting scene, according to its Facebook page."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [
+          "ORG"
+        ],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "moderate",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - The information about the hospital treating patients adds context to the aftermath of the shooting.",
+        "importance category": "medical update",
+        "importance reason": "Details about medical treatment provide insight into the immediate consequences of the incident.",
+        "literature rationale": "Reporting on medical responses in crisis situations is crucial for understanding the impact of events on victims and the community.",
+        "version diff summary": "M2 included information about Danbury Hospital treating patients from the shooting.",
+        "overall assessment": "The addition of this detail provides important context regarding the aftermath of the shooting, maintaining a neutral sentiment."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "The hospital, which is not far from the elementary school, said it was on lockdown."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "moderate",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - The lockdown status of the hospital adds to the context of the ongoing situation.",
+        "importance category": "security update",
+        "importance reason": "Information about lockdowns during crises is critical for understanding the broader implications of the event.",
+        "literature rationale": "Security updates in crisis reporting are essential for informing the public and ensuring safety, as highlighted in crisis communication literature.",
+        "version diff summary": "M2 included information about the hospital being on lockdown.",
+        "overall assessment": "The addition of this detail enhances the context of the situation without altering the overall sentiment."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Gov. Dannel P. Malloy arrived at the scene of the shooting on Friday afternoon."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [
+          "PROPN"
+        ],
+        "NER category changed": [
+          "PERSON"
+        ],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The arrival of the governor does not change the core facts of the incident.",
+        "importance category": "minor update",
+        "importance reason": "While the governor's presence is notable, it does not alter the understanding of the shooting itself.",
+        "literature rationale": "Updates on political figures' responses can provide context but may not always impact the core narrative of an event.",
+        "version diff summary": "M2 included information about Gov. Malloy's arrival at the scene.",
+        "overall assessment": "The addition of this detail provides context regarding the response to the incident but does not change the overall sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The school, located among wooded hills and suburban tracts in Fairfield County, 12 miles east of Danbury, serves kindergarten through fourth grade.",
+        "M2": "The school, located among wooded hills and suburban tracts in Fairfield County, 12 miles east of Danbury, serves kindergarten through fourth grade."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentence is identical in both mementos.",
+        "importance category": "none",
+        "importance reason": "No changes were made to this sentence.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining credibility and trust in journalism.",
+        "version diff summary": "No changes were made to this sentence.",
+        "overall assessment": "The sentence remains unchanged, maintaining the same factual content."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "According to a local newspaper, The Newtown Bee, shortly after 9:30 a.m. on Friday, one child was carried from the school by a police officer, apparently seriously wounded, and other children were escorted from the school by the state police.",
+        "M2": "According to a local newspaper, The Newtown Bee, shortly after 9:30 a.m. on Friday, one child was carried from the school by a police officer, apparently seriously wounded, and other children were escorted from the school by the state police."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentence is identical in both mementos.",
+        "importance category": "none",
+        "importance reason": "No changes were made to this sentence.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining credibility and trust in journalism.",
+        "version diff summary": "No changes were made to this sentence.",
+        "overall assessment": "The sentence remains unchanged, maintaining the same factual content."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "A photograph published by The Bee showed children outside the school visibly upset.",
+        "M2": "A photograph published by The Bee showed children outside the school visibly upset."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentence is identical in both mementos.",
+        "importance category": "none",
+        "importance reason": "No changes were made to this sentence.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining credibility and trust in journalism.",
+        "version diff summary": "No changes were made to this sentence.",
+        "overall assessment": "The sentence remains unchanged, maintaining the same factual content."
+      }
+    }
+  ]
+}

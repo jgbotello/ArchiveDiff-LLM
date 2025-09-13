@@ -1,0 +1,1100 @@
+{
+  "pair_index": 2,
+  "n_sentences_old": 34,
+  "n_sentences_new": 43,
+  "metadata_old": {
+    "warc-date": "2012-12-15T03:21:53Z",
+    "warc-record-id": "<urn:uuid:97476877-3f0e-4fd8-ad9d-b3d146f31532>",
+    "warc-block-digest": "sha1:331918ad5e78a0dd4cfb3769d897354a4f67f476",
+    "warc-target-uri": "https://web.archive.org/web/20121215032153/https://www.nytimes.com/2012/12/15/nyregion/shooting-reported-at-connecticut-elementary-school.html",
+    "content-length": 4119,
+    "url-hash": "4a62c6fe919df8fd10aa601187ee2b1b"
+  },
+  "metadata_new": {
+    "warc-date": "2012-12-15T04:21:28Z",
+    "warc-record-id": "<urn:uuid:a2806798-739e-44d8-8746-b5f67c1e931a>",
+    "warc-block-digest": "sha1:e31be3d903bb9755bf24d6c2bb5d589f79ede733",
+    "warc-target-uri": "https://web.archive.org/web/20121215042128/https://www.nytimes.com/2012/12/15/nyregion/shooting-reported-at-connecticut-elementary-school.html",
+    "content-length": 4660,
+    "url-hash": "270874f4ce0452cfc7d59336d3037d2e"
+  },
+  "items": [
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "A 20-year-old man wearing combat gear and armed with semiautomatic pistols and a semiautomatic rifle killed 26 people — 20 of them children — in an attack in an elementary school in central Connecticut on Friday.",
+        "M2": "A 20-year-old man wearing combat gear and armed with semiautomatic pistols and a semiautomatic rifle killed 26 people — 20 of them children — in an attack in an elementary school in central Connecticut on Friday."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial for credibility. Identical sentences ensure that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, which is not important."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Witnesses and officials described a horrific scene as the gunman, with brutal efficiency, chose his victims in two classrooms while other students dove under desks and hid in closets.",
+        "M2": "Witnesses and officials described a horrific scene as the gunman, with brutal efficiency, chose his victims in two classrooms while other students dove under desks and hid in closets."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial for credibility. Identical sentences ensure that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, which is not important."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Hundreds of terrified parents arrived as their sobbing children were led out of the Sandy Hook Elementary School in a wooded corner of Newtown, Conn.",
+        "M2": "Hundreds of terrified parents arrived as their sobbing children were led out of the Sandy Hook Elementary School in a wooded corner of Newtown, Conn."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial for credibility. Identical sentences ensure that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, which is not important."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "By then, all of the victims had been shot and most were dead, and the gunman, identified as Adam Lanza, had committed suicide.",
+        "M2": "By then, all of the victims had been shot and most were dead, and the gunman, identified as Adam Lanza, had committed suicide."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial for credibility. Identical sentences ensure that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, which is not important."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The children who were killed were said to be between 5 and 10 years old.",
+        "M2": "The children killed were said to be 5 to 10 years old."
+      },
+      "assessment": {
+        "textual differences": "yes",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "low",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The change is stylistic and does not affect meaning.",
+        "importance category": "major wording",
+        "importance reason": "The rephrasing simplifies the sentence without altering the core information.",
+        "literature rationale": "In journalism, clarity and conciseness are essential for effective communication. Simplifying language can enhance reader understanding without losing factual content.",
+        "version diff summary": "The sentence was rephrased for conciseness.",
+        "overall assessment": "The change is stylistic, simplifying the sentence while maintaining the same meaning, which is not important."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "A 28th person, found dead in a house in the town, was also believed to have been shot by Mr. Lanza.",
+        "M2": "A 28th person, found dead in a house in the town, was also believed to have been shot by Mr. Lanza."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial for credibility. Identical sentences ensure that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, which is not important."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "That victim, one law enforcement official said, was Mr. Lanza’s mother, Nancy Lanza, a teacher at the school.",
+        "M2": "That victim, one law enforcement official said, was Mr. Lanza’s mother, Nancy Lanza, who worked at the school."
+      },
+      "assessment": {
+        "textual differences": "yes",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "low",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The change is a minor rephrasing.",
+        "importance category": "major wording",
+        "importance reason": "The rephrasing does not change the meaning but alters the structure slightly.",
+        "literature rationale": "In journalism, variations in phrasing can enhance readability while preserving factual content. Minor rewording can help maintain reader engagement.",
+        "version diff summary": "The sentence was rephrased for clarity.",
+        "overall assessment": "The change is a minor rephrasing that does not affect the meaning, which is not important."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "She apparently owned the guns he used.",
+        "M2": "She apparently owned the guns he used."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial for credibility. Identical sentences ensure that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, which is not important."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The school principal had buzzed Mr. Lanza in because she recognized him as the son of a colleague.",
+        "M2": "The principal had buzzed Mr. Lanza in because she recognized him as the son of a colleague."
+      },
+      "assessment": {
+        "textual differences": "yes",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "low",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The change is a minor rephrasing.",
+        "importance category": "major wording",
+        "importance reason": "The removal of 'school' before 'principal' does not change the meaning.",
+        "literature rationale": "In journalism, clarity and conciseness are essential for effective communication. Simplifying language can enhance reader understanding without losing factual content.",
+        "version diff summary": "The sentence was simplified by removing 'school' before 'principal'.",
+        "overall assessment": "The change is a minor rephrasing that does not affect the meaning, which is not important."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Moments later, she was shot dead when she went to investigate the sound of gunshots.",
+        "M2": "Moments later, she was shot dead when she went to investigate the sound of gunshots."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial for credibility. Identical sentences ensure that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, which is not important."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The school psychologist was also among those who died.",
+        "M2": "The school psychologist was also among those who died."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial for credibility. Identical sentences ensure that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, which is not important."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The rampage, coming less than two weeks before Christmas, was the nation’s second-deadliest school shooting, exceeded only by the 2007 Virginia Tech massacre, in which a gunman killed 32 people and then himself.",
+        "M2": "The rampage, coming less than two weeks before Christmas, was the nation’s second-deadliest school shooting, exceeded only by the 2007 Virginia Tech massacre, in which a gunman killed 32 people and then himself."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial for credibility. Identical sentences ensure that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, which is not important."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Law enforcement officials said Mr. Lanza had grown up in Newtown, and he was remembered by high school classmates as smart, introverted and nervous.",
+        "M2": "Law enforcement officials said Mr. Lanza had grown up in Newtown, and he was remembered by high school classmates as smart, introverted and nervous."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial for credibility. Identical sentences ensure that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, which is not important."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "They said he had gone out of his way to not attract attention when he was younger.",
+        "M2": "They said he had gone out of his way not to attract attention when he was younger."
+      },
+      "assessment": {
+        "textual differences": "yes",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "low",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The change is a minor rephrasing.",
+        "importance category": "major wording",
+        "importance reason": "The rephrasing does not change the meaning but alters the structure slightly.",
+        "literature rationale": "In journalism, variations in phrasing can enhance readability while preserving factual content. Minor rewording can help maintain reader engagement.",
+        "version diff summary": "The sentence was rephrased for conciseness.",
+        "overall assessment": "The change is a minor rephrasing that does not affect the meaning, which is not important."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The gunman was chillingly accurate.",
+        "M2": "The gunman was chillingly accurate."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial for credibility. Identical sentences ensure that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, which is not important."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "A spokesman for the State Police said that only one person had been injured at the school.",
+        "M2": "A spokesman for the State Police said he left only one wounded survivor at the school."
+      },
+      "assessment": {
+        "textual differences": "yes",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "low",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The change is a minor rephrasing.",
+        "importance category": "major wording",
+        "importance reason": "The rephrasing does not change the meaning but alters the structure slightly.",
+        "literature rationale": "In journalism, variations in phrasing can enhance readability while preserving factual content. Minor rewording can help maintain reader engagement.",
+        "version diff summary": "The sentence was rephrased for clarity.",
+        "overall assessment": "The change is a minor rephrasing that does not affect the meaning, which is not important."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "All the others hit by the barrage of bullets from the guns Mr. Lanza carried — the rifle was similar to a weapon widely used by troops in Afghanistan and Iraq — died, suggesting that they were shot at point-blank range.",
+        "M2": "All the others hit by the barrage of bullets from the guns Mr. Lanza carried — the rifle was similar to a weapon used widely by troops in Afghanistan and Iraq — died, suggesting that they were shot at point-blank range."
+      },
+      "assessment": {
+        "textual differences": "yes",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "low",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The change is a minor rephrasing.",
+        "importance category": "major wording",
+        "importance reason": "The rephrasing does not change the meaning but alters the structure slightly.",
+        "literature rationale": "In journalism, variations in phrasing can enhance readability while preserving factual content. Minor rewording can help maintain reader engagement.",
+        "version diff summary": "The sentence was rephrased for clarity.",
+        "overall assessment": "The change is a minor rephrasing that does not affect the meaning, which is not important."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "One law enforcement official said the shootings occurred in two classrooms in a section of the single-story Sandy Hook Elementary School.",
+        "M2": "One law enforcement official said the shootings occurred in two classrooms in a section of the single-story Sandy Hook Elementary School."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial for credibility. Identical sentences ensure that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, which is not important."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Some who were there said the shooting occurred during morning announcements, and the initial shots could be heard over the school’s public address system.",
+        "M2": "Some who were there said the shooting occurred during morning announcements, and the initial shots could be heard over the school’s public address system."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial for credibility. Identical sentences ensure that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, which is not important."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The bodies of those killed were still in the school as of 10 p.m. Friday.",
+        "M2": "The bodies of those killed were still in the school as of 10 p.m. Friday."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial for credibility. Identical sentences ensure that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, which is not important."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Law enforcement officials offered no hint of what motivated Mr. Lanza.",
+        "M2": "Law enforcement officials offered no hint of what had motivated Mr. Lanza."
+      },
+      "assessment": {
+        "textual differences": "yes",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "yes",
+        "verbal changes": [
+          "tense"
+        ],
+        "rewritten": true,
+        "semantic impact": "low",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The change is a minor grammatical adjustment.",
+        "importance category": "grammar change",
+        "importance reason": "The change from 'motivated' to 'had motivated' is a minor grammatical adjustment that does not affect meaning.",
+        "literature rationale": "In journalism, grammatical precision is important for clarity and understanding. Minor adjustments can enhance the readability of the text.",
+        "version diff summary": "The tense was changed from simple past to past perfect.",
+        "overall assessment": "The change is a minor grammatical adjustment that does not affect the meaning, which is not important."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "It was also unclear, one investigator said, why Mr. Lanza — after shooting his mother to death inside her home — drove her car to the school and slaughtered the children.",
+        "M2": "It was also unclear, one investigator said, why Mr. Lanza — after shooting his mother to death inside her home — drove her car to the school and slaughtered the children."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial for credibility. Identical sentences ensure that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, which is not important."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "I don’t think anyone knows the answers to those questions at this point,” the official said.",
+        "M2": "“I don’t think anyone knows the answers to those questions at this point,” the official said."
+      },
+      "assessment": {
+        "textual differences": "yes",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "yes",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "low",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The change is a minor rephrasing.",
+        "importance category": "major wording",
+        "importance reason": "The rephrasing does not change the meaning but alters the structure slightly.",
+        "literature rationale": "In journalism, variations in phrasing can enhance readability while preserving factual content. Minor rewording can help maintain reader engagement.",
+        "version diff summary": "The sentence was rephrased for clarity.",
+        "overall assessment": "The change is a minor rephrasing that does not affect the meaning, which is not important."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "As for a possible motive, he added, “We don’t know much for sure.”",
+        "M2": "As for a possible motive, he added, “we don’t know much for sure.”"
+      },
+      "assessment": {
+        "textual differences": "yes",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "yes",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "low",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The change is a minor grammatical adjustment.",
+        "importance category": "grammar change",
+        "importance reason": "The change from 'We' to 'we' is a minor grammatical adjustment that does not affect meaning.",
+        "literature rationale": "In journalism, grammatical precision is important for clarity and understanding. Minor adjustments can enhance the readability of the text.",
+        "version diff summary": "The capitalization of 'We' was changed to 'we'.",
+        "overall assessment": "The change is a minor grammatical adjustment that does not affect the meaning, which is not important."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "F.B.I. agents interviewed his brother, Ryan Lanza, in Hoboken, N.J.",
+        "M2": "F.B.I. agents interviewed his brother, Ryan Lanza, in Hoboken, N.J."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial for credibility. Identical sentences ensure that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, which is not important."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "His father, Peter Lanza, who was divorced from Nancy Lanza, was also questioned, one official said.",
+        "M2": "His father, Peter Lanza, who was divorced from Nancy Lanza, was also questioned, one official said."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial for credibility. Identical sentences ensure that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, which is not important."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Newtown, a postcard-perfect New England town where everyone seems to know everyone else and where there had lately been holiday tree lightings with apple cider and hot chocolate, was plunged into mourning.",
+        "M2": "Newtown, a postcard-perfect New England town where everyone seems to know everyone else and where there had lately been holiday tree lightings with apple cider and hot chocolate, was plunged into mourning."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial for credibility. Identical sentences ensure that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, which is not important."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Stunned residents attended four memorial services in the town on Friday evening as detectives continued the search for clues, and an explanation.",
+        "M2": "Stunned residents attended four memorial services in the town on Friday evening as detectives continued the search for clues, and an explanation."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial for credibility. Identical sentences ensure that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, which is not important."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Maureen Kerins, a hospital nurse who lives close to the school, learned of the shooting from television and hurried to the school to see if she could help.",
+        "M2": "Maureen Kerins, a hospital nurse who lives close to the school, learned of the shooting from television and hurried to the school to see if she could help."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial for credibility. Identical sentences ensure that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, which is not important."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“I stood outside waiting to go in, but a police officer came out and said they didn’t need any nurses,” she said, “so I knew it wasn’t good.”",
+        "M2": "“I stood outside waiting to go in, but a police officer came out and said they didn’t need any nurses,” she said, “so I knew it wasn’t good.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial for credibility. Identical sentences ensure that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, which is not important."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "In the cold light of Friday morning, faces told the story outside the stricken school.",
+        "M2": "In the cold light of Friday morning, faces told the story outside the stricken school."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial for credibility. Identical sentences ensure that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, which is not important."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "There were the frightened faces of children who were crying as they were led out in a line.",
+        "M2": "There were the frightened faces of children who were crying as they were led out in a line."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes in meaning or content.",
+        "importance category": "none",
+        "importance reason": "The sentence is identical in both mementos.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial for credibility. Identical sentences ensure that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or content, which is not important."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "There were the grim faces of three women who emerged with their arms around one another, as if they were protecting the one in the middle.",
+        "M2": "There were the grim faces of women."
+      },
+      "assessment": {
+        "textual differences": "yes",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "low",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The change is a minor rephrasing.",
+        "importance category": "major wording",
+        "importance reason": "The rephrasing simplifies the sentence without altering the core information.",
+        "literature rationale": "In journalism, clarity and conciseness are essential for effective communication. Simplifying language can enhance reader understanding without losing factual content.",
+        "version diff summary": "The sentence was simplified by removing details.",
+        "overall assessment": "The change is a minor rephrasing that does not affect the meaning, which is not important."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "There were the relieved-looking faces of a couple and a little girl in a light blue jacket, riding high on her father’s shoulders.",
+        "M2": "There were the relieved-looking faces of a couple and their little girl."
+      },
+      "assessment": {
+        "textual differences": "yes",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "low",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The change is a minor rephrasing.",
+        "importance category": "major wording",
+        "importance reason": "The rephrasing simplifies the sentence without altering the core information.",
+        "literature rationale": "In journalism, clarity and conciseness are essential for effective communication. Simplifying language can enhance reader understanding without losing factual content.",
+        "version diff summary": "The sentence was simplified by removing details.",
+        "overall assessment": "The change is a minor rephrasing that does not affect the meaning, which is not important."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "The shootings set off a tide of anguish nationwide."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Negative",
+        "sentiment change direction": "more negative",
+        "overall importance of the change": "Important - The addition highlights the broader emotional impact of the event.",
+        "importance category": "emotional impact",
+        "importance reason": "The new sentence emphasizes the national reaction to the tragedy, which is significant for understanding its societal implications.",
+        "literature rationale": "In journalism, capturing the emotional response to events is crucial for audience engagement and understanding. Highlighting the broader impact can enhance the narrative's depth.",
+        "version diff summary": "An additional sentence was included to reflect the national emotional response.",
+        "overall assessment": "The addition of this sentence significantly enhances the narrative by emphasizing the nationwide emotional impact, making it an important change."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "In Illinois and Georgia, flags were lowered to half-staff in memory of the victims."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Negative",
+        "sentiment change direction": "more negative",
+        "overall importance of the change": "Important - The addition illustrates the widespread mourning and respect for the victims.",
+        "importance category": "emotional impact",
+        "importance reason": "This sentence underscores the national mourning and respect for the victims, which is significant for understanding the societal response.",
+        "literature rationale": "In journalism, reflecting societal reactions to tragedies is essential for contextualizing events. This addition enhances the narrative by showing collective grief.",
+        "version diff summary": "An additional sentence was included to show the national mourning for the victims.",
+        "overall assessment": "The addition of this sentence significantly enhances the narrative by illustrating the national mourning, making it an important change."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "And at the White House, President Obama struggled to read a statement in the White House briefing room."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Negative",
+        "sentiment change direction": "more negative",
+        "overall importance of the change": "Important - The addition highlights the presidential response to the tragedy.",
+        "importance category": "emotional impact",
+        "importance reason": "This sentence emphasizes the gravity of the situation and the emotional toll on leadership, which is significant for understanding the event's impact.",
+        "literature rationale": "In journalism, capturing the reactions of leaders during crises is crucial for contextualizing events. This addition enhances the narrative by showing the weight of the tragedy.",
+        "version diff summary": "An additional sentence was included to reflect the presidential response to the tragedy.",
+        "overall assessment": "The addition of this sentence significantly enhances the narrative by illustrating the presidential response, making it an important change."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "More than once, he dabbed his eyes."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Negative",
+        "sentiment change direction": "more negative",
+        "overall importance of the change": "Important - The addition provides a personal glimpse into the emotional impact on the president.",
+        "importance category": "emotional impact",
+        "importance reason": "This sentence adds a personal touch to the narrative, illustrating the emotional weight of the tragedy on leadership.",
+        "literature rationale": "In journalism, personalizing narratives can enhance emotional engagement and reader connection. This addition deepens the portrayal of the event's impact.",
+        "version diff summary": "An additional sentence was included to show the president's emotional response.",
+        "overall assessment": "The addition of this sentence significantly enhances the narrative by providing insight into the president's emotional response, making it an important change."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Our hearts are broken,” Mr. Obama said, adding that his first reaction was not as a president, but as a parent."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Negative",
+        "sentiment change direction": "more negative",
+        "overall importance of the change": "Important - The addition emphasizes the personal connection and grief felt by the president.",
+        "importance category": "emotional impact",
+        "importance reason": "This sentence highlights the personal nature of the tragedy for the president, which is significant for understanding the emotional context.",
+        "literature rationale": "In journalism, emphasizing personal connections can enhance the narrative's emotional depth. This addition provides insight into the human aspect of leadership during crises.",
+        "version diff summary": "An additional sentence was included to reflect the president's personal reaction.",
+        "overall assessment": "The addition of this sentence significantly enhances the narrative by emphasizing the personal connection of the president to the tragedy, making it an important change."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "I know there is not a parent in America who does not feel the same overwhelming grief that I do,” he said."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Negative",
+        "sentiment change direction": "more negative",
+        "overall importance of the change": "Important - The addition connects the president's feelings to those of the public, emphasizing shared grief.",
+        "importance category": "emotional impact",
+        "importance reason": "This sentence reinforces the collective grief felt across the nation, which is significant for understanding the societal impact of the tragedy.",
+        "literature rationale": "In journalism, connecting leaders' emotions to public sentiment can enhance the narrative's relatability. This addition deepens the portrayal of shared grief.",
+        "version diff summary": "An additional sentence was included to show the president's connection to public grief.",
+        "overall assessment": "The addition of this sentence significantly enhances the narrative by connecting the president's feelings to those of the public, making it an important change."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "He called the victims “beautiful little kids.”"
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Negative",
+        "sentiment change direction": "more negative",
+        "overall importance of the change": "Important - The addition personalizes the tragedy and highlights the innocence of the victims.",
+        "importance category": "emotional impact",
+        "importance reason": "This sentence emphasizes the loss of innocent lives, which is significant for understanding the emotional weight of the event.",
+        "literature rationale": "In journalism, personalizing narratives can enhance emotional engagement and reader connection. This addition deepens the portrayal of the victims' innocence.",
+        "version diff summary": "An additional sentence was included to reflect the president's description of the victims.",
+        "overall assessment": "The addition of this sentence significantly enhances the narrative by personalizing the tragedy and highlighting the innocence of the victims, making it an important change."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "They had their entire lives ahead of them: birthdays, graduations, weddings, kids of their own,” he said."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Negative",
+        "sentiment change direction": "more negative",
+        "overall importance of the change": "Important - The addition emphasizes the potential futures lost due to the tragedy.",
+        "importance category": "emotional impact",
+        "importance reason": "This sentence highlights the lost potential of the victims, which is significant for understanding the emotional impact of the event.",
+        "literature rationale": "In journalism, emphasizing the potential futures of victims can deepen the narrative's emotional resonance. This addition enhances the portrayal of loss.",
+        "version diff summary": "An additional sentence was included to reflect on the lost potential of the victims.",
+        "overall assessment": "The addition of this sentence significantly enhances the narrative by emphasizing the potential futures lost due to the tragedy, making it an important change."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Then the president reached up to the corner of one eye."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Negative",
+        "sentiment change direction": "more negative",
+        "overall importance of the change": "Important - The addition provides a visual representation of the president's emotional state.",
+        "importance category": "emotional impact",
+        "importance reason": "This sentence adds a poignant visual element to the narrative, illustrating the emotional toll of the tragedy on leadership.",
+        "literature rationale": "In journalism, visual imagery can enhance emotional engagement and reader connection. This addition deepens the portrayal of the event's impact.",
+        "version diff summary": "An additional sentence was included to illustrate the president's emotional response.",
+        "overall assessment": "The addition of this sentence significantly enhances the narrative by providing a visual representation of the president's emotional state, making it an important change."
+      }
+    }
+  ]
+}

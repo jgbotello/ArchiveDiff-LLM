@@ -1,0 +1,1386 @@
+{
+  "pair_index": 223,
+  "n_sentences_old": 27,
+  "n_sentences_new": 54,
+  "metadata_old": {
+    "warc-date": "2014-04-06T10:17:37Z",
+    "warc-record-id": "<urn:uuid:9bc3073c-0196-4019-8c8f-248eb7f136e9>",
+    "warc-block-digest": "sha1:8a81d0cd6c50f0bcff46e566f78be26f02141717",
+    "warc-target-uri": "https://web.archive.org/web/20140406101737/https://www.nytimes.com/2012/06/18/world/europe/greek-elections.html",
+    "content-length": 4742,
+    "url-hash": "719fa455dcb26665433ca496dabdc23f"
+  },
+  "metadata_new": {
+    "warc-date": "2015-04-03T04:53:26Z",
+    "warc-record-id": "<urn:uuid:4c381ada-b745-484e-907f-8a99a1e0a316>",
+    "warc-block-digest": "sha1:96547bd68422e9f9ba05623c1f89eb20ed75e365",
+    "warc-target-uri": "https://web.archive.org/web/20150403045326/https://www.nytimes.com/2012/06/18/world/europe/greek-elections.html",
+    "content-length": 8435,
+    "url-hash": "36f5957fa751013d15bcc4784ac3686b"
+  },
+  "items": [
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "ATHENS — Greek voters on Sunday gave a narrow victory in parliamentary elections to a party that had supported a bailout for the country’s failed economy.",
+        "M2": "ATHENS — Greek voters on Sunday gave a narrow victory in parliamentary elections to a party that had supported a bailout for the country’s failed economy."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "No changes were made.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial, and matching sentences ensures that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The vote was widely seen as a last chance for Greece to remain in the euro zone, and the results had an early rallying effect on world markets.",
+        "M2": "The vote was widely seen as a last chance for Greece to remain in the euro zone, and the results had an early rallying effect on world markets."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "No changes were made.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial, and matching sentences ensures that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Greece’s choice was welcomed by the finance ministers of the euro zone countries, who in a statement on Sunday night in Brussels said the outcome of the vote “should allow for the formation of a government that will carry the support of the electorate to bring Greece back on a path of sustainable growth.”",
+        "M2": "Greece’s choice was welcomed by the finance ministers of the euro zone countries, who in a statement on Sunday night in Brussels said the outcome of the vote “should allow for the formation of a government that will carry the support of the electorate to bring Greece back on a path of sustainable growth.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "No changes were made.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial, and matching sentences ensures that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "While the election afforded Greece a brief respite from a rapid downward spiral, it is not likely to prevent a showdown between the next government and the country’s so-called troika of foreign creditors — the European Commission, the European Central Bank and the International Monetary Fund — over the terms of a bailout agreement.",
+        "M2": "While the election afforded Greece a brief respite from a rapid downward spiral, it is not likely to prevent a showdown between the next government and the country’s so-called troika of foreign creditors — the European Commission, the European Central Bank and the International Monetary Fund — over the terms of a bailout agreement."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "No changes were made.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial, and matching sentences ensures that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Even the most pro-Europe of Greece’s political parties, the conservative New Democracy, which came in first, has said a less austere agreement is crucial to a country with a 22 percent unemployment rate and the rising prospect of social unrest.",
+        "M2": "Even the most pro-Europe of Greece’s political parties, the conservative New Democracy, which came in first, has said a less austere agreement is crucial to a country with a 22 percent unemployment rate and the rising prospect of social unrest."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "No changes were made.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial, and matching sentences ensures that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Photo"
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "NA",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The addition of a photo label does not affect the core message.",
+        "importance category": "visual element",
+        "importance reason": "The addition of a photo label is a minor visual element that does not change the text's meaning.",
+        "literature rationale": "In journalism, visual elements can enhance storytelling but do not alter the factual content of the narrative.",
+        "version diff summary": "A photo label was added.",
+        "overall assessment": "The addition of a photo label is a minor change that does not impact the overall meaning or sentiment of the text."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The euro zone ministers pledged to help Greece transform its economy and said continued fiscal and structural changes were the best way to cope with its economic challenges.",
+        "M2": "The euro zone ministers pledged to help Greece transform its economy and said continued fiscal and structural changes were the best way to cope with its economic challenges."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "No changes were made.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial, and matching sentences ensures that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The ministers added that representatives of Greece’s creditors would discuss emergency loans and changes as soon as a government was in place.",
+        "M2": "The ministers added that representatives of Greece’s creditors would discuss emergency loans and changes as soon as a government was in place."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "No changes were made.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial, and matching sentences ensures that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Much of the negotiations are expected to fall to Germany, a strong proponent of austerity.",
+        "M2": "Much of the negotiations are expected to fall to Germany, a strong proponent of austerity."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "No changes were made.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial, and matching sentences ensures that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "It and other euro zone countries must also consider the needs of the larger economies of Spain and Italy, which are also under intense pressure.",
+        "M2": "It and other euro zone countries must also consider the needs of the larger economies of Spain and Italy, which are also under intense pressure."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "No changes were made.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial, and matching sentences ensures that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Official projections showed New Democracy with 30 percent of the vote and 128 seats in the 300-seat Parliament.",
+        "M2": "Official projections showed New Democracy with 30 percent of the vote and 128 seats in the 300-seat Parliament."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "No changes were made.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial, and matching sentences ensures that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The Syriza party, which had surged on a wave of anti-austerity sentiment and spooked Europe with its talk of tearing up Greece’s loan agreement with its foreign creditors, was in second place, with 27 percent of the vote and 72 seats.",
+        "M2": "The Syriza party, which had surged on a wave of anti-austerity sentiment and spooked Europe with its talk of tearing up Greece’s loan agreement with its foreign creditors, was in second place, with 27 percent of the vote and 72 seats."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "No changes were made.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial, and matching sentences ensures that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Syriza officials had rejected calls for a coalition, ensuring its role as a vocal opposition bloc to whatever government emerges.",
+        "M2": "Syriza officials had rejected calls for a coalition, ensuring its role as a vocal opposition bloc to whatever government emerges."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "No changes were made.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial, and matching sentences ensures that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "But unlike in the May 6 election, when New Democracy placed first but was unable to form a government, this time intense international pressure, and the fact that the Greek government is quickly running out of money, made it likely there would be a coalition with New Democracy’s longtime rival, the socialist Pasok party.",
+        "M2": "But unlike in the May 6 election, when New Democracy placed first but was unable to form a government, this time intense international pressure, and the fact that the Greek government is quickly running out of money, made it likely there would be a coalition with New Democracy’s longtime rival, the socialist Pasok party."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "No changes were made.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial, and matching sentences ensures that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Pasok placed third in the voting, with 12 percent of the vote and 33 seats.",
+        "M2": "Pasok placed third in the voting, with 12 percent of the vote and 33 seats."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "No changes were made.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial, and matching sentences ensures that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The extreme right Golden Dawn party got 18 seats.",
+        "M2": "The extreme right Golden Dawn party got 18 seats."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "No changes were made.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial, and matching sentences ensures that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Investors gave an early thumbs-up on Sunday night, pushing up the euro in value against the dollar.",
+        "M2": "Investors gave an early thumbs-up on Sunday night, pushing up the euro in value against the dollar."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "No changes were made.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial, and matching sentences ensures that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“It looks like we’ve avoided the worst-case scenario,” said Darren Williams, a European economist for AllianceBernstein in London.",
+        "M2": "“It looks like we’ve avoided the worst-case scenario,” said Darren Williams, a European economist for AllianceBernstein in London."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "No changes were made.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial, and matching sentences ensures that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“I think that’s important, because we could have gone to a very bad place very quickly.”",
+        "M2": "“I think that’s important, because we could have gone to a very bad place very quickly.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "No changes were made.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial, and matching sentences ensures that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Previous rallies in response to developments in Europe were short-lived.",
+        "M2": "Previous rallies in response to developments in Europe were short-lived."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "No changes were made.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial, and matching sentences ensures that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "A few weeks ago, markets initially responded positively to a bailout plan for Spanish banks, but that optimism quickly gave out when the American stock markets opened that Monday.",
+        "M2": "A few weeks ago, markets initially responded positively to a bailout plan for Spanish banks, but that optimism quickly gave out when the American stock markets opened that Monday."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "No changes were made.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial, and matching sentences ensures that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The health of the world economy weighs heavily on the United States, and on President Obama’s re-election campaign.",
+        "M2": "The health of the world economy weighs heavily on the United States, and on President Obama’s re-election campaign."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "No changes were made.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial, and matching sentences ensures that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "In recent days, Mr. Obama has increased the pressure on European leaders to find longer-term solutions to shoring up the euro.",
+        "M2": "In recent days, Mr. Obama has increased the pressure on European leaders to find longer-term solutions to shoring up the euro."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "No changes were made.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial, and matching sentences ensures that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "A White House statement on Sunday said, “As President Obama and other world leaders have said, we believe that it is in all our interests for Greece to remain in the euro area while respecting its commitment to reform.”",
+        "M2": "A White House statement on Sunday said, “As President Obama and other world leaders have said, we believe that it is in all our interests for Greece to remain in the euro area while respecting its commitment to reform.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "No changes were made.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial, and matching sentences ensures that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "In a sign of the high stakes for global financial stability, the finance ministers, the White House and the European Commission urged Greek political leaders to form a government quickly.",
+        "M2": "In a sign of the high stakes for global financial stability, the finance ministers, the White House and the European Commission urged Greek political leaders to form a government quickly."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "No changes were made.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial, and matching sentences ensures that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Under the current loan agreement, the next government has just weeks to determine how to slash the equivalent of 5 percent of the country’s gross domestic product to meet budget-reduction targets.",
+        "M2": "Under the current loan agreement, the next government has just weeks to determine how to slash the equivalent of 5 percent of the country’s gross domestic product to meet budget-reduction targets."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "No changes were made.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial, and matching sentences ensures that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "In a victory statement on Sunday evening, the New Democracy leader, Antonis Samaras, called for the formation of a government of national unity aimed at keeping Greece in the euro zone and renegotiating the loan agreement.",
+        "M2": "In a victory statement on Sunday evening, the New Democracy leader, Antonis Samaras, called for the formation of a government of national unity aimed at keeping Greece in the euro zone and renegotiating the loan agreement."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "No changes were made.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial, and matching sentences ensures that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“There is no time for political games. The country must be governed,” he said, adding, “We will cooperate with our European partners to boost growth and tackle the torturous problem of unemployment.”",
+        "M2": "“There is no time for political games. The country must be governed,” he said, adding, “We will cooperate with our European partners to boost growth and tackle the torturous problem of unemployment.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes made.",
+        "importance category": "none",
+        "importance reason": "No changes were made.",
+        "literature rationale": "In journalism, maintaining factual accuracy is crucial, and matching sentences ensures that the core information remains unchanged.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no changes in meaning or sentiment."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Alexis Tsipras, the 37-year-old leader of Syriza, conceded defeat."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [
+          "PERSON"
+        ],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - The addition of Tsipras's concession provides context to the election outcome.",
+        "importance category": "named-entity change",
+        "importance reason": "The mention of Tsipras adds a significant political figure to the narrative, impacting reader understanding.",
+        "literature rationale": "In journalism, the inclusion of key figures can enhance the narrative and provide clarity on political dynamics.",
+        "version diff summary": "The addition of Alexis Tsipras's concession statement.",
+        "overall assessment": "The addition of Tsipras's statement provides important context to the election results, enhancing the narrative."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "“We fought against blackmail to put an end to memorandum,” he said, referring to the loan agreement."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This statement reflects Syriza's stance and adds depth to the political context.",
+        "importance category": "policy implication",
+        "importance reason": "The statement highlights the party's position on the loan agreement, which is crucial for understanding the political landscape.",
+        "literature rationale": "In journalism, capturing the sentiments of political leaders can provide insight into their motivations and the broader implications of their actions.",
+        "version diff summary": "The addition of Tsipras's statement regarding the loan agreement.",
+        "overall assessment": "The addition of Tsipras's statement enriches the narrative by providing insight into Syriza's political stance."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "“We’re proud of our fight.”"
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The statement reflects pride but does not alter the core narrative.",
+        "importance category": "none",
+        "importance reason": "The statement adds emotional weight but does not change the factual content.",
+        "literature rationale": "In journalism, emotional expressions can enhance storytelling but do not necessarily change the factual basis of the report.",
+        "version diff summary": "The addition of Tsipras's statement of pride.",
+        "overall assessment": "The addition of Tsipras's statement adds emotional depth but does not significantly impact the overall narrative."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "He added that Syriza would be “present in developments from the position of the main opposition party.”"
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This statement clarifies Syriza's role in the political landscape post-election.",
+        "importance category": "policy implication",
+        "importance reason": "The statement emphasizes Syriza's continued relevance and opposition role, which is crucial for understanding future political dynamics.",
+        "literature rationale": "In journalism, articulating the positions of political parties helps to clarify their roles and influence in ongoing political narratives.",
+        "version diff summary": "The addition of Tsipras's statement about Syriza's role as the main opposition party.",
+        "overall assessment": "The addition of Tsipras's statement enhances the understanding of Syriza's position in the political landscape."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Any new leader will face an uphill battle to inject confidence into a paralyzed Greek economy that depends heavily on the continued infusion of money from its only remaining lifeline, the European Central Bank."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This statement highlights the challenges facing the new government and the economic context.",
+        "importance category": "economic context",
+        "importance reason": "The statement underscores the economic difficulties that will shape the new government's actions and policies.",
+        "literature rationale": "In journalism, providing context about economic conditions is essential for understanding the implications of political decisions.",
+        "version diff summary": "The addition of context regarding the challenges for the new leader.",
+        "overall assessment": "The addition of this statement provides critical context about the economic challenges that the new government will face."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "The Greek economy and a deficit-ridden government have lost most of their ability to raise new revenues or borrow money to continue operations."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This statement emphasizes the dire financial situation of Greece.",
+        "importance category": "economic context",
+        "importance reason": "The statement highlights the limitations of the Greek government in managing its finances, which is crucial for understanding the political landscape.",
+        "literature rationale": "In journalism, articulating the financial constraints of a government is vital for comprehending the broader implications of its policies.",
+        "version diff summary": "The addition of information about the Greek government's financial limitations.",
+        "overall assessment": "The addition of this statement significantly enhances the understanding of Greece's financial challenges."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "But political analysts said no matter what government was formed, it would be weak and likely short-lived, lacking deep popular support and the broader confidence of Europe."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This statement provides critical insight into the expected stability of the new government.",
+        "importance category": "political stability",
+        "importance reason": "The statement indicates potential challenges for the new government, which is essential for understanding future political dynamics.",
+        "literature rationale": "In journalism, analyzing the stability of governments is crucial for predicting political outcomes and informing the public.",
+        "version diff summary": "The addition of insights regarding the expected stability of the new government.",
+        "overall assessment": "The addition of this statement is significant as it provides insight into the anticipated challenges for the new government."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "And it was unlikely that the election results would persuade Greece’s European lenders to extend loans without economic reforms and drastic spending cuts."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This statement highlights the conditions under which Greece may receive further financial support.",
+        "importance category": "financial conditions",
+        "importance reason": "The statement underscores the necessity of reforms for Greece to secure loans, which is crucial for understanding the economic landscape.",
+        "literature rationale": "In journalism, clarifying the conditions for financial support is essential for informing the public about economic policies and their implications.",
+        "version diff summary": "The addition of conditions for receiving loans from European lenders.",
+        "overall assessment": "The addition of this statement is significant as it outlines the conditions necessary for Greece to secure further financial assistance."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Mr. Samaras “won a Pyrrhic victory,” said Harry Papasotiriou, a political-science professor at Panteion University in Athens."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [
+          "PERSON"
+        ],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This statement provides critical analysis of the election outcome.",
+        "importance category": "analysis",
+        "importance reason": "The statement offers an expert perspective on the implications of the election results, enhancing the narrative.",
+        "literature rationale": "In journalism, expert analysis is vital for providing context and depth to political events, helping the audience understand their significance.",
+        "version diff summary": "The addition of expert commentary on Samaras's victory.",
+        "overall assessment": "The addition of this statement enriches the narrative by providing expert analysis of the election outcome."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "“New Democracy will try to renegotiate part of the memorandum agreement, but they won’t get far, and then they will have to implement within 100 days a very difficult program of reforms.”"
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This statement outlines the challenges the new government will face in implementing reforms.",
+        "importance category": "policy implications",
+        "importance reason": "The statement highlights the immediate challenges for the new government, which is crucial for understanding the political landscape.",
+        "literature rationale": "In journalism, detailing the challenges faced by governments is essential for informing the public about potential outcomes and implications.",
+        "version diff summary": "The addition of information about the challenges facing the new government.",
+        "overall assessment": "The addition of this statement is significant as it outlines the immediate challenges the new government will face."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "And the unions of the public sector, supported by the radical left, will give him a hard time."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This statement highlights the potential opposition the new government may face.",
+        "importance category": "political opposition",
+        "importance reason": "The statement emphasizes the challenges from public sector unions, which is crucial for understanding the political dynamics.",
+        "literature rationale": "In journalism, identifying potential sources of opposition is essential for providing a comprehensive view of the political landscape.",
+        "version diff summary": "The addition of information about potential opposition from public sector unions.",
+        "overall assessment": "The addition of this statement is significant as it highlights the challenges the new government may face from unions."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Asked what the election results change, Daniel Gros, the director of the Centre for European Policy Studies, which is based in Brussels, said, “Unfortunately nothing.”"
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [
+          "PERSON",
+          "ORG"
+        ],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This statement reflects a critical perspective on the election's impact.",
+        "importance category": "analysis",
+        "importance reason": "The statement provides a critical viewpoint on the election results, which is essential for understanding the broader implications.",
+        "literature rationale": "In journalism, presenting diverse perspectives, especially critical ones, is vital for a balanced narrative.",
+        "version diff summary": "The addition of a critical perspective on the election results.",
+        "overall assessment": "The addition of this statement is significant as it provides a critical viewpoint on the election's impact."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Meanwhile, Greece’s partners in the euro zone are growing impatient."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This statement highlights the urgency of the situation for Greece.",
+        "importance category": "political urgency",
+        "importance reason": "The statement underscores the pressure from euro zone partners, which is crucial for understanding the political context.",
+        "literature rationale": "In journalism, articulating the pressures faced by countries in financial distress is essential for providing context to political events.",
+        "version diff summary": "The addition of information about the impatience of Greece's euro zone partners.",
+        "overall assessment": "The addition of this statement is significant as it highlights the urgency of the situation for Greece."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "“I think there’s no desire for them to leave, but very little inclination to say, ‘Let’s give them still another chance’ and give any substantial compromise on the rescue package,” Mr. Gros said."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [
+          "PERSON"
+        ],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This statement provides insight into the attitudes of Greece's euro zone partners.",
+        "importance category": "analysis",
+        "importance reason": "The statement reflects the cautious stance of euro zone partners, which is crucial for understanding the political dynamics.",
+        "literature rationale": "In journalism, analyzing the attitudes of key stakeholders is essential for providing a comprehensive view of political events.",
+        "version diff summary": "The addition of insights into the attitudes of euro zone partners regarding Greece.",
+        "overall assessment": "The addition of this statement is significant as it provides insight into the attitudes of Greece's euro zone partners."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "For many Greeks, the election was a choice between hope and fear."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This statement captures the emotional landscape of the election.",
+        "importance category": "emotional context",
+        "importance reason": "The statement highlights the contrasting sentiments among voters, which is crucial for understanding the election's significance.",
+        "literature rationale": "In journalism, articulating the emotional context of events helps to engage readers and provide depth to the narrative.",
+        "version diff summary": "The addition of information about the emotional context of the election.",
+        "overall assessment": "The addition of this statement is significant as it captures the emotional landscape of the election."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Syriza had billed itself as a kind of “Greek Spring,” capturing the momentum of those hungry for change at almost any cost from a political system that is widely seen as corrupt and ineffective."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This statement provides context on Syriza's positioning and appeal.",
+        "importance category": "political context",
+        "importance reason": "The statement highlights Syriza's narrative, which is crucial for understanding its electoral strategy.",
+        "literature rationale": "In journalism, providing context about political movements is essential for understanding their impact and significance.",
+        "version diff summary": "The addition of context regarding Syriza's positioning as a political movement.",
+        "overall assessment": "The addition of this statement is significant as it provides context on Syriza's appeal and positioning."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "It also had support from voters who felt betrayed by the socialists, whose party was in power in 2010 when Greece signed the first of its two loan deals with foreign creditors."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This statement provides context on voter sentiment and historical grievances.",
+        "importance category": "historical context",
+        "importance reason": "The statement highlights the historical context of voter sentiment, which is crucial for understanding the election's dynamics.",
+        "literature rationale": "In journalism, connecting current events to historical context is essential for providing depth and understanding.",
+        "version diff summary": "The addition of context regarding voter sentiment and historical grievances.",
+        "overall assessment": "The addition of this statement is significant as it provides context on voter sentiment and historical grievances."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "New Democracy tapped into different fears — of the unknown, of illegal immigration, of an exit from the euro zone."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This statement highlights the contrasting fears that influenced voter behavior.",
+        "importance category": "voter sentiment",
+        "importance reason": "The statement underscores the fears that shaped the election, which is crucial for understanding voter motivations.",
+        "literature rationale": "In journalism, articulating the fears and concerns of voters is essential for providing a comprehensive view of electoral dynamics.",
+        "version diff summary": "The addition of information about the fears influencing voter behavior.",
+        "overall assessment": "The addition of this statement is significant as it highlights the contrasting fears that influenced voter behavior."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Its main campaign advertisement showed an elementary-school teacher telling his students which countries use the euro."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The statement adds a minor detail about the campaign advertisement.",
+        "importance category": "campaign strategy",
+        "importance reason": "The statement provides insight into the campaign's messaging but does not significantly alter the narrative.",
+        "literature rationale": "In journalism, detailing campaign strategies can enhance understanding of electoral dynamics, even if the impact is minor.",
+        "version diff summary": "The addition of details about the campaign advertisement.",
+        "overall assessment": "The addition of this statement provides minor detail about the campaign strategy."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "When one asks, “And what about Greece?” the teacher stares back in stony silence."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The statement adds a minor detail to the campaign advertisement.",
+        "importance category": "campaign strategy",
+        "importance reason": "The statement provides additional context to the campaign's messaging but does not significantly alter the narrative.",
+        "literature rationale": "In journalism, detailing campaign strategies can enhance understanding of electoral dynamics, even if the impact is minor.",
+        "version diff summary": "The addition of dialogue from the campaign advertisement.",
+        "overall assessment": "The addition of this statement provides minor detail about the campaign strategy."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "“Why, teacher, why?” the student asks."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The statement adds a minor detail to the campaign advertisement.",
+        "importance category": "campaign strategy",
+        "importance reason": "The statement provides additional context to the campaign's messaging but does not significantly alter the narrative.",
+        "literature rationale": "In journalism, detailing campaign strategies can enhance understanding of electoral dynamics, even if the impact is minor.",
+        "version diff summary": "The addition of dialogue from the campaign advertisement.",
+        "overall assessment": "The addition of this statement provides minor detail about the campaign strategy."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "In the end, fear of imminent collapse, as opposed to the slow death of their economy and society, appeared to drive a majority of Greeks to New Democracy."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This statement captures the emotional motivations behind the election results.",
+        "importance category": "voter sentiment",
+        "importance reason": "The statement highlights the emotional drivers of voter behavior, which is crucial for understanding the election's outcome.",
+        "literature rationale": "In journalism, articulating the emotional context of events helps to engage readers and provide depth to the narrative.",
+        "version diff summary": "The addition of information about the emotional motivations behind the election results.",
+        "overall assessment": "The addition of this statement is significant as it captures the emotional motivations behind the election results."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "As he watched election returns at an outdoor cafe here, Nikos Theodossiades, 69, said he was glad that New Democracy had won."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [
+          "PERSON"
+        ],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This statement provides a personal perspective on the election outcome.",
+        "importance category": "personal perspective",
+        "importance reason": "The statement adds a personal viewpoint, which is essential for understanding public sentiment.",
+        "literature rationale": "In journalism, incorporating personal perspectives enriches the narrative and helps to humanize the political context.",
+        "version diff summary": "The addition of a personal perspective on the election outcome.",
+        "overall assessment": "The addition of this statement is significant as it provides a personal perspective on the election outcome."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "“This is the only way for the country to move forward,” he said."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The statement reflects a personal opinion but does not alter the core narrative.",
+        "importance category": "none",
+        "importance reason": "The statement adds a personal opinion but does not significantly change the narrative.",
+        "literature rationale": "In journalism, personal opinions can enhance storytelling but do not necessarily change the factual basis of the report.",
+        "version diff summary": "The addition of a personal opinion on the election outcome.",
+        "overall assessment": "The addition of this statement provides minor detail about personal opinions on the election outcome."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "“Staying in the euro zone, despite all its problems, is much better than the alternative.”"
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The statement reflects a personal opinion but does not alter the core narrative.",
+        "importance category": "none",
+        "importance reason": "The statement adds a personal opinion but does not significantly change the narrative.",
+        "literature rationale": "In journalism, personal opinions can enhance storytelling but do not necessarily change the factual basis of the report.",
+        "version diff summary": "The addition of a personal opinion on the euro zone.",
+        "overall assessment": "The addition of this statement provides minor detail about personal opinions on the euro zone."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Panagiotis Pierrakis, 48, an Athens taxi driver, said that he had voted for Syriza and that although it did not win, he thought the results had sent a message."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [
+          "PERSON"
+        ],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This statement provides insight into voter sentiment and the perceived significance of the election.",
+        "importance category": "voter sentiment",
+        "importance reason": "The statement highlights the perspectives of voters, which is crucial for understanding the election's impact.",
+        "literature rationale": "In journalism, capturing the sentiments of voters is essential for providing a comprehensive view of electoral dynamics.",
+        "version diff summary": "The addition of a personal perspective on the election results.",
+        "overall assessment": "The addition of this statement is significant as it provides insight into voter sentiment and the perceived significance of the election."
+      }
+    }
+  ]
+}

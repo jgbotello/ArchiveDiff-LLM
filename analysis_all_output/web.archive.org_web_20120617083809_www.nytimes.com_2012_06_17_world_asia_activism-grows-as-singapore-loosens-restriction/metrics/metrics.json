@@ -1,0 +1,334 @@
+{
+  "summary": {
+    "pairs_total": 2,
+    "units_total": 73,
+    "units_m1_nonnull": 50,
+    "units_m2_nonnull": 73,
+    "units_by_type": {
+      "match": 50,
+      "insert": 23,
+      "delete": 0
+    },
+    "changed_units_by_type": {
+      "match": 2,
+      "insert": 23,
+      "delete": 0
+    },
+    "changed_units_total": 25,
+    "changes": {
+      "total_changed": 25,
+      "yes": 2,
+      "yes_addition": 23,
+      "yes_deletion": 0,
+      "no": 48,
+      "important": 25,
+      "not_important": 0,
+      "unknown_importance_among_changed": 0
+    },
+    "semantic": {
+      "low": 25
+    },
+    "llm_fields": {
+      "ner_category_changed": {
+        "PERSON": 0,
+        "ORG": 0,
+        "GPE": 0,
+        "LOC": 0,
+        "DATE": 0,
+        "MONEY": 0,
+        "PERCENT": 0
+      },
+      "sentiment_before": {
+        "Neutral": 2,
+        "NA": 23
+      },
+      "semantic_impact": {
+        "low": 25
+      },
+      "grammar_change": {
+        "yes": 0,
+        "no": 25
+      },
+      "pos_category_changed": {
+        "VERB": 0,
+        "NOUN": 0,
+        "PROPN": 0,
+        "ADJ": 0,
+        "NUM": 0,
+        "ADV": 0
+      },
+      "importance_category_freq": {
+        "major wording": 2,
+        "contextual addition": 1,
+        "event detail": 2,
+        "historical context": 3,
+        "organizational strategy": 1,
+        "legal context": 1,
+        "event significance": 2,
+        "historical detail": 1,
+        "quantitative detail": 1,
+        "government response": 1,
+        "government justification": 1,
+        "historical justification": 1,
+        "government perspective": 1,
+        "personal testimony": 1,
+        "social impact": 1,
+        "descriptive detail": 1,
+        "personal narrative": 1,
+        "personal struggle": 1,
+        "emotional impact": 1,
+        "sentiment expression": 1
+      },
+      "verbal_changes": {
+        "tense": 0,
+        "aspect": 0,
+        "voice": 0,
+        "modality": 0
+      },
+      "sentiment_after": {
+        "Neutral": 25
+      },
+      "sentiment_change_direction": {
+        "no change": 25
+      },
+      "textual_differences": {
+        "no": 48,
+        "yes": 2,
+        "yes (addition)": 23
+      },
+      "importance_overall": {
+        "Important": 25,
+        "Not important": 0,
+        "Unknown (among changed)": 0
+      },
+      "rewritten": {
+        "true": 0,
+        "false": 25
+      },
+      "bases": {
+        "units_total": 73,
+        "changed_units_total": 25
+      }
+    }
+  },
+  "per_pair": [
+    {
+      "pair_index": 0,
+      "timestamp_old": "2012-06-17T08:38:09Z",
+      "timestamp_new": "2012-06-17T12:55:50Z",
+      "delta_hours": 4.294722222222222,
+      "units_total": 25,
+      "units_m1_nonnull": 25,
+      "units_m2_nonnull": 25,
+      "units_by_type": {
+        "match": 25,
+        "insert": 0,
+        "delete": 0
+      },
+      "changed_units_by_type": {
+        "match": 2,
+        "insert": 0,
+        "delete": 0
+      },
+      "changed_units_total": 2,
+      "changes": {
+        "total_changed": 2,
+        "yes": 2,
+        "yes_addition": 0,
+        "yes_deletion": 0,
+        "no": 23,
+        "important": 2,
+        "not_important": 0,
+        "unknown_importance_among_changed": 0
+      },
+      "semantic": {
+        "low": 2
+      },
+      "verbal_flags": {
+        "tense": 0,
+        "aspect": 0,
+        "voice": 0,
+        "modality": 0
+      },
+      "llm_fields": {
+        "textual_differences": {
+          "no": 23,
+          "yes": 2
+        },
+        "semantic_impact": {
+          "low": 2
+        },
+        "sentiment_before": {
+          "Neutral": 2
+        },
+        "sentiment_after": {
+          "Neutral": 2
+        },
+        "sentiment_change_direction": {
+          "no change": 2
+        },
+        "importance_overall": {
+          "Important": 2,
+          "Not important": 0,
+          "Unknown (among changed)": 0
+        },
+        "importance_category_freq": {
+          "major wording": 2
+        },
+        "pos_category_changed": {
+          "VERB": 0,
+          "NOUN": 0,
+          "PROPN": 0,
+          "ADJ": 0,
+          "NUM": 0,
+          "ADV": 0
+        },
+        "ner_category_changed": {
+          "PERSON": 0,
+          "ORG": 0,
+          "GPE": 0,
+          "LOC": 0,
+          "DATE": 0,
+          "MONEY": 0,
+          "PERCENT": 0
+        },
+        "grammar_change": {
+          "yes": 0,
+          "no": 2
+        },
+        "verbal_changes": {
+          "tense": 0,
+          "aspect": 0,
+          "voice": 0,
+          "modality": 0
+        },
+        "rewritten": {
+          "true": 0,
+          "false": 2
+        },
+        "bases": {
+          "units_total": 25,
+          "changed_units_total": 2
+        }
+      }
+    },
+    {
+      "pair_index": 3,
+      "timestamp_old": "2012-06-20T23:43:28Z",
+      "timestamp_new": "2012-09-11T04:30:31Z",
+      "delta_hours": 1972.7841666666666,
+      "units_total": 48,
+      "units_m1_nonnull": 25,
+      "units_m2_nonnull": 48,
+      "units_by_type": {
+        "match": 25,
+        "insert": 23,
+        "delete": 0
+      },
+      "changed_units_by_type": {
+        "match": 0,
+        "insert": 23,
+        "delete": 0
+      },
+      "changed_units_total": 23,
+      "changes": {
+        "total_changed": 23,
+        "yes": 0,
+        "yes_addition": 23,
+        "yes_deletion": 0,
+        "no": 25,
+        "important": 23,
+        "not_important": 0,
+        "unknown_importance_among_changed": 0
+      },
+      "semantic": {
+        "low": 23
+      },
+      "verbal_flags": {
+        "tense": 0,
+        "aspect": 0,
+        "voice": 0,
+        "modality": 0
+      },
+      "llm_fields": {
+        "textual_differences": {
+          "no": 25,
+          "yes (addition)": 23
+        },
+        "semantic_impact": {
+          "low": 23
+        },
+        "sentiment_before": {
+          "NA": 23
+        },
+        "sentiment_after": {
+          "Neutral": 23
+        },
+        "sentiment_change_direction": {
+          "no change": 23
+        },
+        "importance_overall": {
+          "Important": 23,
+          "Not important": 0,
+          "Unknown (among changed)": 0
+        },
+        "importance_category_freq": {
+          "contextual addition": 1,
+          "event detail": 2,
+          "historical context": 3,
+          "organizational strategy": 1,
+          "legal context": 1,
+          "event significance": 2,
+          "historical detail": 1,
+          "quantitative detail": 1,
+          "government response": 1,
+          "government justification": 1,
+          "historical justification": 1,
+          "government perspective": 1,
+          "personal testimony": 1,
+          "social impact": 1,
+          "descriptive detail": 1,
+          "personal narrative": 1,
+          "personal struggle": 1,
+          "emotional impact": 1,
+          "sentiment expression": 1
+        },
+        "pos_category_changed": {
+          "VERB": 0,
+          "NOUN": 0,
+          "PROPN": 0,
+          "ADJ": 0,
+          "NUM": 0,
+          "ADV": 0
+        },
+        "ner_category_changed": {
+          "PERSON": 0,
+          "ORG": 0,
+          "GPE": 0,
+          "LOC": 0,
+          "DATE": 0,
+          "MONEY": 0,
+          "PERCENT": 0
+        },
+        "grammar_change": {
+          "yes": 0,
+          "no": 23
+        },
+        "verbal_changes": {
+          "tense": 0,
+          "aspect": 0,
+          "voice": 0,
+          "modality": 0
+        },
+        "rewritten": {
+          "true": 0,
+          "false": 23
+        },
+        "bases": {
+          "units_total": 48,
+          "changed_units_total": 23
+        }
+      }
+    }
+  ]
+}

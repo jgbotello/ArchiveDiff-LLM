@@ -1,0 +1,1275 @@
+{
+  "pair_index": 29,
+  "n_sentences_old": 30,
+  "n_sentences_new": 50,
+  "metadata_old": {
+    "warc-date": "2014-10-23T07:45:05Z",
+    "warc-record-id": "<urn:uuid:8b8ccd1c-8398-4471-b75a-fc6c49559298>",
+    "warc-block-digest": "sha1:360163e3b4a352c88efeebd918caa80205e53f88",
+    "warc-target-uri": "https://web.archive.org/web/20141023074505/https://www.nytimes.com/2012/06/20/world/middleeast/mubarak-is-on-life-support-egypt-security-officials-say.html",
+    "content-length": 4552,
+    "url-hash": "cad772826833040b7ba7227b6c58239b"
+  },
+  "metadata_new": {
+    "warc-date": "2015-03-16T15:19:02Z",
+    "warc-record-id": "<urn:uuid:f806a1d9-6bec-401a-ad9c-34da27a0f649>",
+    "warc-block-digest": "sha1:ca6d7a151a0afb5de85a4b63b53ce8346e860a16",
+    "warc-target-uri": "https://web.archive.org/web/20150316151902/https://www.nytimes.com/2012/06/20/world/middleeast/mubarak-is-on-life-support-egypt-security-officials-say.html",
+    "content-length": 7475,
+    "url-hash": "682f413a0b39b34b12283dc16f690f44"
+  },
+  "items": [
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "CAIRO — Former President Hosni Mubarak ’s health deteriorated rapidly and he was rushed to a military hospital on Tuesday, adding to the uncertainty gripping the nation as the ousted strongman’s longtime opponents, the Muslim Brotherhood , battled his onetime allies in the military for political power.",
+        "M2": "CAIRO — Former President Hosni Mubarak’s health deteriorated rapidly and he was rushed to a military hospital on Tuesday, adding to the uncertainty gripping the nation as the ousted strongman’s longtime opponents, the Muslim Brotherhood, battled his onetime allies in the military for political power."
+      },
+      "assessment": {
+        "textual differences": "yes",
+        "POS category changed": [
+          "NOUN"
+        ],
+        "NER category changed": [],
+        "grammar change": "yes",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The change is a minor grammatical correction with no impact on meaning.",
+        "importance category": "grammar correction",
+        "importance reason": "The change corrects a typographical error in the possessive form of Mubarak's name.",
+        "literature rationale": "Minor grammatical corrections can enhance clarity and professionalism in reporting, which is essential for maintaining credibility in journalism.",
+        "version diff summary": "Corrected the possessive form of Mubarak's name.",
+        "overall assessment": "The change involved a minor grammatical correction that does not alter the meaning or sentiment of the text. It is not important in the context of the overall narrative."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "There were conflicting reports about Mr. Mubarak’s condition.",
+        "M2": "There were conflicting reports about Mr. Mubarak’s condition."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "The sentence remains unchanged and retains its original meaning.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining the integrity of information presented to the public.",
+        "version diff summary": "No changes were made.",
+        "overall assessment": "This sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Government officials and the state news agency initially said that Mr. Mubarak, 84, had suffered cardiac arrest and a stroke in prison and had been declared “clinically dead” after being taken to a military hospital overlooking the Nile.",
+        "M2": "Government officials and the state news agency initially said that Mr. Mubarak, 84, had suffered cardiac arrest and a stroke in prison and had been declared “clinically dead” after being taken to a military hospital overlooking the Nile."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "The sentence remains unchanged and retains its original meaning.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining the integrity of information presented to the public.",
+        "version diff summary": "No changes were made.",
+        "overall assessment": "This sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Other reports said he had been placed on life support.",
+        "M2": "Other reports said he had been placed on life support."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "The sentence remains unchanged and retains its original meaning.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining the integrity of information presented to the public.",
+        "version diff summary": "No changes were made.",
+        "overall assessment": "This sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "But by early Wednesday, an Interior Ministry spokesman said he was in critical condition but alive.",
+        "M2": "But by early Wednesday, an Interior Ministry spokesman said he was in critical condition but alive."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "The sentence remains unchanged and retains its original meaning.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining the integrity of information presented to the public.",
+        "version diff summary": "No changes were made.",
+        "overall assessment": "This sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Mr. Mubarak had been in a prison medical ward since the beginning of the month, when he was given a life sentence in connection with the killing of demonstrators during the 18 days of protests that ended his rule.",
+        "M2": "Mr. Mubarak had been in a prison medical ward since the beginning of the month, when he was given a life sentence in connection with the killing of demonstrators during the 18 days of protests that ended his rule."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "The sentence remains unchanged and retains its original meaning.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining the integrity of information presented to the public.",
+        "version diff summary": "No changes were made.",
+        "overall assessment": "This sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The news of his failing health spread quickly through Tahrir Square, the birthplace of the uprising, where tens of thousands of people were protesting the military council governing Egypt.",
+        "M2": "The news of his failing health spread quickly through Tahrir Square, the birthplace of the uprising, where tens of thousands of people were protesting the military council governing Egypt."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "The sentence remains unchanged and retains its original meaning.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining the integrity of information presented to the public.",
+        "version diff summary": "No changes were made.",
+        "overall assessment": "This sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "In recent days, the generals had moved to seize the kind of uncontested authority that the former president wielded during his nearly three decades in power.",
+        "M2": "In recent days, the generals had moved to seize the kind of uncontested authority that the former president wielded during his nearly three decades in power."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "The sentence remains unchanged and retains its original meaning.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining the integrity of information presented to the public.",
+        "version diff summary": "No changes were made.",
+        "overall assessment": "This sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The confusion over his health injected new volatility into the country’s growing political and constitutional crisis, even as the two candidates to replace Mr. Mubarak as president both declared themselves the winners of the weekend’s election.",
+        "M2": "The confusion over his health injected new volatility into the country’s growing political and constitutional crisis, even as the two candidates to replace Mr. Mubarak as president both declared themselves the winners of the weekend’s election."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "The sentence remains unchanged and retains its original meaning.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining the integrity of information presented to the public.",
+        "version diff summary": "No changes were made.",
+        "overall assessment": "This sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Analysts marveled that Mr. Mubarak had lost consciousness at the climactic moment of the struggle over the future of the system he had defined for so long, and just two days after the vote to choose his successor.",
+        "M2": "Analysts marveled that Mr. Mubarak had lost consciousness at the climactic moment of the struggle over the future of the system he had defined for so long, and just two days after the vote to choose his successor."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "The sentence remains unchanged and retains its original meaning.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining the integrity of information presented to the public.",
+        "version diff summary": "No changes were made.",
+        "overall assessment": "This sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“It is very Shakespearean,” said Diaa Rashwan, an analyst at Al Ahram Center, a state-financed research institute.",
+        "M2": "“It is very Shakespearean,” said Diaa Rashwan, an analyst at Al Ahram Center, a state-financed research institute."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "The sentence remains unchanged and retains its original meaning.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining the integrity of information presented to the public.",
+        "version diff summary": "No changes were made.",
+        "overall assessment": "This sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“To himself, he is eternal.",
+        "M2": "“To himself, he is eternal."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "The sentence remains unchanged and retains its original meaning.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining the integrity of information presented to the public.",
+        "version diff summary": "No changes were made.",
+        "overall assessment": "This sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "There can be nobody after him.",
+        "M2": "There can be nobody after him."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "The sentence remains unchanged and retains its original meaning.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining the integrity of information presented to the public.",
+        "version diff summary": "No changes were made.",
+        "overall assessment": "This sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "He does not want to hear the name of his successor.”",
+        "M2": "He does not want to hear the name of his successor.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "The sentence remains unchanged and retains its original meaning.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining the integrity of information presented to the public.",
+        "version diff summary": "No changes were made.",
+        "overall assessment": "This sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "On Monday, Mohamed Morsi, a Brotherhood leader, said he had won Egypt’s first competitive presidential election, beating Ahmed Shafik, Mr. Mubarak’s last prime minister, with 52 percent of the vote.",
+        "M2": "On Monday, Mohamed Morsi, a Brotherhood leader, said he had won Egypt’s first competitive presidential election, beating Ahmed Shafik, Mr. Mubarak’s last prime minister, with 52 percent of the vote."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "The sentence remains unchanged and retains its original meaning.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining the integrity of information presented to the public.",
+        "version diff summary": "No changes were made.",
+        "overall assessment": "This sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The votes were counted publicly at the polling stations, and Egyptian state news media reported the same count as the Brotherhood.",
+        "M2": "The votes were counted publicly at the polling stations, and Egyptian state news media reported the same count as the Brotherhood."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "The sentence remains unchanged and retains its original meaning.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining the integrity of information presented to the public.",
+        "version diff summary": "No changes were made.",
+        "overall assessment": "This sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Official vote results are expected to be announced this week, but on Tuesday, Mr. Shafik disputed several of the tallies, including those reported in the state news media, that forecast Mr. Morsi as the winner.",
+        "M2": "Official vote results are expected to be announced this week, but on Tuesday, Mr. Shafik disputed several of the tallies, including those reported in the state news media, that forecast Mr. Morsi as the winner."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "The sentence remains unchanged and retains its original meaning.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining the integrity of information presented to the public.",
+        "version diff summary": "No changes were made.",
+        "overall assessment": "This sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "A spokesman for Mr. Shafik, Ahmad Sarhan, said without explanation that he had won with 51.5 percent of the vote.",
+        "M2": "A spokesman for Mr. Shafik, Ahmad Sarhan, said without explanation that he had won with 51.5 percent of the vote."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "The sentence remains unchanged and retains its original meaning.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining the integrity of information presented to the public.",
+        "version diff summary": "No changes were made.",
+        "overall assessment": "This sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "But that announcement seemed another tactic in a battle that began before voters went to the polls.",
+        "M2": "But that announcement seemed another tactic in a battle that began before voters went to the polls."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "The sentence remains unchanged and retains its original meaning.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining the integrity of information presented to the public.",
+        "version diff summary": "No changes were made.",
+        "overall assessment": "This sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Last week, the generals dissolved Parliament, which was dominated by the Brotherhood, saying the move was justified because of a decision by a court of judges appointed by Mr. Mubarak.",
+        "M2": "Last week, the generals dissolved Parliament, which was dominated by the Brotherhood, saying the move was justified because of a decision by a court of judges appointed by Mr. Mubarak."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "The sentence remains unchanged and retains its original meaning.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining the integrity of information presented to the public.",
+        "version diff summary": "No changes were made.",
+        "overall assessment": "This sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The generals also proceeded to issue their own interim constitution, entrenching their power while all but eviscerating the authority of the new president.",
+        "M2": "The generals also proceeded to issue their own interim constitution, entrenching their power while all but eviscerating the authority of the new president."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "The sentence remains unchanged and retains its original meaning.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining the integrity of information presented to the public.",
+        "version diff summary": "No changes were made.",
+        "overall assessment": "This sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The interim constitution also provided the generals and the Mubarak-appointed judiciary with broad sway over the drafting of Egypt’s next permanent constitution.",
+        "M2": "The interim constitution also provided the generals and the Mubarak-appointed judiciary with broad sway over the drafting of Egypt’s next permanent constitution."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "The sentence remains unchanged and retains its original meaning.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining the integrity of information presented to the public.",
+        "version diff summary": "No changes were made.",
+        "overall assessment": "This sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Former President Jimmy Carter, whose Carter Center monitored the election, said in a statement on Tuesday he was “deeply troubled by the undemocratic turn that Egypt has taken.”",
+        "M2": "Former President Jimmy Carter, whose Carter Center monitored the election, said in a statement on Tuesday he was “deeply troubled by the undemocratic turn that Egypt has taken.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "The sentence remains unchanged and retains its original meaning.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining the integrity of information presented to the public.",
+        "version diff summary": "No changes were made.",
+        "overall assessment": "This sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The center expressed its “grave concern about the broader political and constitutional context, which calls into question the meaning and purpose of the elections.”",
+        "M2": "The center expressed its “grave concern about the broader political and constitutional context, which calls into question the meaning and purpose of the elections.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "The sentence remains unchanged and retains its original meaning.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining the integrity of information presented to the public.",
+        "version diff summary": "No changes were made.",
+        "overall assessment": "This sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Mr. Carter said that in contrast to the first round of voting last month, some international observers had been subjected to “heightened scrutiny and intimidation from military personnel” during last weekend’s vote.",
+        "M2": "Mr. Carter said that in contrast to the first round of voting last month, some international observers had been subjected to “heightened scrutiny and intimidation from military personnel” during last weekend’s vote."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "The sentence remains unchanged and retains its original meaning.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining the integrity of information presented to the public.",
+        "version diff summary": "No changes were made.",
+        "overall assessment": "This sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“There was a small but notable pattern of intimidation of Carter Center witnesses,” Mr. Carter said.",
+        "M2": "“There was a small but notable pattern of intimidation of Carter Center witnesses,” Mr. Carter said."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "The sentence remains unchanged and retains its original meaning.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining the integrity of information presented to the public.",
+        "version diff summary": "No changes were made.",
+        "overall assessment": "This sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The military filmed observers at several polling places, and one international observer felt coerced to make positive statements about the process.",
+        "M2": "The military filmed observers at several polling places, and one international observer felt coerced to make positive statements about the process."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "The sentence remains unchanged and retains its original meaning.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining the integrity of information presented to the public.",
+        "version diff summary": "No changes were made.",
+        "overall assessment": "This sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Mr. Carter said he was also concerned about the limitations put on his teams’ ability to monitor the vote and the ballot counting.",
+        "M2": "Mr. Carter said he was also concerned about the limitations put on his teams’ ability to monitor the vote and the ballot counting."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "The sentence remains unchanged and retains its original meaning.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining the integrity of information presented to the public.",
+        "version diff summary": "No changes were made.",
+        "overall assessment": "This sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The “restrictions are contrary to the core principles of credible and effective election observation,” he said in the statement.",
+        "M2": "The “restrictions are contrary to the core principles of credible and effective election observation,” he said in the statement."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "The sentence remains unchanged and retains its original meaning.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining the integrity of information presented to the public.",
+        "version diff summary": "No changes were made.",
+        "overall assessment": "This sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“The Carter Center will not witness future elections in such circumstances.”",
+        "M2": "“The Carter Center will not witness future elections in such circumstances.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No changes were made.",
+        "importance category": "none",
+        "importance reason": "The sentence remains unchanged and retains its original meaning.",
+        "literature rationale": "Consistency in reporting is crucial for maintaining the integrity of information presented to the public.",
+        "version diff summary": "No changes were made.",
+        "overall assessment": "This sentence is identical in both mementos, indicating no change in meaning or sentiment."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "But the Brotherhood was not about to walk away, and it vowed to use the legitimacy of the election to rally the public and fight for power."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This addition provides context about the Brotherhood's response to the election results.",
+        "importance category": "contextual addition",
+        "importance reason": "The new sentence adds significant context regarding the Brotherhood's intentions and actions following the election.",
+        "literature rationale": "Contextual additions in news reporting can enhance understanding of the dynamics at play, which is crucial for informed public discourse.",
+        "version diff summary": "Added a sentence about the Brotherhood's response to the election results.",
+        "overall assessment": "The addition of this sentence provides important context about the Brotherhood's actions and intentions, enhancing the overall narrative."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "It called for large street protests until the generals backed down, and on Tuesday tens of thousands of protesters poured into Tahrir Square in response."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This addition illustrates the Brotherhood's mobilization efforts and public response.",
+        "importance category": "contextual addition",
+        "importance reason": "The new sentence highlights the public's reaction and the Brotherhood's call for protests, which is significant for understanding the political climate.",
+        "literature rationale": "Contextual additions in news reporting can enhance understanding of the dynamics at play, which is crucial for informed public discourse.",
+        "version diff summary": "Added a sentence about the Brotherhood's call for protests and the public's response.",
+        "overall assessment": "The addition of this sentence provides important context about the Brotherhood's mobilization efforts and the public's reaction, enhancing the overall narrative."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "As the crowd swelled, a protest leader issued a warning to the military, whose forces had surrounded the Parliament building to prevent elected members from entering."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This addition provides insight into the tensions between protesters and the military.",
+        "importance category": "contextual addition",
+        "importance reason": "The new sentence adds significant context regarding the military's actions and the protesters' responses, which is crucial for understanding the situation.",
+        "literature rationale": "Contextual additions in news reporting can enhance understanding of the dynamics at play, which is crucial for informed public discourse.",
+        "version diff summary": "Added a sentence about a protest leader's warning to the military.",
+        "overall assessment": "The addition of this sentence provides important context about the tensions between protesters and the military, enhancing the overall narrative."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "“We’re giving the forces now standing in front of the Parliament until the official results are announced,” he said, referring to the official election count."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This addition highlights the protesters' demands and the urgency of the situation.",
+        "importance category": "contextual addition",
+        "importance reason": "The new sentence emphasizes the protesters' stance and the pressure on the military, which is significant for understanding the political dynamics.",
+        "literature rationale": "Contextual additions in news reporting can enhance understanding of the dynamics at play, which is crucial for informed public discourse.",
+        "version diff summary": "Added a sentence about the protesters' ultimatum to the military.",
+        "overall assessment": "The addition of this sentence provides important context about the protesters' demands and the urgency of the situation, enhancing the overall narrative."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "“After the official results, if one soldier is standing there — ” he said, his voice drowned out by the crowd."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This addition underscores the protesters' determination and the potential for conflict.",
+        "importance category": "contextual addition",
+        "importance reason": "The new sentence highlights the protesters' resolve and the potential for confrontation, which is significant for understanding the political climate.",
+        "literature rationale": "Contextual additions in news reporting can enhance understanding of the dynamics at play, which is crucial for informed public discourse.",
+        "version diff summary": "Added a sentence about the protest leader's warning regarding military presence.",
+        "overall assessment": "The addition of this sentence provides important context about the protesters' determination and the potential for conflict, enhancing the overall narrative."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "“The struggle starts now,” said Mohammed Gamal, one of the protesters."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This addition captures the protesters' resolve and the beginning of a new phase in their struggle.",
+        "importance category": "contextual addition",
+        "importance reason": "The new sentence emphasizes the protesters' determination and the significance of their actions, which is crucial for understanding the ongoing conflict.",
+        "literature rationale": "Contextual additions in news reporting can enhance understanding of the dynamics at play, which is crucial for informed public discourse.",
+        "version diff summary": "Added a sentence about a protest leader's declaration regarding the struggle.",
+        "overall assessment": "The addition of this sentence provides important context about the protesters' resolve and the beginning of a new phase in their struggle, enhancing the overall narrative."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "As Mr. Gamal spoke, Mr. Mubarak was being transferred by ambulance to a hospital."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This addition connects the political situation with Mubarak's health status.",
+        "importance category": "contextual addition",
+        "importance reason": "The new sentence links the ongoing protests with Mubarak's health, which is significant for understanding the urgency of the situation.",
+        "literature rationale": "Contextual additions in news reporting can enhance understanding of the dynamics at play, which is crucial for informed public discourse.",
+        "version diff summary": "Added a sentence about Mubarak's transfer to the hospital.",
+        "overall assessment": "The addition of this sentence provides important context about the connection between the political situation and Mubarak's health status, enhancing the overall narrative."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Officials and the state news media said that his health had deteriorated rapidly, that he had gone into cardiac arrest and that he needed defibrillation, before suffering the stroke."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This addition provides critical details about Mubarak's health crisis.",
+        "importance category": "contextual addition",
+        "importance reason": "The new sentence adds significant medical details regarding Mubarak's condition, which is crucial for understanding the gravity of the situation.",
+        "literature rationale": "Contextual additions in news reporting can enhance understanding of the dynamics at play, which is crucial for informed public discourse.",
+        "version diff summary": "Added a sentence detailing Mubarak's health crisis.",
+        "overall assessment": "The addition of this sentence provides important medical context about Mubarak's health crisis, enhancing the overall narrative."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Mr. Mubarak was last seen in public 17 days ago when he was sentenced to life."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This addition provides context about the timeline of Mubarak's public appearances.",
+        "importance category": "contextual addition",
+        "importance reason": "The new sentence adds context regarding the timeline of Mubarak's public appearances, which is significant for understanding the situation.",
+        "literature rationale": "Contextual additions in news reporting can enhance understanding of the dynamics at play, which is crucial for informed public discourse.",
+        "version diff summary": "Added a sentence about Mubarak's last public appearance.",
+        "overall assessment": "The addition of this sentence provides important context about the timeline of Mubarak's public appearances, enhancing the overall narrative."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Though the judge had pronounced him responsible for a “dark, dark, dark” era of crimes and said he was broadly responsible for the killings, the verdict was followed by days of street protests."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This addition provides context about the public's reaction to the verdict.",
+        "importance category": "contextual addition",
+        "importance reason": "The new sentence adds context regarding the public's reaction to the verdict, which is significant for understanding the political climate.",
+        "literature rationale": "Contextual additions in news reporting can enhance understanding of the dynamics at play, which is crucial for informed public discourse.",
+        "version diff summary": "Added a sentence about the public's reaction to the verdict.",
+        "overall assessment": "The addition of this sentence provides important context about the public's reaction to the verdict, enhancing the overall narrative."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "His questionable conviction, and earlier reports that Mr. Mubarak might be released from the hospital because of his health, became a major issue in the runoff to succeed him."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This addition highlights the implications of Mubarak's health on the political landscape.",
+        "importance category": "contextual addition",
+        "importance reason": "The new sentence emphasizes the political implications of Mubarak's health, which is significant for understanding the ongoing political dynamics.",
+        "literature rationale": "Contextual additions in news reporting can enhance understanding of the dynamics at play, which is crucial for informed public discourse.",
+        "version diff summary": "Added a sentence about the implications of Mubarak's health on the political landscape.",
+        "overall assessment": "The addition of this sentence provides important context about the implications of Mubarak's health on the political landscape, enhancing the overall narrative."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "His health had also declined rapidly after his sentencing, when he was flown by helicopter from the courthouse to a hospital ward in a notorious prison where his government’s political prisoners had served their sentences."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This addition provides context about the conditions surrounding Mubarak's health.",
+        "importance category": "contextual addition",
+        "importance reason": "The new sentence adds context regarding the conditions surrounding Mubarak's health, which is significant for understanding the situation.",
+        "literature rationale": "Contextual additions in news reporting can enhance understanding of the dynamics at play, which is crucial for informed public discourse.",
+        "version diff summary": "Added a sentence about the conditions surrounding Mubarak's health.",
+        "overall assessment": "The addition of this sentence provides important context about the conditions surrounding Mubarak's health, enhancing the overall narrative."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "The subject of Mr. Mubarak’s health was a taboo subject, punishable by prison time, when he was president."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This addition highlights the historical context of discussing Mubarak's health.",
+        "importance category": "contextual addition",
+        "importance reason": "The new sentence emphasizes the historical context of discussing Mubarak's health, which is significant for understanding the political climate.",
+        "literature rationale": "Contextual additions in news reporting can enhance understanding of the dynamics at play, which is crucial for informed public discourse.",
+        "version diff summary": "Added a sentence about the taboo nature of discussing Mubarak's health during his presidency.",
+        "overall assessment": "The addition of this sentence provides important context about the historical taboo surrounding discussions of Mubarak's health, enhancing the overall narrative."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "The flood of reports after his imprisonment led many to speculate that the ruling generals were testing the public reaction in case they decided to move the former president out of prison to the relative comfort of the military hospital."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This addition provides insight into the political maneuvering surrounding Mubarak's health.",
+        "importance category": "contextual addition",
+        "importance reason": "The new sentence adds context regarding the political implications of Mubarak's health, which is significant for understanding the ongoing political dynamics.",
+        "literature rationale": "Contextual additions in news reporting can enhance understanding of the dynamics at play, which is crucial for informed public discourse.",
+        "version diff summary": "Added a sentence about the speculation surrounding the military's actions regarding Mubarak's health.",
+        "overall assessment": "The addition of this sentence provides important context about the political maneuvering surrounding Mubarak's health, enhancing the overall narrative."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Mr. Mubarak’s lawyer told CNN on Tuesday that his wife, Suzanne Mubarak, was by his side, and he expressed anger that Egypt’s military rulers had not moved him to the hospital sooner."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This addition provides details about Mubarak's family's involvement and concerns.",
+        "importance category": "contextual addition",
+        "importance reason": "The new sentence adds context regarding the family's concerns about Mubarak's treatment, which is significant for understanding the situation.",
+        "literature rationale": "Contextual additions in news reporting can enhance understanding of the dynamics at play, which is crucial for informed public discourse.",
+        "version diff summary": "Added a sentence about Mubarak's lawyer's statements regarding his health.",
+        "overall assessment": "The addition of this sentence provides important context about Mubarak's family's involvement and concerns, enhancing the overall narrative."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "It will be their responsibility “if he dies,” the lawyer said."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This addition underscores the gravity of the situation and the accountability of the military.",
+        "importance category": "contextual addition",
+        "importance reason": "The new sentence emphasizes the potential consequences of Mubarak's health crisis, which is significant for understanding the political implications.",
+        "literature rationale": "Contextual additions in news reporting can enhance understanding of the dynamics at play, which is crucial for informed public discourse.",
+        "version diff summary": "Added a sentence about the lawyer's statement regarding responsibility for Mubarak's health.",
+        "overall assessment": "The addition of this sentence provides important context about the gravity of the situation and the accountability of the military, enhancing the overall narrative."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "In Tahrir Square, the news of Mr. Mubarak’s health was met with familiar doubts."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This addition highlights the public's skepticism regarding the news of Mubarak's health.",
+        "importance category": "contextual addition",
+        "importance reason": "The new sentence emphasizes the public's doubts about the military's statements, which is significant for understanding the political climate.",
+        "literature rationale": "Contextual additions in news reporting can enhance understanding of the dynamics at play, which is crucial for informed public discourse.",
+        "version diff summary": "Added a sentence about the public's reaction to the news of Mubarak's health.",
+        "overall assessment": "The addition of this sentence provides important context about the public's skepticism regarding the news of Mubarak's health, enhancing the overall narrative."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "“They say Mubarak really died,” said Hatem Moustafa, 22."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This addition captures the public's speculation about Mubarak's health.",
+        "importance category": "contextual addition",
+        "importance reason": "The new sentence highlights the public's speculation and doubts about Mubarak's condition, which is significant for understanding the political climate.",
+        "literature rationale": "Contextual additions in news reporting can enhance understanding of the dynamics at play, which is crucial for informed public discourse.",
+        "version diff summary": "Added a sentence about public speculation regarding Mubarak's health.",
+        "overall assessment": "The addition of this sentence provides important context about the public's speculation regarding Mubarak's health, enhancing the overall narrative."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "But he was not convinced."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - This addition is a minor statement of doubt.",
+        "importance category": "minor addition",
+        "importance reason": "The new sentence adds a minor expression of doubt but does not significantly impact the overall narrative.",
+        "literature rationale": "Minor additions can contribute to the overall tone and sentiment of a report, but their impact may be limited.",
+        "version diff summary": "Added a sentence expressing doubt about the news of Mubarak's health.",
+        "overall assessment": "The addition of this sentence provides a minor expression of doubt but does not significantly impact the overall narrative."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "“I think the military council is saying this so that we will leave Tahrir Square,” Mr. Moustafa said."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This addition provides insight into the public's perception of the military's motives.",
+        "importance category": "contextual addition",
+        "importance reason": "The new sentence emphasizes the public's skepticism regarding the military's intentions, which is significant for understanding the political climate.",
+        "literature rationale": "Contextual additions in news reporting can enhance understanding of the dynamics at play, which is crucial for informed public discourse.",
+        "version diff summary": "Added a sentence about public skepticism regarding the military's motives.",
+        "overall assessment": "The addition of this sentence provides important context about the public's perception of the military's motives, enhancing the overall narrative."
+      }
+    }
+  ]
+}

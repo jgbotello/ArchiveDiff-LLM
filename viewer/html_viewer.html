@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>viewer of changes between mementos</title>
+  <style>
+    :root{
+      --bg:#0b0f14; --card:#121823; --muted:#9fb0c3; --text:#e6edf3; --accent:#5b9cff; --ok:#14b885; --warn:#ffb020; --bad:#ff6b6b; --chip:#1a2332;
+    }
+    html,body{background:var(--bg); color:var(--text); font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Helvetica, Arial, Apple Color Emoji, Segoe UI Emoji; margin:0;}
+    .wrap{max-width:1100px; margin:24px auto; padding:0 16px 80px;}
+    header{position:sticky; top:0; background:linear-gradient(180deg, rgba(11,15,20,.95), rgba(11,15,20,.75)); backdrop-filter: blur(8px); z-index:5; border-bottom:1px solid #1f2a3a;}
+    header .bar{max-width:1100px; margin:0 auto; padding:12px 16px; display:flex; gap:12px; align-items:center;}
+    h1{font-size:20px; margin:0; letter-spacing:.2px}
+    .muted{color:var(--muted)}
+    .panel{background:var(--card); border:1px solid #1f2a3a; border-radius:16px; padding:16px; box-shadow: 0 6px 24px rgba(0,0,0,.25)}
+    .controls{display:grid; grid-template-columns: 1fr 1fr 1fr 1fr; gap:12px; margin:18px 0}
+    .controls > *{background:var(--chip); border:1px solid #273246; color:var(--text); padding:10px 12px; border-radius:12px; font-size:14px}
+    .controls input[type="file"]{padding:8px;}
+    .btn{background:var(--accent); border:none; color:white; padding:10px 14px; border-radius:12px; cursor:pointer; font-weight:600}
+    .btn.secondary{background:#2a3951}
+    .grid{display:grid; gap:16px;}
+    .cards{display:grid; grid-template-columns: 1fr; gap:14px; margin-top:18px}
+    .card{background:#0f1520; border:1px solid #1f2a3a; border-radius:16px; overflow:hidden}
+    .card header{position:relative; background:transparent; border:0}
+    .card .head{display:flex; justify-content:space-between; align-items:center; padding:14px 16px; border-bottom:1px solid #1f2a3a}
+    .pill{display:inline-flex; gap:6px; align-items:center; padding:6px 10px; border-radius:999px; font-size:12px; background:var(--chip); border:1px solid #2b3950}
+    .pill .dot{width:8px; height:8px; border-radius:50%}
+    .body{padding:14px 16px; display:grid; gap:12px}
+    .sent{background:#0b1220; border:1px dashed #263247; padding:10px 12px; border-radius:12px}
+    .sent label{font-size:12px; color:var(--muted)}
+    .sent p{margin:6px 0 0; white-space:pre-wrap}
+    .badgelist{display:flex; flex-wrap:wrap; gap:8px}
+    .badge{font-size:12px; padding:6px 10px; border-radius:999px; background:var(--chip); border:1px solid #2b3950}
+    .badge.ok{border-color:rgba(20,184,133,.45); background:rgba(20,184,133,.12)}
+    .badge.warn{border-color:rgba(255,176,32,.45); background:rgba(255,176,32,.12)}
+    .badge.bad{border-color:rgba(255,107,107,.45); background:rgba(255,107,107,.12)}
+    .explain{font-size:13px; color:var(--muted)}
+    .row{display:grid; grid-template-columns: 1fr 1fr; gap:12px}
+    .stats{display:flex; gap:10px; flex-wrap:wrap}
+    .stat{background:var(--chip); border:1px solid #2b3950; padding:8px 10px; border-radius:10px; font-size:12px}
+    .footer{margin-top:20px; font-size:12px; color:var(--muted)}
+    @media (max-width: 800px){ .controls{grid-template-columns:1fr 1fr}; .row{grid-template-columns:1fr} }
+  </style>
+</head>
+<body>
+<header>
+  <div class="bar">
+    <h1>Viewer of changes between mementos</h1>
+    <div class="stats" id="stats"></div>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="panel">
+    <div class="grid">
+      <p class="muted">Paste your JSON for assessment or load a file. You can filter by impact or importance. The format expected is a list of objects with <em>sentences</em> and <em>assessment</em>.</p>
+      <div class="controls">
+        <input type="file" id="file" accept="application/json" />
+        <select id="filterImportance" title="Importance">
+          <option value="all">All importances</option>
+          <option value="important">Only important</option>
+          <option value="not">Only NOT important</option>
+        </select>
+        <select id="filterSemantic" title="Semantic Impact">
+          <option value="all">Semantic Impact: all</option>
+          <option value="low">Only low</option>
+          <option value="moderate">Only moderate</option>
+          <option value="high">Only high</option>
+        </select>
+        <select id="filterTextual" title="Textual Differences">
+          <option value="all">All</option>
+          <option value="yes">Changes</option>
+          <option value="no">No Changes</option>
+        </select>
+        <input id="search" placeholder="Search in texts…" />
+      </div>
+      <div style="display:flex; gap:8px; flex-wrap:wrap">
+        <button class="btn" id="btnPaste">Paste JSON</button>
+        <button class="btn secondary" id="btnSample">Load example</button>
+        <button class="btn secondary" id="btnClear">Clear</button>
+      </div>
+      <div id="cards" class="cards"></div>
+      <div class="footer">Tip: export the JSON from your pipeline and paste it here for a quick review. This viewer does not send data to any server.</div>
+    </div>
+  </div>
+</div>
+
+<script>
+  // Utilidades de color y etiquetas
+  function levelClass(level){
+    const v = (level||'').toLowerCase();
+    if(v.includes('high')) return 'bad';
+    if(v.includes('moderate')) return 'warn';
+    if(v.includes('low')) return 'ok';
+    return '';
+  }
+  function importancePill(importanceStr){
+    const s = (importanceStr||'').toLowerCase();
+    const important = s.startsWith('important');
+    const text = important ? 'IMPORTANT' : 'NOT IMPORTANT';
+    const color = important ? 'var(--bad)' : 'var(--ok)';
+    return `<span class="pill"><span class="dot" style="background:${color}"></span>${text}</span>`;
+  }
+  function splitImportance(importanceStr){
+    if(!importanceStr) return {flag:'', reason:''};
+    const idx = importanceStr.indexOf('-');
+    if(idx>0){
+      return {flag: importanceStr.slice(0, idx).trim(), reason: importanceStr.slice(idx+1).trim()};
+    }
+    return {flag: importanceStr, reason: ''};
+  }
+
+  // Estado
+  let DATA = [];
+  let METADATA = null;
+
+  // Render
+  function render(){
+    const cont = document.getElementById('cards');
+    const fImp = document.getElementById('filterImportance').value;
+    const fSem = document.getElementById('filterSemantic').value;
+    const fTex = document.getElementById('filterTextual').value;
+    const q = document.getElementById('search').value.trim().toLowerCase();
+
+    cont.innerHTML = '';
+
+    const filtered = DATA.filter(item => {
+      const a = item.assessment || {};
+      const imp = (a['overall importance of the change']||'').toLowerCase();
+      const sem = (a['semantic impact']||'').toLowerCase();
+      const tex = (a['textual differences']||'').toLowerCase();
+      const text = `${(item.sentences?.M1||'').toLowerCase()} ${(item.sentences?.M2||'').toLowerCase()}`;
+
+      if(fImp==='important' && !imp.startsWith('important')) return false;
+      if(fImp==='not' && imp.startsWith('important')) return false;
+      if(fSem!=='all' && sem!==fSem) return false;
+      if(fTex==='yes' && tex !== 'yes') return false;
+      if(fTex==='no' && tex === 'yes') return false;
+      if(q && !text.includes(q)) return false;
+      return true;
+    });
+
+    filtered.forEach((item, idx) => {
+      const a = item.assessment || {};
+      const sem = a['semantic impact'] || '';
+      const tone = a['sentiment/tone impact'] || '';
+      const tex = a['textual differences'] || '';
+      const imp = a['overall importance of the change'] || '';
+      const {flag, reason} = splitImportance(imp);
+
+      const card = document.createElement('div');
+      card.className = 'card';
+      card.innerHTML = `
+        <div class="head">
+          <div style="display:flex; gap:8px; align-items:center;">
+            ${importancePill(flag)}
+            <span class="badge ${levelClass(sem)}">Semantic: ${sem||'n/a'}</span>
+            <span class="badge ${levelClass(tone)}">Sentiment/Tone: ${tone||'n/a'}</span>
+            <span class="badge">Textual Differences: ${tex||'n/a'}</span>
+          </div>
+          <span class="muted">#${idx+1}</span>
+        </div>
+        <div class="body">
+          <div class="row">
+            <div class="sent"><label>M1</label><p>${escapeHTML(item?.sentences?.M1||'')}</p></div>
+            <div class="sent"><label>M2</label><p>${escapeHTML(item?.sentences?.M2||'')}</p></div>
+          </div>
+          ${reason?`<div class="explain">${escapeHTML(reason)}</div>`:''}
+        </div>`;
+      cont.appendChild(card);
+    });
+
+    renderStats(filtered);
+  }
+
+  function renderStats(list){
+    const stats = document.getElementById('stats');
+    const total = DATA.length;
+    const shown = list.length;
+    const important = list.filter(x => (x.assessment?.['overall importance of the change']||'').toLowerCase().startsWith('important')).length;
+    const high = list.filter(x => (x.assessment?.['semantic impact']||'').toLowerCase()==='high').length;
+    const moderate = list.filter(x => (x.assessment?.['semantic impact']||'').toLowerCase()==='moderate').length;
+    const low = list.filter(x => (x.assessment?.['semantic impact']||'').toLowerCase()==='low').length;
+    stats.innerHTML = `
+      <div class="stat">Showing ${shown} of ${total}</div>
+      <div class="stat">Important: ${important}</div>
+      <div class="stat">Semantic high: ${high}</div>
+      <div class="stat">Moderate: ${moderate}</div>
+      <div class="stat">Low: ${low}</div>
+    `;
+  }
+
+  // Cargar datos
+  function setData(json){
+    try{
+      const parsed = (typeof json === 'string') ? JSON.parse(json) : json;
+      // If it's the new format, use .items
+      if(Array.isArray(parsed)) {
+        DATA = parsed;
+        METADATA = null;
+      } else if(parsed.items && Array.isArray(parsed.items)) {
+        DATA = parsed.items;
+        METADATA = parsed;
+      } else {
+        throw new Error('JSON must be an array of objects or have an "items" property');
+      }
+      // Light validation
+      DATA.forEach((it, i) => {
+        if(!it.sentences || !it.assessment) throw new Error(`Missing 'sentences' or 'assessment' in item ${i+1}`);
+      });
+      render();
+    }catch(e){
+      alert('Error parsing JSON: '+ e.message);
+    }
+  }
+
+  // Controles
+  document.getElementById('file').addEventListener('change', (ev)=>{
+    const f = ev.target.files?.[0];
+    if(!f) return;
+    const reader = new FileReader();
+    reader.onload = () => setData(reader.result);
+    reader.readAsText(f);
+  });
+  document.getElementById('filterImportance').addEventListener('change', render);
+  document.getElementById('filterSemantic').addEventListener('change', render);
+  document.getElementById('filterTextual').addEventListener('change', render);
+  document.getElementById('search').addEventListener('input', render);
+  document.getElementById('btnClear').addEventListener('click', ()=>{
+    DATA = [];
+    render();
+  });
+  document.getElementById('btnPaste').addEventListener('click', async ()=>{
+    try{
+      const text = await navigator.clipboard.readText();
+      if(!text) return alert('Clipboard is empty');
+      setData(text);
+    }catch(e){
+      alert('Could not read from clipboard. Paste manually with Ctrl+V in an editor and use the Load example button to see the format.');
+    }
+  });
+  document.getElementById('btnSample').addEventListener('click', ()=>{
+    setData(sampleData);
+  });
+
+  // Ejemplo mínimo
+  const sampleData = [
+    {
+      "sentences": {
+        "M1": "He had been in a prison medical ward since he was given a life sentence…",
+        "M2": "Mr. Mubarak had been in a prison medical ward since the beginning of the month, when he was given a life sentence…"
+      },
+      "assessment": {
+        "textual differences": "yes",
+        "semantic impact": "moderate",
+        "sentiment/tone impact": "low",
+        "overall importance of the change": "important - adds temporal anchoring and clarifies the subject"
+      }
+    },
+    {
+      "sentences": {
+        "M1": "There were conflicting reports… had suffered a stroke…",
+        "M2": "There were conflicting reports… had suffered cardiac arrest and a stroke…"
+      },
+      "assessment": {
+        "textual differences": "yes",
+        "semantic impact": "high",
+        "sentiment/tone impact": "moderate",
+        "overall importance of the change": "important - changes clinical accuracy by adding 'cardiac arrest'"
+      }
+    },
+    {
+      "sentences": {
+        "M1": "Analysts marveled that Mr. Mubarak had lost consciousness…",
+        "M2": "Analysts marveled that Mr. Mubarak had lost consciousness…"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "semantic impact": "low",
+        "sentiment/tone impact": "low",
+        "overall importance of the change": "not important - identical sentences"
+      }
+    }
+  ];
+
+  // Escapar HTML
+  function escapeHTML(str){
+    return String(str).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;');
+  }
+
+  // Inicial
+  setData(sampleData);
+</script>
+</body>
+</html>

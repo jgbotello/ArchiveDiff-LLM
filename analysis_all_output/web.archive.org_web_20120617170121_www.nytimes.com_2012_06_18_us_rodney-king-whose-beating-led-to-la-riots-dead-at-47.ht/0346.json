@@ -1,0 +1,1509 @@
+{
+  "pair_index": 346,
+  "n_sentences_old": 35,
+  "n_sentences_new": 58,
+  "metadata_old": {
+    "warc-date": "2014-12-16T21:57:02Z",
+    "warc-record-id": "<urn:uuid:10903fa5-c2e9-4953-ad22-4adf8fecaa27>",
+    "warc-block-digest": "sha1:5b58f48018d8be67d564da7739929b4221299127",
+    "warc-target-uri": "https://web.archive.org/web/20141216215702/https://www.nytimes.com/2012/06/18/us/rodney-king-whose-beating-led-to-la-riots-dead-at-47.html",
+    "content-length": 4366,
+    "url-hash": "a5a7564ddda548951b442f5a61bb4428"
+  },
+  "metadata_new": {
+    "warc-date": "2015-03-21T00:03:38Z",
+    "warc-record-id": "<urn:uuid:e2950a3c-86fd-4f46-92d2-24683197ae03>",
+    "warc-block-digest": "sha1:f2151e53832614e5df73c6eefacc8ea9726ed4a3",
+    "warc-target-uri": "https://web.archive.org/web/20150321000338/https://www.nytimes.com/2012/06/18/us/rodney-king-whose-beating-led-to-la-riots-dead-at-47.html",
+    "content-length": 7021,
+    "url-hash": "0a505cc8b7c192e1fa84380629ef0b57"
+  },
+  "items": [
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "LOS ANGELES — Rodney G. King , whose 1991 videotaped beating by the Los Angeles police became a symbol of the nation’s continuing racial tensions and subsequently led to a week of deadly race riots after the officers were acquitted, was found dead Sunday in a swimming pool at the home he shared with his fiancée in Rialto, Calif. He was 47.",
+        "M2": "LOS ANGELES — Rodney G. King, whose 1991 videotaped beating by the Los Angeles police became a symbol of the nation’s continuing racial tensions and subsequently led to a week of deadly race riots after the officers were acquitted, was found dead Sunday in a swimming pool at the home he shared with his fiancée in Rialto, Calif. He was 47."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "yes",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical except for a minor punctuation change.",
+        "importance category": "punctuation",
+        "importance reason": "The only change is the removal of a space before the comma, which does not affect meaning.",
+        "literature rationale": "Punctuation changes can affect readability but do not alter the factual content or interpretation of the text.",
+        "version diff summary": "Minor punctuation change.",
+        "overall assessment": "The first sentence is identical in both mementos, with only a minor punctuation adjustment. This does not affect the overall meaning or sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "There was no evidence of foul play, the Rialto police said.",
+        "M2": "There was no evidence of foul play, the Rialto police said."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in wording or meaning.",
+        "literature rationale": "Identical sentences maintain the same factual content and interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "Both sentences are identical, maintaining the same factual content and sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Mr. King, whose life was a roller coaster of drug and alcohol abuse, multiple arrests and unwanted celebrity, pleaded for calm during the 1992 riots.",
+        "M2": "Mr. King, whose life was a roller coaster of drug and alcohol abuse, multiple arrests and unwanted celebrity, pleaded for calm during the 1992 riots."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in wording or meaning.",
+        "literature rationale": "Identical sentences maintain the same factual content and interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "Both sentences are identical, maintaining the same factual content and sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "More than 55 people were killed and 600 buildings destroyed in the violence.",
+        "M2": "More than 55 people were killed and 600 buildings destroyed in the violence."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in wording or meaning.",
+        "literature rationale": "Identical sentences maintain the same factual content and interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "Both sentences are identical, maintaining the same factual content and sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "In a phrase that became part of American culture, he asked at a news conference, “Can we all get along?”",
+        "M2": "In a phrase that became part of American culture, he asked at a news conference, “Can we all get along?”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in wording or meaning.",
+        "literature rationale": "Identical sentences maintain the same factual content and interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "Both sentences are identical, maintaining the same factual content and sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“People look at me like I should have been like Malcolm X or Martin Luther King or Rosa Parks,” he told The Los Angeles Times in April.",
+        "M2": "“People look at me like I should have been like Malcolm X or Martin Luther King or Rosa Parks,” he told The Los Angeles Times in April."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in wording or meaning.",
+        "literature rationale": "Identical sentences maintain the same factual content and interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "Both sentences are identical, maintaining the same factual content and sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“I should have seen life like that and stay out of trouble, and don’t do this and don’t do that.",
+        "M2": "“I should have seen life like that and stay out of trouble, and don’t do this and don’t do that."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in wording or meaning.",
+        "literature rationale": "Identical sentences maintain the same factual content and interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "Both sentences are identical, maintaining the same factual content and sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "But it’s hard to live up to some people’s expectations.”",
+        "M2": "But it’s hard to live up to some people’s expectations.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in wording or meaning.",
+        "literature rationale": "Identical sentences maintain the same factual content and interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "Both sentences are identical, maintaining the same factual content and sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Mr. King published a memoir in April detailing his struggles, saying in several interviews that he had not been able to find steady work.",
+        "M2": "Mr. King published a memoir in April detailing his struggles, saying in several interviews that he had not been able to find steady work."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in wording or meaning.",
+        "literature rationale": "Identical sentences maintain the same factual content and interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "Both sentences are identical, maintaining the same factual content and sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "He said he had once blamed politicians and lawyers “for taking a battered and confused addict and trying to make him into a symbol for civil rights.”",
+        "M2": "He said he had once blamed politicians and lawyers “for taking a battered and confused addict and trying to make him into a symbol for civil rights.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in wording or meaning.",
+        "literature rationale": "Identical sentences maintain the same factual content and interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "Both sentences are identical, maintaining the same factual content and sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "But he was unable to escape that role.",
+        "M2": "But he was unable to escape that role."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in wording or meaning.",
+        "literature rationale": "Identical sentences maintain the same factual content and interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "Both sentences are identical, maintaining the same factual content and sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "On Sunday, the Rev. Al Sharpton, said in a statement, “History will record that it was Rodney King’s beating and his actions that made America deal with the excessive misconduct of law enforcement.”",
+        "M2": "On Sunday, the Rev. Al Sharpton, said in a statement, “History will record that it was Rodney King’s beating and his actions that made America deal with the excessive misconduct of law enforcement.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in wording or meaning.",
+        "literature rationale": "Identical sentences maintain the same factual content and interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "Both sentences are identical, maintaining the same factual content and sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "And more recently, Mr. King seemed to embrace the role himself, saying that his beating enabled others to succeed and “made the world a better place.”",
+        "M2": "And more recently, Mr. King seemed to embrace the role himself, saying that his beating enabled others to succeed and “made the world a better place.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in wording or meaning.",
+        "literature rationale": "Identical sentences maintain the same factual content and interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "Both sentences are identical, maintaining the same factual content and sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“Obama, he wouldn’t have been in office without what happened to me and a lot of black people before me,” he told The Los Angeles Times.",
+        "M2": "“Obama, he wouldn’t have been in office without what happened to me and a lot of black people before me,” he told The Los Angeles Times."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in wording or meaning.",
+        "literature rationale": "Identical sentences maintain the same factual content and interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "Both sentences are identical, maintaining the same factual content and sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“He would never have been in that situation, no doubt in my mind.",
+        "M2": "“He would never have been in that situation, no doubt in my mind."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in wording or meaning.",
+        "literature rationale": "Identical sentences maintain the same factual content and interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "Both sentences are identical, maintaining the same factual content and sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "He would get there eventually, but it would have been a lot longer.",
+        "M2": "He would get there eventually, but it would have been a lot longer."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in wording or meaning.",
+        "literature rationale": "Identical sentences maintain the same factual content and interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "Both sentences are identical, maintaining the same factual content and sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "So I am glad for what I went through.",
+        "M2": "So I am glad for what I went through."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in wording or meaning.",
+        "literature rationale": "Identical sentences maintain the same factual content and interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "Both sentences are identical, maintaining the same factual content and sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "It opened the doors for a lot of people.”",
+        "M2": "It opened the doors for a lot of people.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in wording or meaning.",
+        "literature rationale": "Identical sentences maintain the same factual content and interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "Both sentences are identical, maintaining the same factual content and sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Though Mr. King wrote in his memoir that he still drank and used drugs occasionally, he insisted that, with his fiancée, Cynthia Kelley, who had been a juror in a civil suit he brought against the City of Los Angeles, he was on the road to reclaiming his life.",
+        "M2": "Though Mr. King wrote in his memoir that he still drank and used drugs occasionally, he insisted that, with his fiancée, Cynthia Kelley, who had been a juror in a civil suit he brought against the City of Los Angeles, he was on the road to reclaiming his life."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in wording or meaning.",
+        "literature rationale": "Identical sentences maintain the same factual content and interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "Both sentences are identical, maintaining the same factual content and sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“I realize I will always be the poster child for police brutality,” he said, “but I can try to use that as a positive force for healing and restraint.”",
+        "M2": "“I realize I will always be the poster child for police brutality,” he said, “but I can try to use that as a positive force for healing and restraint.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in wording or meaning.",
+        "literature rationale": "Identical sentences maintain the same factual content and interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "Both sentences are identical, maintaining the same factual content and sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Mr. King said he was essentially broke, though he said he received an advance for his book, “The Riot Within: My Journey from Rebellion to Redemption,” published to coincide with the 20th anniversary of the riots.",
+        "M2": "Mr. King said he was essentially broke, though he said he received an advance for his book, “The Riot Within: My Journey from Rebellion to Redemption,” published to coincide with the 20th anniversary of the riots."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in wording or meaning.",
+        "literature rationale": "Identical sentences maintain the same factual content and interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "Both sentences are identical, maintaining the same factual content and sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "He still walked with a limp and several of his scars were visible.",
+        "M2": "He still walked with a limp and several of his scars were visible."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in wording or meaning.",
+        "literature rationale": "Identical sentences maintain the same factual content and interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "Both sentences are identical, maintaining the same factual content and sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "His best outlets for relaxation, he said, were fishing and swimming.",
+        "M2": "His best outlets for relaxation, he said, were fishing and swimming."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in wording or meaning.",
+        "literature rationale": "Identical sentences maintain the same factual content and interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "Both sentences are identical, maintaining the same factual content and sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The police in Rialto, 50 miles east of Los Angeles, said they received a 911 call at 5:25 a.m. Sunday from Ms. Kelley, who reported finding him in the pool that Mr. King had built himself, inscribing the date of his beating and the start of the riots in two tiles.",
+        "M2": "The police in Rialto, 50 miles east of Los Angeles, said they received a 911 call at 5:25 a.m. Sunday from Ms. Kelley, who reported finding him in the pool that Mr. King had built himself, inscribing the date of his beating and the start of the riots in two tiles."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in wording or meaning.",
+        "literature rationale": "Identical sentences maintain the same factual content and interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "Both sentences are identical, maintaining the same factual content and sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Emergency personnel tried to resuscitate him, but he was pronounced dead at the hospital at 6:11 a.m.",
+        "M2": "Emergency personnel tried to resuscitate him, but he was pronounced dead at the hospital at 6:11 a.m."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in wording or meaning.",
+        "literature rationale": "Identical sentences maintain the same factual content and interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "Both sentences are identical, maintaining the same factual content and sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Capt. Randy De Anda said that Mr. King had been at the pool throughout the early morning and had been talking to Ms. Kelley, who was in the house at the time.",
+        "M2": "Capt. Randy De Anda said that Mr. King had been at the pool throughout the early morning and had been talking to Ms. Kelley, who was in the house at the time."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in wording or meaning.",
+        "literature rationale": "Identical sentences maintain the same factual content and interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "Both sentences are identical, maintaining the same factual content and sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Neighbors reported hearing music, talking and crying before hearing a splash.",
+        "M2": "Neighbors reported hearing music, talking and crying before hearing a splash."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in wording or meaning.",
+        "literature rationale": "Identical sentences maintain the same factual content and interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "Both sentences are identical, maintaining the same factual content and sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "A pair of sandals was still sitting next to the pool, visible from a neighbor’s backyard.",
+        "M2": "A pair of sandals was still sitting next to the pool, visible from a neighbor’s backyard."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in wording or meaning.",
+        "literature rationale": "Identical sentences maintain the same factual content and interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "Both sentences are identical, maintaining the same factual content and sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Mr. King had apparently started to build a new fence to keep neighbors from looking in, but never completed it.",
+        "M2": "Mr. King had apparently started to build a new fence to keep neighbors from looking in, but never completed it."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in wording or meaning.",
+        "literature rationale": "Identical sentences maintain the same factual content and interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "Both sentences are identical, maintaining the same factual content and sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "One neighbor said that Mr. King mowed her family’s lawn weekly and that she often saw him swimming late at night.",
+        "M2": "One neighbor said that Mr. King mowed her family’s lawn weekly and that she often saw him swimming late at night."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in wording or meaning.",
+        "literature rationale": "Identical sentences maintain the same factual content and interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "Both sentences are identical, maintaining the same factual content and sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "On the night when the police beating occurred, March 3, 1991, Mr. King had been out on parole on a 1989 robbery conviction.",
+        "M2": "On the night when the police beating occurred, March 3, 1991, Mr. King had been out on parole on a 1989 robbery conviction."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in wording or meaning.",
+        "literature rationale": "Identical sentences maintain the same factual content and interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "Both sentences are identical, maintaining the same factual content and sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "He was driving about 100 miles per hour when he and two passengers were pulled over by the Los Angeles police.",
+        "M2": "He was driving about 100 miles per hour when he and two passengers were pulled over by the Los Angeles police."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in wording or meaning.",
+        "literature rationale": "Identical sentences maintain the same factual content and interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "Both sentences are identical, maintaining the same factual content and sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "After he attempted to escape on foot — afraid, he would later say, that he would be in violation of his parole — he was caught by officers.",
+        "M2": "After he attempted to escape on foot — afraid, he would later say, that he would be in violation of his parole — he was caught by officers."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in wording or meaning.",
+        "literature rationale": "Identical sentences maintain the same factual content and interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "Both sentences are identical, maintaining the same factual content and sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The 6-foot-3 Mr. King was struck with batons and kicked dozens of times, and hit with Tasers.",
+        "M2": "The 6-foot-3 Mr. King was struck with batons and kicked dozens of times, and hit with Tasers."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in wording or meaning.",
+        "literature rationale": "Identical sentences maintain the same factual content and interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "Both sentences are identical, maintaining the same factual content and sentiment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“It felt like I was an inch from death,” he said in recent interviews.",
+        "M2": "“It felt like I was an inch from death,” he said in recent interviews."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in wording or meaning.",
+        "literature rationale": "Identical sentences maintain the same factual content and interpretation.",
+        "version diff summary": "No changes.",
+        "overall assessment": "Both sentences are identical, maintaining the same factual content and sentiment."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Video of the beating, recorded by George Holliday, a resident of a nearby apartment building, was repeatedly broadcast on television, inflaming anger over what was seen as a pattern of aggression and abuse by the Los Angeles police toward blacks and Hispanics."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [
+          "PERSON",
+          "ORG"
+        ],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This sentence adds significant context about the public reaction to the beating.",
+        "importance category": "contextual information",
+        "importance reason": "The addition provides crucial background on the societal impact of the incident.",
+        "literature rationale": "Contextual information is vital in journalism as it helps readers understand the broader implications of events, enhancing the narrative and informing public perception.",
+        "version diff summary": "Added context about the video of the beating and its impact.",
+        "overall assessment": "The addition of this sentence significantly enhances the context surrounding the incident, providing insight into public sentiment and media portrayal."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "After intense public outcry, four officers were brought to trial."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This sentence adds critical information about the legal consequences following the incident.",
+        "importance category": "legal implications",
+        "importance reason": "The addition highlights the accountability measures taken against the officers involved, which is crucial for understanding the aftermath of the incident.",
+        "literature rationale": "Legal implications are essential in journalism as they inform the audience about the consequences of actions and the justice system's response, shaping public understanding and trust.",
+        "version diff summary": "Added information about the trial of the officers involved.",
+        "overall assessment": "The addition of this sentence provides essential information regarding the legal proceedings that followed the incident, enhancing the narrative's depth."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Many people thought the video alone would lead to the conviction of the officers."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This sentence reflects public expectations regarding the outcome of the trial.",
+        "importance category": "public perception",
+        "importance reason": "The addition illustrates the disconnect between public expectations and the actual legal outcomes, which is significant for understanding societal reactions.",
+        "literature rationale": "Public perception is a critical aspect of journalism, as it shapes narratives and influences how events are interpreted and understood by the audience.",
+        "version diff summary": "Added insight into public expectations regarding the trial.",
+        "overall assessment": "The addition of this sentence provides valuable insight into the public's expectations and sentiments surrounding the trial, enhancing the overall narrative."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "But on April 29, 1992, a jury in Simi Valley, Calif., which included no black jurors, acquitted three of the officers, and a mistrial was declared for the fourth."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [
+          "DATE"
+        ],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This sentence details the outcome of the trial, which is crucial for understanding the incident's impact.",
+        "importance category": "trial outcome",
+        "importance reason": "The addition provides essential information about the trial's verdict, which is significant for understanding the societal implications of the case.",
+        "literature rationale": "Trial outcomes are a key focus in journalism, as they inform the public about justice and accountability, shaping perceptions of the legal system.",
+        "version diff summary": "Added details about the trial verdict and jury composition.",
+        "overall assessment": "The addition of this sentence is significant as it provides critical information about the trial's outcome, which is essential for understanding the broader implications of the incident."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "It touched off riots in South Los Angeles, among the worst in the nation’s history, resulting in damage estimated at $1 billion."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [
+          "GPE",
+          "MONEY"
+        ],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This sentence describes the immediate aftermath of the trial and its societal impact.",
+        "importance category": "social impact",
+        "importance reason": "The addition highlights the significant social unrest that followed the trial, which is crucial for understanding the broader societal implications.",
+        "literature rationale": "Social impact reporting is vital in journalism as it informs the audience about the consequences of events, shaping public understanding and discourse.",
+        "version diff summary": "Added information about the riots and their economic impact.",
+        "overall assessment": "The addition of this sentence is significant as it provides essential context regarding the societal unrest that followed the trial, enhancing the narrative's depth."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "The four white officers charged with beating Mr. King — Stacey Koon, Theodore Briseno, Timothy Wind and Laurence Powell — were indicted in the summer of 1992 on federal civil rights charges."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [
+          "PERSON"
+        ],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This sentence provides details about the officers involved and the charges they faced.",
+        "importance category": "accountability",
+        "importance reason": "The addition highlights the legal accountability of the officers, which is crucial for understanding the justice system's response.",
+        "literature rationale": "Accountability reporting is essential in journalism as it informs the public about the consequences of actions and the justice system's response, shaping public understanding and trust.",
+        "version diff summary": "Added information about the indictment of the officers.",
+        "overall assessment": "The addition of this sentence is significant as it provides critical information regarding the legal actions taken against the officers involved, enhancing the narrative's depth."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Officers Koon and Powell were convicted and sentenced to two years in prison, and Mr. King was awarded $3.8 million in damages."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [
+          "MONEY"
+        ],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This sentence details the convictions and financial compensation, which are crucial for understanding the case's resolution.",
+        "importance category": "case resolution",
+        "importance reason": "The addition provides essential information about the outcomes of the legal proceedings, which is significant for understanding the implications of the case.",
+        "literature rationale": "Case resolution reporting is vital in journalism as it informs the audience about the outcomes of legal actions, shaping public understanding and trust in the justice system.",
+        "version diff summary": "Added details about the convictions and damages awarded.",
+        "overall assessment": "The addition of this sentence is significant as it provides critical information regarding the legal outcomes of the case, enhancing the narrative's depth."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "The Los Angeles police chief, Daryl Gates, resigned under pressure amid criticism that officers were slow to respond to the riots."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [
+          "PERSON"
+        ],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This sentence highlights the accountability of leadership in the police department following the riots.",
+        "importance category": "leadership accountability",
+        "importance reason": "The addition underscores the consequences faced by police leadership, which is crucial for understanding the systemic issues within law enforcement.",
+        "literature rationale": "Leadership accountability is a key focus in journalism, as it informs the public about the responsibilities of those in power and the consequences of their actions.",
+        "version diff summary": "Added information about the resignation of the police chief.",
+        "overall assessment": "The addition of this sentence is significant as it provides essential context regarding the accountability of police leadership following the riots, enhancing the narrative's depth."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "He died of cancer in 2010."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [
+          "NOUN"
+        ],
+        "NER category changed": [
+          "PERSON",
+          "DATE"
+        ],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This sentence provides information about the fate of a key figure in the narrative.",
+        "importance category": "biographical detail",
+        "importance reason": "The addition provides essential information about the police chief's death, which is significant for understanding the legacy of the events.",
+        "literature rationale": "Biographical details are important in journalism as they provide context about key figures and their impact on events, shaping public understanding.",
+        "version diff summary": "Added information about the police chief's death.",
+        "overall assessment": "The addition of this sentence is significant as it provides critical biographical information regarding a key figure in the narrative, enhancing the overall context."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Mr. King spent much of the money he received on legal fees."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [
+          "MONEY"
+        ],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This sentence provides insight into Mr. King's financial struggles following the incident.",
+        "importance category": "financial impact",
+        "importance reason": "The addition highlights the financial consequences of the legal proceedings for Mr. King, which is significant for understanding his post-incident life.",
+        "literature rationale": "Financial impact reporting is vital in journalism as it informs the audience about the economic consequences of events, shaping public understanding and discourse.",
+        "version diff summary": "Added information about Mr. King's financial expenditures.",
+        "overall assessment": "The addition of this sentence is significant as it provides essential context regarding Mr. King's financial situation following the incident, enhancing the narrative's depth."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "He also bought cars and houses, including the modest house in which he lived, and invested in a rap music label called Straight Alta-Pazz, which failed."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [
+          "ORG"
+        ],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This sentence provides additional context about Mr. King's financial decisions and struggles.",
+        "importance category": "financial context",
+        "importance reason": "The addition highlights Mr. King's attempts to rebuild his life financially, which is significant for understanding his post-incident journey.",
+        "literature rationale": "Financial context is important in journalism as it provides insight into the economic realities faced by individuals, shaping public understanding and empathy.",
+        "version diff summary": "Added details about Mr. King's financial decisions and investments.",
+        "overall assessment": "The addition of this sentence is significant as it provides critical context regarding Mr. King's financial situation and decisions following the incident, enhancing the narrative's depth."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "But much of his life was consumed by tabloid drama."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This sentence provides insight into the challenges Mr. King faced in his personal life.",
+        "importance category": "personal struggles",
+        "importance reason": "The addition highlights the impact of media scrutiny on Mr. King's life, which is significant for understanding his experiences.",
+        "literature rationale": "Personal struggles are a key focus in journalism, as they humanize individuals and provide context for their actions and decisions, shaping public understanding.",
+        "version diff summary": "Added information about the media's impact on Mr. King's life.",
+        "overall assessment": "The addition of this sentence is significant as it provides essential context regarding the personal challenges Mr. King faced, enhancing the overall narrative."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "He spent the subsequent years in and out of jail and rehabilitation centers, mostly for drug and alcohol abuse."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This sentence provides insight into Mr. King's ongoing struggles with addiction.",
+        "importance category": "addiction issues",
+        "importance reason": "The addition highlights the challenges Mr. King faced in his personal life, which is significant for understanding his journey.",
+        "literature rationale": "Addiction issues are a critical focus in journalism, as they inform the audience about the complexities of personal struggles and their impact on individuals' lives.",
+        "version diff summary": "Added information about Mr. King's struggles with addiction.",
+        "overall assessment": "The addition of this sentence is significant as it provides essential context regarding Mr. King's ongoing challenges with addiction, enhancing the overall narrative."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "He was arrested multiple times for driving under the influence, and spent short periods in prison in the late 1990s for assaulting his former wife and his daughter."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This sentence provides critical information about Mr. King's legal troubles.",
+        "importance category": "legal issues",
+        "importance reason": "The addition highlights the ongoing legal challenges faced by Mr. King, which is significant for understanding his life post-incident.",
+        "literature rationale": "Legal issues are a key focus in journalism, as they inform the audience about the consequences of actions and the complexities of individuals' lives, shaping public understanding.",
+        "version diff summary": "Added information about Mr. King's legal troubles.",
+        "overall assessment": "The addition of this sentence is significant as it provides essential context regarding Mr. King's legal issues, enhancing the overall narrative."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "In recent years he had appeared on the television shows “Celebrity Rehab” and “Sober House” on VH1."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This sentence provides insight into Mr. King's attempts at rehabilitation and public persona.",
+        "importance category": "rehabilitation efforts",
+        "importance reason": "The addition highlights Mr. King's efforts to address his addiction publicly, which is significant for understanding his journey.",
+        "literature rationale": "Rehabilitation efforts are a critical focus in journalism, as they inform the audience about the complexities of recovery and the challenges faced by individuals, shaping public understanding.",
+        "version diff summary": "Added information about Mr. King's appearances on reality television.",
+        "overall assessment": "The addition of this sentence is significant as it provides essential context regarding Mr. King's public efforts at rehabilitation, enhancing the overall narrative."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Rodney Glen King was born on April 2, 1965, in Sacramento, the youngest of five children."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [
+          "NOUN"
+        ],
+        "NER category changed": [
+          "PERSON",
+          "DATE",
+          "LOC"
+        ],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This sentence provides essential biographical information about Mr. King.",
+        "importance category": "biographical detail",
+        "importance reason": "The addition provides context about Mr. King's early life, which is significant for understanding his background.",
+        "literature rationale": "Biographical details are important in journalism as they provide context about key figures and their impact on events, shaping public understanding.",
+        "version diff summary": "Added biographical information about Mr. King's early life.",
+        "overall assessment": "The addition of this sentence is significant as it provides critical context regarding Mr. King's background, enhancing the overall narrative."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "He grew up in Altadena, near Pasadena, raised by his mother, Odessa King, and an alcoholic father, Ronald King, who died at 42."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [
+          "NOUN"
+        ],
+        "NER category changed": [
+          "PERSON",
+          "LOC"
+        ],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - This sentence provides further context about Mr. King's upbringing and family background.",
+        "importance category": "family background",
+        "importance reason": "The addition highlights the challenges faced by Mr. King in his early life, which is significant for understanding his later experiences.",
+        "literature rationale": "Family background is a critical focus in journalism, as it informs the audience about the influences that shape individuals' lives, shaping public understanding.",
+        "version diff summary": "Added information about Mr. King's upbringing and family.",
+        "overall assessment": "The addition of this sentence is significant as it provides essential context regarding Mr. King's family background, enhancing the overall narrative."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Mr. King was married twice."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - This sentence provides additional context but does not significantly alter the narrative.",
+        "importance category": "personal history",
+        "importance reason": "The addition provides insight into Mr. King's marital history, which is relevant but not critical.",
+        "literature rationale": "Personal history is important in journalism as it provides context about individuals' lives, shaping public understanding.",
+        "version diff summary": "Added information about Mr. King's marriages.",
+        "overall assessment": "The addition of this sentence provides additional context regarding Mr. King's personal life, but it does not significantly alter the overall narrative."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Survivors include his daughters, Lora and Candice King, and a third daughter whose name was not immediately available."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [
+          "PERSON"
+        ],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - This sentence provides additional context but does not significantly alter the narrative.",
+        "importance category": "personal history",
+        "importance reason": "The addition provides insight into Mr. King's family, which is relevant but not critical.",
+        "literature rationale": "Personal history is important in journalism as it provides context about individuals' lives, shaping public understanding.",
+        "version diff summary": "Added information about Mr. King's daughters.",
+        "overall assessment": "The addition of this sentence provides additional context regarding Mr. King's family, but it does not significantly alter the overall narrative."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "In an interview in April, Mr. King said he understood how posterity would view him."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - This sentence provides additional context but does not significantly alter the narrative.",
+        "importance category": "personal reflection",
+        "importance reason": "The addition provides insight into Mr. King's thoughts about his legacy, which is relevant but not critical.",
+        "literature rationale": "Personal reflections are important in journalism as they provide insight into individuals' thoughts and feelings, shaping public understanding.",
+        "version diff summary": "Added information about Mr. King's reflections on his legacy.",
+        "overall assessment": "The addition of this sentence provides additional context regarding Mr. King's thoughts on his legacy, but it does not significantly alter the overall narrative."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "“It’s taken years to get used to the situation I’m in in life and the weight it holds."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - This sentence provides additional context but does not significantly alter the narrative.",
+        "importance category": "personal reflection",
+        "importance reason": "The addition provides insight into Mr. King's feelings about his situation, which is relevant but not critical.",
+        "literature rationale": "Personal reflections are important in journalism as they provide insight into individuals' thoughts and feelings, shaping public understanding.",
+        "version diff summary": "Added information about Mr. King's feelings regarding his situation.",
+        "overall assessment": "The addition of this sentence provides additional context regarding Mr. King's feelings about his life situation, but it does not significantly alter the overall narrative."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "One of the cops in the jail said: ‘You know what? People are going to know who you are when you’re dead and gone."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - This sentence provides additional context but does not significantly alter the narrative.",
+        "importance category": "personal reflection",
+        "importance reason": "The addition provides insight into Mr. King's thoughts about his legacy, which is relevant but not critical.",
+        "literature rationale": "Personal reflections are important in journalism as they provide insight into individuals' thoughts and feelings, shaping public understanding.",
+        "version diff summary": "Added information about Mr. King's thoughts on his legacy.",
+        "overall assessment": "The addition of this sentence provides additional context regarding Mr. King's thoughts on his legacy, but it does not significantly alter the overall narrative."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "“A hundred years from now, people still going to be talking about you.’ It’s scary, but at the same time it’s a blessing.”"
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "NA",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - This sentence provides additional context but does not significantly alter the narrative.",
+        "importance category": "personal reflection",
+        "importance reason": "The addition provides insight into Mr. King's thoughts about his legacy, which is relevant but not critical.",
+        "literature rationale": "Personal reflections are important in journalism as they provide insight into individuals' thoughts and feelings, shaping public understanding.",
+        "version diff summary": "Added information about Mr. King's thoughts on his legacy.",
+        "overall assessment": "The addition of this sentence provides additional context regarding Mr. King's thoughts on his legacy, but it does not significantly alter the overall narrative."
+      }
+    }
+  ]
+}

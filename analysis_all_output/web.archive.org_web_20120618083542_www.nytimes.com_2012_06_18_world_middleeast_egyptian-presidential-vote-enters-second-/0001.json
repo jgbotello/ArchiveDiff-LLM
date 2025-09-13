@@ -1,0 +1,750 @@
+{
+  "pair_index": 1,
+  "n_sentences_old": 29,
+  "n_sentences_new": 29,
+  "metadata_old": {
+    "warc-date": "2012-06-18T10:21:04Z",
+    "warc-record-id": "<urn:uuid:3cc01b98-63be-4626-ac90-bd20ad2669ee>",
+    "warc-block-digest": "sha1:d22d4951bd5fa0a946af14a1cc46bb3cb731bb0b",
+    "warc-target-uri": "https://web.archive.org/web/20120618102104/https://www.nytimes.com/2012/06/18/world/middleeast/egyptian-presidential-vote-enters-second-day.html",
+    "content-length": 4896,
+    "url-hash": "78271a6c4f8ec1dd326dd4073b7fed8f"
+  },
+  "metadata_new": {
+    "warc-date": "2012-06-19T03:55:53Z",
+    "warc-record-id": "<urn:uuid:66320749-a2dc-4248-b75e-62ca104be2b1>",
+    "warc-block-digest": "sha1:ba3f40cbb94bb9ac8453eb999691accf014d2edd",
+    "warc-target-uri": "https://web.archive.org/web/20120619035553/https://www.nytimes.com/2012/06/18/world/middleeast/egyptian-presidential-vote-enters-second-day.html",
+    "content-length": 4915,
+    "url-hash": "cec5f9561693b5b0315f5e5de03bdb46"
+  },
+  "items": [
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "CAIRO — The Muslim Brotherhood early Monday projected its candidate, an Islamist, as the winner of Egypt ’s first competitive presidential election, hours after the ruling military council issued an interim constitution granting itself broad power over the future government, all but eliminating the president’s authority in an apparent effort to guard against just such a victory.",
+        "M2": "CAIRO — The Muslim Brotherhood early Monday projected its candidate, an Islamist, as the winner of Egypt ’s first competitive presidential election, hours after the ruling military council issued an interim constitution granting itself broad power over the future government, all but eliminating the president’s authority in an apparent effort to guard against just such a victory."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility and trustworthiness. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no textual differences or changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The military’s new charter is the latest in a series of swift steps that the generals have taken to tighten their grasp on power just at the moment when they had promised to hand over to elected civilians the authority that they assumed on the ouster of Hosni Mubarak last year.",
+        "M2": "The military’s new charter is the latest in a series of swift steps that the generals have taken to tighten their grasp on power just at the moment when they had promised to hand over to elected civilians the authority that they assumed on the ouster of Hosni Mubarak last year."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Consistency in reporting is essential for maintaining the integrity of news articles, ensuring that readers receive accurate and reliable information.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no textual differences or changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Their charter gives them control of all laws and the national budget, immunity from any oversight, and the power to veto a declaration of war.",
+        "M2": "Their charter grants them the power to control the prime minister, lawmaking, the national budget, and declarations of war, without any supervision or oversight."
+      },
+      "assessment": {
+        "textual differences": "yes",
+        "POS category changed": [
+          "NOUN"
+        ],
+        "NER category changed": [],
+        "grammar change": "yes",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "moderate",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - The change in wording alters the specifics of the military's powers.",
+        "importance category": "major wording",
+        "importance reason": "The rephrasing introduces new elements regarding the military's control, which could affect reader understanding of the situation.",
+        "literature rationale": "In journalism, precise language is critical for conveying accurate information. Changes in wording can significantly impact the interpretation of power dynamics in political reporting.",
+        "version diff summary": "The wording changed from 'gives them control of all laws' to 'grants them the power to control the prime minister, lawmaking', altering the specifics of military authority.",
+        "overall assessment": "The sentences differ in wording, with significant changes in the description of military powers, which could influence reader interpretation of the military's role."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "After dissolving the Brotherhood-led Parliament elected four months ago, and locking out its lawmakers, the generals on Sunday night also seized control of the process of writing a permanent constitution.",
+        "M2": "After dissolving the Brotherhood-led Parliament elected four months ago, and locking out its lawmakers, the generals on Sunday night also seized control of the process of writing a permanent constitution."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Consistency in reporting is essential for maintaining the integrity of news articles, ensuring that readers receive accurate and reliable information.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no textual differences or changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "State news media reported that the generals had picked a 100-member panel to draft it.",
+        "M2": "State news media reported that the generals had picked a 100-member panel to draft it."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility and trustworthiness. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no textual differences or changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“The new constitutional declaration completed Egypt’s official transformation into a military dictatorship,” Hossam Bahgat, director of the Egyptian Initiative for Personal Rights, wrote in an online commentary.",
+        "M2": "“The new constitutional declaration completed Egypt’s official transformation into a military dictatorship,” Hossam Bahgat, director of the Egyptian Initiative for Personal Rights, wrote in an online commentary."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "Consistency in reporting is essential for maintaining the integrity of news articles, ensuring that readers receive accurate and reliable information.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no textual differences or changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Under the military’s charter, the president appeared to be reduced to a powerless figurehead.",
+        "M2": "Under the military’s charter, the president appeared to be reduced to a powerless figurehead."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility and trustworthiness. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no textual differences or changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Though final results were not available, Brotherhood supporters called the apparent victory by their candidate, Mohamed Morsi, a rebuke to the military’s power grab.",
+        "M2": "Though final results were not available, Brotherhood supporters called the apparent victory by their candidate, Mohamed Morsi, a rebuke to the military’s power grab."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility and trustworthiness. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no textual differences or changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“Down, down with military rule!” a crowd at Mr. Morsi’s campaign headquarters chanted as he prepared to give a victory speech shortly after 4 a.m. Monday.",
+        "M2": "“Down, down with military rule!” a crowd at Mr. Morsi’s campaign headquarters chanted as he prepared to give a victory speech shortly after 4 a.m. Monday."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility and trustworthiness. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no textual differences or changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Mr. Morsi thanked God, who, he said, “guided Egypt to this straight path, the path of freedom and democracy.”",
+        "M2": "Mr. Morsi thanked God, who, he said, “guided Egypt to this straight path, the path of freedom and democracy.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility and trustworthiness. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no textual differences or changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "He pledged to represent all Egyptians, including those who had voted against him.",
+        "M2": "He pledged to represent all Egyptians, including those who had voted against him."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility and trustworthiness. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no textual differences or changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "And he made a special profession of support for the rights of members of Egypt’s Coptic Christian minority, many of whom had rallied against him out of fear of the Brotherhood.",
+        "M2": "And he made a special profession of support for the rights of members of Egypt’s Coptic Christian minority, many of whom had rallied against him out of fear of the Brotherhood."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility and trustworthiness. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no textual differences or changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Other Brotherhood leaders had already begun escalating their defiance of the generals in meetings and statements Sunday night.",
+        "M2": "Other Brotherhood leaders had already begun escalating their defiance of the generals in meetings and statements Sunday night."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility and trustworthiness. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no textual differences or changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "After meeting with Gen. Sami Hafez Enan of the military council, the Brotherhood-affiliated speaker of the Parliament, Saad el-Katatni, declared that the military had no authority to dissolve the Parliament or write a constitution.",
+        "M2": "After meeting with Gen. Sami Hafez Enan of the military council, the Brotherhood-affiliated speaker of the Parliament, Saad el-Katatni, declared that the military had no authority to dissolve the Parliament or write a constitution."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility and trustworthiness. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no textual differences or changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "He said a separate 100-member panel picked by the Parliament would begin meeting within hours to write up its own constitution, raising the prospect of competing assemblies.",
+        "M2": "He said a separate 100-member panel picked by the Parliament would begin meeting within hours to write up its own constitution, raising the prospect of competing assemblies."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility and trustworthiness. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no textual differences or changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "And Saad El Hussainy, the leader of the Brotherhood’s parliamentary bloc, said the group’s lawmakers would show up at the Parliament as scheduled on Tuesday morning.",
+        "M2": "And Saad El Hussainy, the leader of the Brotherhood’s parliamentary bloc, said the group’s lawmakers would show up at the Parliament as scheduled on Tuesday morning."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility and trustworthiness. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no textual differences or changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The generals had stationed military and riot police officers to keep the lawmakers out, potentially setting the stage for new clashes in the streets.",
+        "M2": "The generals had stationed military and riot police officers to keep the lawmakers out, potentially setting the stage for new clashes in the streets."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility and trustworthiness. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no textual differences or changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The military’s moves were “a new episode of a complete military coup against the revolution and the popular will,” Mohamed El Beltagy, a leading Brotherhood lawmaker, said in a statement online.",
+        "M2": "The military’s moves were “a new episode of a complete military coup against the revolution and the popular will,” Mohamed El Beltagy, a leading Brotherhood lawmaker, said in a statement online."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility and trustworthiness. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no textual differences or changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The generals have not spoken publicly or explained their actions, which have been announced without fanfare in the official news media.",
+        "M2": "The generals have not spoken publicly or explained their actions, which have been announced without fanfare in the official news media."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility and trustworthiness. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no textual differences or changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "A rushed decision issued Thursday by a Mubarak-appointed court had initially provided at least a legal veneer for the dissolution of the Parliament, but the swift consolidation of power has quickly taken the feel of a counterrevolution in the making.",
+        "M2": "A rushed decision issued Thursday by a Mubarak-appointed court had initially provided at least a legal veneer for the dissolution of the Parliament, but the swift consolidation of power has quickly taken the feel of a counterrevolution in the making."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility and trustworthiness. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no textual differences or changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The military’s charter “really does complete the coup in many obvious ways,” said Nathan Brown, an Egypt expert at George Washington University, in an e-mail message.",
+        "M2": "The military’s charter “really does complete the coup in many obvious ways,” said Nathan Brown, an Egypt expert at George Washington University, in an e-mail message."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility and trustworthiness. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no textual differences or changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "It brings back martial law and protects the military from any public, presidential or parliamentary scrutiny.",
+        "M2": "It brings back martial law and protects the military from any public, presidential or parliamentary scrutiny."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility and trustworthiness. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no textual differences or changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "And it perpetuates the generals’ dominance of the political system.”",
+        "M2": "And it perpetuates the generals’ dominance of the political system.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility and trustworthiness. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no textual differences or changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The presidential runoff had already become a critical battle in a long war between the generals and the Brotherhood, which for six decades constituted the primary opposition.",
+        "M2": "The presidential runoff had already become a critical battle in a long war between the generals and the Brotherhood, which for six decades constituted the primary opposition."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility and trustworthiness. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no textual differences or changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Mr. Morsi, an American-trained engineer who once led the Brotherhood’s small bloc in the Mubarak-dominated Parliament, was up against Ahmed Shafik, a former air force general and Mr. Mubarak’s last prime minister.",
+        "M2": "Mr. Morsi, an American-trained engineer who once led the Brotherhood’s small bloc in the Mubarak-dominated Parliament, was up against Ahmed Shafik, a former air force general and Mr. Mubarak’s last prime minister."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility and trustworthiness. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no textual differences or changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Mr. Shafik campaigned as a new strongman who could restore order and prevent an Islamist takeover, pledging to bring back central elements of the old police state.",
+        "M2": "Mr. Shafik campaigned as a new strongman who could restore order and prevent an Islamist takeover, pledging to bring back central elements of the old police state."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility and trustworthiness. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no textual differences or changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The military’s shutdown of the Parliament has turned the race into something close to a life or death struggle for the Brotherhood.",
+        "M2": "The military’s shutdown of the Parliament has turned the race into something close to a life or death struggle for the Brotherhood."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility and trustworthiness. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no textual differences or changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "It demoralized Egypt’s Islamists and democrats alike, and at the same time energized Mr. Shafik’s supporters.",
+        "M2": "It demoralized Egypt’s Islamists and democrats alike, and at the same time energized Mr. Shafik’s supporters."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility and trustworthiness. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no textual differences or changes in meaning, sentiment, or importance."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "And the sudden possibility that the revolt that defined the Arab Spring could end in a restoration of military-backed autocracy has again captivated the region.",
+        "M2": "And the sudden possibility that the revolt that defined the Arab Spring could end in a restoration of military-backed autocracy has again captivated the region."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - Both sentences are identical.",
+        "importance category": "none",
+        "importance reason": "There are no changes in this sentence.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility and trustworthiness. Identical sentences reinforce the reliability of the information presented.",
+        "version diff summary": "No changes.",
+        "overall assessment": "The sentences are identical, indicating no textual differences or changes in meaning, sentiment, or importance."
+      }
+    }
+  ]
+}

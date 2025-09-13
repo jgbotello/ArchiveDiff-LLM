@@ -1,0 +1,718 @@
+{
+  "pair_index": 0,
+  "n_sentences_old": 24,
+  "n_sentences_new": 27,
+  "metadata_old": {
+    "warc-date": "2012-06-20T03:13:28Z",
+    "warc-record-id": "<urn:uuid:4d350368-2d33-407a-a27f-4c4b40f41972>",
+    "warc-block-digest": "sha1:056231684e6927c5aab165d7c0a852a05af8194e",
+    "warc-target-uri": "https://web.archive.org/web/20120620031328/https://www.nytimes.com/2012/06/20/world/middleeast/mubarak-is-on-life-support-egypt-security-officials-say.html",
+    "content-length": 4087,
+    "url-hash": "714e0d2f6b7837d7eeb0012a724317dd"
+  },
+  "metadata_new": {
+    "warc-date": "2012-06-20T08:19:17Z",
+    "warc-record-id": "<urn:uuid:50cbcb0b-148b-4ff0-a209-246f707af135>",
+    "warc-block-digest": "sha1:09412be0970bb49b4f4434fe655eba8ca6f51c5f",
+    "warc-target-uri": "https://web.archive.org/web/20120620081917/https://www.nytimes.com/2012/06/20/world/middleeast/mubarak-is-on-life-support-egypt-security-officials-say.html",
+    "content-length": 4481,
+    "url-hash": "d4b1244fafee03c294406ebdcb7b7f95"
+  },
+  "items": [
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "CAIRO — Former President Hosni Mubarak ’s health deteriorated rapidly and he was rushed to a military hospital on Tuesday, adding to the uncertainty gripping the nation as the ousted strongman’s longtime opponents, the Muslim Brotherhood, battled his one-time allies in the military for political power.",
+        "M2": "CAIRO — Former President Hosni Mubarak ’s health deteriorated rapidly and he was rushed to a military hospital on Tuesday, adding to the uncertainty gripping the nation as the ousted strongman’s longtime opponents, the Muslim Brotherhood , battled his onetime allies in the military for political power."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No significant change in meaning or context.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical in meaning and context.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility. Minor textual differences that do not alter meaning are often not significant in the context of news reporting.",
+        "version diff summary": "No changes detected.",
+        "overall assessment": "The sentences are identical, with no changes in meaning, sentiment, or grammatical structure, indicating no importance in the change."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "There were conflicting reports about Mr. Mubarak’s condition.",
+        "M2": "There were conflicting reports about Mr. Mubarak’s condition."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No significant change in meaning or context.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical in meaning and context.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility. Minor textual differences that do not alter meaning are often not significant in the context of news reporting.",
+        "version diff summary": "No changes detected.",
+        "overall assessment": "The sentences are identical, with no changes in meaning, sentiment, or grammatical structure, indicating no importance in the change."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Government officials and the state news agency initially said that Mr. Mubarak, 84, had suffered a stroke in prison and had been declared “clinically dead” after being taken to a military hospital overlooking the Nile.",
+        "M2": "Government officials and the state news agency initially said that Mr. Mubarak, 84, had suffered cardiac arrest and a stroke in prison and had been declared “clinically dead” after being taken to a military hospital overlooking the Nile."
+      },
+      "assessment": {
+        "textual differences": "yes",
+        "POS category changed": [
+          "NOUN"
+        ],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - The change from 'stroke' to 'cardiac arrest and a stroke' adds specificity to Mr. Mubarak's medical condition.",
+        "importance category": "medical detail",
+        "importance reason": "The addition of 'cardiac arrest' provides a clearer understanding of the severity of Mr. Mubarak's health issues.",
+        "literature rationale": "In health reporting, specificity is crucial for accurate public understanding. Changes in medical terminology can significantly impact the interpretation of a subject's condition.",
+        "version diff summary": "The term 'stroke' was expanded to 'cardiac arrest and a stroke'.",
+        "overall assessment": "The change introduces a more detailed description of Mr. Mubarak's health condition, which is important for understanding the severity of the situation."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Other reports said he was placed on life support.",
+        "M2": "Other reports said he had been placed on life support."
+      },
+      "assessment": {
+        "textual differences": "yes",
+        "POS category changed": [
+          "VERB"
+        ],
+        "NER category changed": [],
+        "grammar change": "yes",
+        "verbal changes": [
+          "tense"
+        ],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The change in tense does not affect the overall meaning.",
+        "importance category": "tense change",
+        "importance reason": "The change from simple past to past perfect tense does not alter the meaning but reflects a different temporal perspective.",
+        "literature rationale": "In journalism, tense consistency is important for clarity. However, minor tense changes that do not affect meaning are often not significant.",
+        "version diff summary": "The verb tense changed from simple past to past perfect.",
+        "overall assessment": "The change in tense does not significantly alter the meaning or sentiment of the sentence, indicating a minor adjustment."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "But by early Wednesday, an Interior Ministry spokesman said he was in critical condition but alive.",
+        "M2": "But by early Wednesday, an Interior Ministry spokesman said he was in critical condition but alive."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No significant change in meaning or context.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical in meaning and context.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility. Minor textual differences that do not alter meaning are often not significant in the context of news reporting.",
+        "version diff summary": "No changes detected.",
+        "overall assessment": "The sentences are identical, with no changes in meaning, sentiment, or grammatical structure, indicating no importance in the change."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "He had been in a prison medical ward since he was given a life sentence in connection with the killing of demonstrators during the 18 days of protest that ended his rule.",
+        "M2": "Mr. Mubarak had been in a prison medical ward since the beginning of the month, when he was given a life sentence in connection with the killing of demonstrators during the 18 days of protests that ended his rule."
+      },
+      "assessment": {
+        "textual differences": "yes",
+        "POS category changed": [
+          "NOUN"
+        ],
+        "NER category changed": [],
+        "grammar change": "yes",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "low",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Important - The addition of 'the beginning of the month' provides temporal context.",
+        "importance category": "temporal anchoring",
+        "importance reason": "The phrase 'the beginning of the month' adds clarity regarding the timeline of events.",
+        "literature rationale": "Temporal anchoring in news reporting is essential for contextualizing events. Providing specific timeframes enhances reader understanding and engagement.",
+        "version diff summary": "The sentence was restructured to include a specific timeframe.",
+        "overall assessment": "The change adds temporal context to Mr. Mubarak's situation, which is important for understanding the timeline of events."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The news of Mr. Mubarak’s failing health spread quickly through Tahrir Square, the birthplace of the uprising, where tens of thousands of demonstrators were protesting against the military council that is governing Egypt.",
+        "M2": "The news of his failing health spread quickly through Tahrir Square, the birthplace of the uprising, where tens of thousands of people were protesting the military council governing Egypt."
+      },
+      "assessment": {
+        "textual differences": "yes",
+        "POS category changed": [
+          "NOUN"
+        ],
+        "NER category changed": [],
+        "grammar change": "yes",
+        "verbal changes": [],
+        "rewritten": true,
+        "semantic impact": "low",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The changes are stylistic and do not affect the overall meaning.",
+        "importance category": "stylistic change",
+        "importance reason": "The change from 'demonstrators' to 'people' is a minor stylistic adjustment that does not alter the meaning.",
+        "literature rationale": "In journalism, stylistic choices can affect readability and engagement but do not always impact the factual content of a report.",
+        "version diff summary": "The term 'demonstrators' was changed to 'people', and 'against' was removed.",
+        "overall assessment": "The changes are stylistic and do not significantly alter the meaning or sentiment of the sentence."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "In recent days, the generals had moved to seize the kind of uncontested authority that the former president wielded during his three decades in power.",
+        "M2": "In recent days, the generals had moved to seize the kind of uncontested authority that the former president wielded during his nearly three decades in power."
+      },
+      "assessment": {
+        "textual differences": "yes",
+        "POS category changed": [
+          "ADJ"
+        ],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The change from 'three decades' to 'nearly three decades' is a minor adjustment.",
+        "importance category": "numerical update",
+        "importance reason": "The change provides a more precise description of the duration of Mr. Mubarak's rule.",
+        "literature rationale": "In reporting, numerical precision can enhance clarity and accuracy, but minor adjustments often do not significantly impact the overall narrative.",
+        "version diff summary": "The phrase 'three decades' was changed to 'nearly three decades'.",
+        "overall assessment": "The change adds slight precision to the description of Mr. Mubarak's time in power but does not significantly alter the overall meaning."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The confusion over his health injected new volatility into the country’s growing political and constitutional crisis, even as the two candidates to replace Mr. Mubarak as president declared themselves the winners of the weekend’s election.",
+        "M2": "The confusion over his health injected new volatility into the country’s growing political and constitutional crisis, even as the two candidates to replace Mr. Mubarak as president both declared themselves the winners of the weekend’s election."
+      },
+      "assessment": {
+        "textual differences": "yes",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The addition of 'both' is a minor stylistic change.",
+        "importance category": "stylistic change",
+        "importance reason": "The word 'both' adds emphasis but does not change the meaning.",
+        "literature rationale": "In journalism, stylistic choices can enhance clarity and engagement but do not always impact the factual content of a report.",
+        "version diff summary": "The word 'both' was added for emphasis.",
+        "overall assessment": "The addition of 'both' is a minor stylistic change that does not significantly alter the meaning or sentiment of the sentence."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Analysts marveled that Mr. Mubarak had lost consciousness at the climactic moment of the struggle over the future of the system he had defined for so long, and just two days after the vote to choose his successor.",
+        "M2": "Analysts marveled that Mr. Mubarak had lost consciousness at the climactic moment of the struggle over the future of the system he had defined for so long, and just two days after the vote to choose his successor."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No significant change in meaning or context.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical in meaning and context.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility. Minor textual differences that do not alter meaning are often not significant in the context of news reporting.",
+        "version diff summary": "No changes detected.",
+        "overall assessment": "The sentences are identical, with no changes in meaning, sentiment, or grammatical structure, indicating no importance in the change."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“It is very Shakespearean,” said Diaa Rashwan, an analyst at Al Ahram Center, a state-financed research institute.",
+        "M2": "“It is very Shakespearean,” said Diaa Rashwan, an analyst at Al Ahram Center, a state-financed research institute."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No significant change in meaning or context.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical in meaning and context.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility. Minor textual differences that do not alter meaning are often not significant in the context of news reporting.",
+        "version diff summary": "No changes detected.",
+        "overall assessment": "The sentences are identical, with no changes in meaning, sentiment, or grammatical structure, indicating no importance in the change."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "On Monday, Mohamed Morsi, a Brotherhood leader, said he had won Egypt’s first competitive presidential election, beating Ahmed Shafik, Mr. Mubarak’s last prime minister, with 52 percent of the vote.",
+        "M2": "On Monday, Mohamed Morsi, a Brotherhood leader, said he had won Egypt’s first competitive presidential election, beating Ahmed Shafik, Mr. Mubarak’s last prime minister, with 52 percent of the vote."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No significant change in meaning or context.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical in meaning and context.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility. Minor textual differences that do not alter meaning are often not significant in the context of news reporting.",
+        "version diff summary": "No changes detected.",
+        "overall assessment": "The sentences are identical, with no changes in meaning, sentiment, or grammatical structure, indicating no importance in the change."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The votes were counted publicly at the polling stations, and Egyptian state news media reported the same count as the Brotherhood.",
+        "M2": "The votes were counted publicly at the polling stations, and Egyptian state news media reported the same count as the Brotherhood."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No significant change in meaning or context.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical in meaning and context.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility. Minor textual differences that do not alter meaning are often not significant in the context of news reporting.",
+        "version diff summary": "No changes detected.",
+        "overall assessment": "The sentences are identical, with no changes in meaning, sentiment, or grammatical structure, indicating no importance in the change."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Official vote results are set to be announced this week, but on Tuesday, Mr. Shafik disputed several of the tallies, including those reported in the state news media, that forecast Mr. Morsi as the winner.",
+        "M2": "Official vote results are expected to be announced this week, but on Tuesday, Mr. Shafik disputed several of the tallies, including those reported in the state news media, that forecast Mr. Morsi as the winner."
+      },
+      "assessment": {
+        "textual differences": "yes",
+        "POS category changed": [
+          "VERB"
+        ],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The change from 'are set to be announced' to 'are expected to be announced' is a minor adjustment.",
+        "importance category": "stylistic change",
+        "importance reason": "The change reflects a slight variation in phrasing without altering the meaning.",
+        "literature rationale": "In journalism, variations in phrasing can enhance readability but do not always impact the factual content of a report.",
+        "version diff summary": "The phrase 'are set to be announced' was changed to 'are expected to be announced'.",
+        "overall assessment": "The change is a minor stylistic adjustment that does not significantly alter the meaning or sentiment of the sentence."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "A spokesman for Mr. Shafik, Ahmad Sarhan, said without explanation that he had won with 51.5 percent of the vote.",
+        "M2": "A spokesman for Mr. Shafik, Ahmad Sarhan, said without explanation that he had won with 51.5 percent of the vote."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No significant change in meaning or context.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical in meaning and context.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility. Minor textual differences that do not alter meaning are often not significant in the context of news reporting.",
+        "version diff summary": "No changes detected.",
+        "overall assessment": "The sentences are identical, with no changes in meaning, sentiment, or grammatical structure, indicating no importance in the change."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "But that announcement seemed another tactic in a battle that began before voters went to the polls.",
+        "M2": "But that announcement seemed another tactic in a battle that began before voters went to the polls."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No significant change in meaning or context.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical in meaning and context.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility. Minor textual differences that do not alter meaning are often not significant in the context of news reporting.",
+        "version diff summary": "No changes detected.",
+        "overall assessment": "The sentences are identical, with no changes in meaning, sentiment, or grammatical structure, indicating no importance in the change."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Last week, the generals dissolved Parliament, which was dominated by the Brotherhood, saying the move was justified because of a decision by a court of judges appointed by Mr. Mubarak.",
+        "M2": "Last week, the generals dissolved Parliament, which was dominated by the Brotherhood, saying the move was justified because of a decision by a court of judges appointed by Mr. Mubarak."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No significant change in meaning or context.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical in meaning and context.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility. Minor textual differences that do not alter meaning are often not significant in the context of news reporting.",
+        "version diff summary": "No changes detected.",
+        "overall assessment": "The sentences are identical, with no changes in meaning, sentiment, or grammatical structure, indicating no importance in the change."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The generals also proceeded to issue their own interim constitution entrenching their power while all but eviscerating the authority of the new president.",
+        "M2": "The generals also proceeded to issue their own interim constitution, entrenching their power while all but eviscerating the authority of the new president."
+      },
+      "assessment": {
+        "textual differences": "yes",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "yes",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The addition of a comma is a minor grammatical adjustment.",
+        "importance category": "punctuation change",
+        "importance reason": "The addition of a comma improves the clarity of the sentence but does not change its meaning.",
+        "literature rationale": "In journalism, punctuation plays a crucial role in clarity and readability. Minor punctuation changes can enhance understanding without altering content.",
+        "version diff summary": "A comma was added for clarity.",
+        "overall assessment": "The addition of a comma is a minor grammatical change that does not significantly alter the meaning or sentiment of the sentence."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The interim constitution also provided the generals and the Mubarak-appointed judiciary broad sway over the drafting of Egypt’s next permanent constitution.",
+        "M2": "The interim constitution also provided the generals and the Mubarak-appointed judiciary with broad sway over the drafting of Egypt’s next permanent constitution."
+      },
+      "assessment": {
+        "textual differences": "yes",
+        "POS category changed": [
+          "ADJ"
+        ],
+        "NER category changed": [],
+        "grammar change": "yes",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "Neutral",
+        "sentiment after": "Neutral",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The addition of 'with' is a minor grammatical adjustment.",
+        "importance category": "grammatical change",
+        "importance reason": "The addition of 'with' clarifies the relationship but does not change the overall meaning.",
+        "literature rationale": "In journalism, grammatical precision is important for clarity. Minor grammatical changes can enhance understanding without altering content.",
+        "version diff summary": "The word 'with' was added to clarify the relationship.",
+        "overall assessment": "The addition of 'with' is a minor grammatical change that does not significantly alter the meaning or sentiment of the sentence."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Former President Jimmy Carter, whose Carter Center monitored the election, said in a statement on Tuesday he was “deeply troubled by the undemocratic turn that Egypt has taken.”",
+        "M2": "Former President Jimmy Carter, whose Carter Center monitored the election, said in a statement on Tuesday he was “deeply troubled by the undemocratic turn that Egypt has taken.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Negative",
+        "sentiment after": "Negative",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No significant change in meaning or context.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical in meaning and context.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility. Minor textual differences that do not alter meaning are often not significant in the context of news reporting.",
+        "version diff summary": "No changes detected.",
+        "overall assessment": "The sentences are identical, with no changes in meaning, sentiment, or grammatical structure, indicating no importance in the change."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The center expressed its “grave concern about the broader political and constitutional context, which calls into question the meaning and purpose of the elections.”",
+        "M2": "The center expressed its “grave concern about the broader political and constitutional context, which calls into question the meaning and purpose of the elections.”"
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Negative",
+        "sentiment after": "Negative",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No significant change in meaning or context.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical in meaning and context.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility. Minor textual differences that do not alter meaning are often not significant in the context of news reporting.",
+        "version diff summary": "No changes detected.",
+        "overall assessment": "The sentences are identical, with no changes in meaning, sentiment, or grammatical structure, indicating no importance in the change."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "Mr. Carter said that in contrast to the first round of voting last month, some international observers had been subjected to “heightened scrutiny and intimidation from military personnel” during last weekend’s vote.",
+        "M2": "Mr. Carter said that in contrast to the first round of voting last month, some international observers had been subjected to “heightened scrutiny and intimidation from military personnel” during last weekend’s vote."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Negative",
+        "sentiment after": "Negative",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No significant change in meaning or context.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical in meaning and context.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility. Minor textual differences that do not alter meaning are often not significant in the context of news reporting.",
+        "version diff summary": "No changes detected.",
+        "overall assessment": "The sentences are identical, with no changes in meaning, sentiment, or grammatical structure, indicating no importance in the change."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "“There was a small but notable pattern of intimidation of Carter Center witnesses,” Mr. Carter said.",
+        "M2": "“There was a small but notable pattern of intimidation of Carter Center witnesses,” Mr. Carter said."
+      },
+      "assessment": {
+        "textual differences": "no",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "NA",
+        "sentiment before": "Negative",
+        "sentiment after": "Negative",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - No significant change in meaning or context.",
+        "importance category": "none",
+        "importance reason": "The sentences are identical in meaning and context.",
+        "literature rationale": "In journalism, maintaining consistency in reporting is crucial for credibility. Minor textual differences that do not alter meaning are often not significant in the context of news reporting.",
+        "version diff summary": "No changes detected.",
+        "overall assessment": "The sentences are identical, with no changes in meaning, sentiment, or grammatical structure, indicating no importance in the change."
+      }
+    },
+    {
+      "type": "match",
+      "sentences": {
+        "M1": "The military filmed observers at several polling places, and in one case an international observer felt coerced to make positive statements about the process.",
+        "M2": "The military filmed observers at several polling places, and one international observer felt coerced to make positive statements about the process."
+      },
+      "assessment": {
+        "textual differences": "yes",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "yes",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "low",
+        "sentiment before": "Negative",
+        "sentiment after": "Negative",
+        "sentiment change direction": "no change",
+        "overall importance of the change": "Not important - The removal of 'and in one case' is a minor adjustment.",
+        "importance category": "stylistic change",
+        "importance reason": "The change simplifies the sentence structure without altering the meaning.",
+        "literature rationale": "In journalism, clarity and conciseness are important. Minor adjustments that enhance readability without changing meaning are often beneficial.",
+        "version diff summary": "The phrase 'and in one case' was removed for conciseness.",
+        "overall assessment": "The change simplifies the sentence structure but does not significantly alter the meaning or sentiment."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "Mr. Carter said he was also concerned about the limitations put on his teams’ ability to monitor the vote and the ballot counting."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [
+          "NOUN"
+        ],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "moderate",
+        "sentiment before": "NA",
+        "sentiment after": "Negative",
+        "sentiment change direction": "more negative",
+        "overall importance of the change": "Important - The addition of this sentence highlights concerns about election monitoring, which is critical for understanding the electoral process.",
+        "importance category": "monitoring concerns",
+        "importance reason": "The new information emphasizes the challenges faced by election monitors, which is vital for assessing the integrity of the electoral process.",
+        "literature rationale": "In election reporting, transparency and monitoring are crucial for credibility. Highlighting concerns about monitoring can significantly impact public perception and trust in the electoral process.",
+        "version diff summary": "A new sentence was added regarding Mr. Carter's concerns about monitoring limitations.",
+        "overall assessment": "The addition of this sentence introduces significant concerns about election monitoring, impacting the overall sentiment and understanding of the electoral process."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "The “restrictions are contrary to the core principles of credible and effective election observation,” he said in the statement."
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [
+          "NOUN"
+        ],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "NA",
+        "sentiment after": "Negative",
+        "sentiment change direction": "more negative",
+        "overall importance of the change": "Important - This addition underscores the fundamental issues with the electoral process, raising serious concerns about its legitimacy.",
+        "importance category": "legitimacy concerns",
+        "importance reason": "The statement directly addresses the integrity of the electoral observation process, which is crucial for public trust in the election results.",
+        "literature rationale": "In journalism, highlighting concerns about electoral integrity is essential for informing the public and maintaining democratic accountability. Such statements can significantly influence public perception and trust.",
+        "version diff summary": "A new sentence was added emphasizing the restrictions on election observation.",
+        "overall assessment": "The addition of this sentence significantly raises concerns about the legitimacy of the electoral process, impacting the overall sentiment and understanding of the situation."
+      }
+    },
+    {
+      "type": "insert",
+      "sentences": {
+        "M1": null,
+        "M2": "“The Carter Center will not witness future elections in such circumstances.”"
+      },
+      "assessment": {
+        "textual differences": "yes (addition)",
+        "POS category changed": [],
+        "NER category changed": [],
+        "grammar change": "no",
+        "verbal changes": [],
+        "rewritten": false,
+        "semantic impact": "high",
+        "sentiment before": "NA",
+        "sentiment after": "Negative",
+        "sentiment change direction": "more negative",
+        "overall importance of the change": "Important - This statement indicates a significant withdrawal of support for the electoral process, which could have major implications for future elections.",
+        "importance category": "withdrawal of support",
+        "importance reason": "The refusal to participate in future elections underlines serious concerns about the electoral process's integrity and credibility.",
+        "literature rationale": "In election reporting, the withdrawal of monitoring organizations can severely impact public trust and the perceived legitimacy of electoral outcomes. Such statements are critical for understanding the broader implications of electoral integrity.",
+        "version diff summary": "A new sentence was added regarding the Carter Center's decision not to witness future elections.",
+        "overall assessment": "The addition of this sentence highlights a significant concern regarding the integrity of the electoral process, impacting the overall sentiment and understanding of the situation."
+      }
+    }
+  ]
+}

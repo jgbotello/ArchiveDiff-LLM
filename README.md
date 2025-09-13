@@ -30,8 +30,7 @@ The research methodology follows a systematic pipeline:
 
 ![Methodology Overview](figures/methodology.png)
 
-
-
+## 📂 Repository Structure
 ```
 ArchiveDiff-LLM/
 ├── Results/ # Plots and aggregated evaluation results

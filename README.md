@@ -31,27 +31,6 @@ The research methodology follows a systematic pipeline:
 ![Methodology Overview](figures/methodology.png)
 
 
-## Repository Structure
-
-ArchiveDiff-LLM/
-├── Results/                   # Plots and aggregated evaluation results
-├── analysis_all_output/       # LLM outputs of memento comparisons
-├── cdx_files/                 # CDX index files from Wayback Machine
-├── dataset/                   # Extracted mementos of news articles
-├── figures/                   # Figures and charts used in the paper
-├── utils/                     # Helper scripts and modules
-├── viewer/                    # HTML viewer for interactive exploration
-│
-├── analysis_all_LLM.py        # Script to run LLM-based analysis
-├── compute_metrics.py         # Script to compute evaluation metrics
-├── count_mementos.py          # Utility to count mementos per article
-├── create_charts.py           # Script to generate plots
-├── memento_retriever.py       # Script to fetch mementos via CDX API
-├── requirements.txt           # Python dependencies
-├── .gitignore                 # Git ignore rules
-├── LICENSE                    # License information
-└── README.md                  # Project documentation
-
 
 
 
